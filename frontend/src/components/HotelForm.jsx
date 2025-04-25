@@ -7,7 +7,7 @@ import {
     FormLabel,
     Heading,
     Input,
-    Select,
+    // {Select},
     Slider,
     SliderTrack,
     SliderFilledTrack,
@@ -17,17 +17,29 @@ import {
     VStack,
     HStack,
   } from '@chakra-ui/react';
+  import { Select as ChakraSelect } from '@chakra-ui/react'; // for regular Chakra dropdowns
+import ReactSelect from 'react-select';     
+
+
   import { useState } from 'react';
+
+  
   
   const HotelForm = ({ onResult }) => {
-    const [formData, setFormData] = useState({
-      location: '',
-      roomType: '',
-      checkIn: 12,
-      checkOut: 10,
-      amenities: [],
-    });
-  
+      const [formData, setFormData] = useState({
+          location: '',
+          roomType: '',
+          checkIn: 12,
+          checkOut: 10,
+          amenities: [],
+        });
+        
+        const handleChange = (field, value) => {
+          setFormData((prev) => ({
+            ...prev,
+            [field]: value,
+          }));
+        };
     const handleSubmit = (e) => {
       e.preventDefault();
       onResult(formData);
@@ -54,7 +66,7 @@ import {
   
             <FormControl isRequired>
               <FormLabel>Room Type</FormLabel>
-              <Select
+              <ChakraSelect
                 placeholder="Select room type"
                 value={formData.roomType}
                 onChange={(e) =>
@@ -64,7 +76,7 @@ import {
                 <option value="Standard">Standard</option>
                 <option value="Deluxe">Deluxe</option>
                 <option value="Suite">Suite</option>
-              </Select>
+              </ChakraSelect>
             </FormControl>
   
             <FormControl>
@@ -104,22 +116,26 @@ import {
             </FormControl>
   
             <FormControl>
-              <FormLabel>Hotel Amenities</FormLabel>
-              <CheckboxGroup
-                value={formData.amenities}
-                onChange={(vals) =>
-                  setFormData({ ...formData, amenities: vals })
-                }
-              >
-                <HStack spacing={4} wrap="wrap">
-                  {['WiFi', 'AC', 'Pool', 'Parking', 'Breakfast'].map((a) => (
-                    <Checkbox key={a} value={a}>
-                      {a}
-                    </Checkbox>
-                  ))}
-                </HStack>
-              </CheckboxGroup>
-            </FormControl>
+  <FormLabel>🛎️ Amenities</FormLabel>
+  <ReactSelect
+    isMulti
+    name="amenities"
+    options={[
+      { value: 'wifi', label: 'Wi-Fi' },
+      { value: 'pool', label: 'Pool' },
+      { value: 'ac', label: 'AC' },
+      { value: 'tv', label: 'TV' },
+      { value: 'parking', label: 'Parking' },
+      { value: 'breakfast', label: 'Breakfast' },
+    ]}
+    placeholder="Select amenities"
+    onChange={(selectedOptions) =>
+      handleChange('amenities', selectedOptions.map((opt) => opt.value))
+    }
+  />
+</FormControl>
+
+
   
             <Button type="submit" colorScheme="blue" size="lg">
               Get Pricing Insight
