@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# VSCode
+.vscode/
+
+# macOS & Linux
+.DS_Store
+*.swp
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+coverage.xml
+
+# MyPy & other linters
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Database (SQLite or local DBs)
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Uvicorn reload files
+*.pid
+
+# Docker
+*.log
+docker-compose.override.yml
