@@ -1,5 +1,9 @@
+# Node modules
+/node_modules
+/frontend/node_modules
+/backend/node_modules
+
 # Logs
-logs
 *.log
 npm-debug.log*
 yarn-debug.log*
@@ -7,18 +11,24 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Build output
+/dist
+/dist-ssr
+/build
+
+# OS-specific files
+.DS_Store
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
+
+# IDE-specific files (Visual Studio, etc.)
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
+
+# Temporary or swap files
 *.sw?
