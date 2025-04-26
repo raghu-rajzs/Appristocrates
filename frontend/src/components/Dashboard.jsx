@@ -2,6 +2,7 @@ import {
     Box,
     Heading,
     Text,
+    Button,
     Stat,
     StatLabel,
     StatNumber,
@@ -16,13 +17,13 @@ import {
   
   ChartJS.register(LineElement, CategoryScale, LinearScale, PointElement);
   
-  const Dashboard = ({ formData }) => {
+  const Dashboard = ({ formData, resultData }) => {
     const mockPriceData = {
-      labels: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+      labels: resultData.trends.map((t) => t.date),
       datasets: [
         {
           label: 'Avg. Price ₹',
-          data: [2000, 2100, 2150, 2200, 2500, 2800, 2600],
+          data: resultData.trends.map((t) => t.price),
           borderColor: '#3182ce',
           backgroundColor: '#90cdf4',
           tension: 0.4,
@@ -30,10 +31,11 @@ import {
       ],
     };
   
-    const mockRecommendation = `Based on current demand in ${formData.location || 'your area'}, consider increasing your room rates by 8% on weekends.`;
+    const recommendation = `Based on demand in ${formData.location}, consider adjusting prices as shown in the trend below.`;
   
-    const minPrice = Math.min(...mockPriceData.datasets[0].data);
-    const maxPrice = Math.max(...mockPriceData.datasets[0].data);
+    const minPrice = Math.min(...resultData.trends.map((t) => t.price));
+    const maxPrice = Math.max(...resultData.trends.map((t) => t.price));
+  
   
     return (
       <Box maxW="900px" mx="auto" mt={10} p={6}>
@@ -52,7 +54,7 @@ import {
           <Card>
             <CardBody>
               <Heading size="sm" mb={2}>Smart Pricing Tip</Heading>
-              <Text>{mockRecommendation}</Text>
+              <Text>{recommendation}</Text>
             </CardBody>
           </Card>
         </SimpleGrid>

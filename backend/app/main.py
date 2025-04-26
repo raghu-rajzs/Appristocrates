@@ -1,10 +1,35 @@
-from fastapi import FastAPI
-from app.api.v1.routes import router as api_router
+from fastapi import FastAPI, Request
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+from typing import List
 
-app = FastAPI(title="My FastAPI App")
+app = FastAPI()
 
-app.include_router(api_router, prefix="/api/v1")
+# CORS config for frontend access
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # or "*" during development
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-@app.get("/")
-async def read_root():
-    return {"message": "Welcome to the FastAPI app with PostgreSQL!"}
+# Input schema
+class HotelRequest(BaseModel):
+    location: str
+    roomType: str
+    checkIn: int
+    checkOut: int
+    amenities: List[str]
+
+@app.post("/estimate")
+async def estimate_price(data: HotelRequest):
+    # Simulate backend logic here
+    return {
+        "price_range": (120, 170),
+        "trends": [
+            {"date": "2025-04-27", "price": 120},
+            {"date": "2025-04-28", "price": 130},
+            {"date": "2025-04-29", "price": 145},
+        ]
+    }

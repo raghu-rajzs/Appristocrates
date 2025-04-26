@@ -3,3 +3,11 @@ uvicorn
 sqlalchemy
 asyncpg
 python-dotenv
+pydantic
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+scikit-learn
+prophet

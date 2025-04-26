@@ -1,26 +1,42 @@
 import { useState } from 'react';
 import HotelForm from './components/HotelForm';
 import Dashboard from './components/Dashboard';
-import { getPricingPrediction } from './api/pricingAPI';
 
 function App() {
   const [formData, setFormData] = useState(null);
-  const [backendData, setBackendData] = useState(null);
+  const [resultData, setResultData] = useState(null);
 
-  const handleResult = async (form) => {
-    setFormData(form);
-    const result = await getPricingPrediction(form);
-    setBackendData(result);
+  const handleFormSubmit = async (data) => {
+    setFormData(data);
+
+    try {
+      const response = await fetch('http://localhost:8000/estimate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      });
+
+      const result = await response.json();
+      setResultData(result);
+    } catch (err) {
+      console.error('Backend error:', err);
+    }
   };
 
+  const handleBack = () => {
+    setResultData(null);
+    setFormData(null);
+  };
+  
+
   return (
-    <div>
-      {!formData || !backendData ? (
-        <HotelForm onResult={handleResult} />
+    <>
+      {!resultData ? (
+        <HotelForm onResult={handleFormSubmit} />
       ) : (
-        <Dashboard formData={formData} backendData={backendData} />
+        <Dashboard formData={formData} resultData={resultData} onBack={handleBack} />
       )}
-    </div>
+    </>
   );
 }
 
