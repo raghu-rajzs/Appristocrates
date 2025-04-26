@@ -71,3 +71,58 @@ async def estimate_price(data: HotelRequest):
     "demand_level": random.randint(30, 95),  # Simulated % demand
     "recommendation": f"Forecasted price for today in {data.location} is ₹{today_forecast}. Adjust based on occupancy and competitor rates."
 }
+
+# import openai
+# import numpy as np
+# import pandas as pd
+# from sklearn.linear_model import LinearRegression
+# from sklearn.model_selection import train_test_split
+# import os
+
+# # Retrieve the API key from the environment variable
+# openai.api_key = os.getenv("OPENAI_API_KEY")
+
+# # Sample historical data (replace with actual data)
+# data = {
+#     'demand_level': [60, 75, 50, 80, 65],
+#     'season': ['low', 'high', 'low', 'high', 'medium'],
+#     'competitor_price': [2000, 2500, 1800, 2700, 2200],
+#     'forecast_price': [2100, 2600, 1900, 2800, 2300],
+#     'actual_price': [2150, 2650, 1950, 2750, 2350]
+# }
+
+# df = pd.DataFrame(data)
+
+# # Feature engineering
+# df['season_high'] = df['season'].apply(lambda x: 1 if x == 'high' else 0)
+# X = df[['demand_level', 'season_high', 'competitor_price', 'forecast_price']]
+# y = df['actual_price']
+
+# # Train a simple linear regression model
+# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# model = LinearRegression()
+# model.fit(X_train, y_train)
+
+# # Function to generate AI-based recommendation
+# def generate_pricing_recommendation(input_data):
+#     # Predict the price using the trained model
+#     predicted_price = model.predict([input_data])[0]
+    
+#     # Generate a detailed explanation using OpenAI's GPT model
+#     explanation_prompt = f"Given the following hotel pricing factors: Demand Level: {input_data[0]}, Season: {'high' if input_data[1] == 1 else 'low'}, Competitor Price: ₹{input_data[2]}, Forecast Price: ₹{input_data[3]}, provide a detailed explanation for the recommended price of ₹{predicted_price:.2f}."
+    
+#     response = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=explanation_prompt,
+#         max_tokens=150
+#     )
+    
+#     explanation = response.choices[0].text.strip()
+#     return predicted_price, explanation
+
+# # Example input data: [demand_level, season_high, competitor_price, forecast_price]
+# input_data = [70, 1, 2400, 2500]
+# recommended_price, explanation = generate_pricing_recommendation(input_data)
+
+# print(f"Recommended Price: ₹{recommended_price:.2f}")
+# print(f"Explanation: {explanation}")
