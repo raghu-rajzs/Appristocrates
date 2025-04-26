@@ -1,0 +1,1201 @@
+Hotel Name,Location,Amenities,Distance from City Center (km),Type of Room,Hotel Star Rating,Customer Rating,Check-in Time,Check-out Time,Day of the Week,Is Public Holiday,Is Tourism Zone,Google Trends Score,Hotel Price (INR)
+Hotel Sapphire 13,Jaipur,"Gym, Pet Friendly, Business Center, Free WiFi, Restaurant",13.22,Deluxe,2,3.2,11:00 AM,2:00 PM,Tuesday,1,0,32,2419
+Hotel Sapphire 92,Hyderabad,"Restaurant, Pool, Airport Shuttle",8.47,Deluxe,3,4.0,1:00 PM,1:00 PM,Friday,1,1,54,3670
+Hotel Moonlight 87,Goa,"Free WiFi, Restaurant, Airport Shuttle, Business Center, Spa",4.55,Presidential Suite,3,4.2,1:00 PM,12:00 PM,Saturday,0,0,69,3705
+Hotel Crimson 79,Goa,"Spa, Airport Shuttle, Pool",17.56,Deluxe,3,4.9,11:00 AM,2:00 PM,Thursday,1,1,84,3730
+Hotel Metro 77,Pune,"Parking, Bar, Free WiFi, Gym",21.92,Standard,2,4.1,12:00 PM,2:00 PM,Wednesday,1,1,23,2658
+Hotel Lagoon 24,Delhi,"Pet Friendly, Gym, Spa, Airport Shuttle, Bar",3.33,Deluxe,4,2.8,11:00 AM,1:00 PM,Saturday,1,0,42,4328
+Hotel Crimson 12,Kolkata,"Bar, Pet Friendly, Spa, Parking",10.92,Standard,3,3.2,1:00 PM,11:00 AM,Sunday,1,1,43,3851
+Hotel Crimson 29,Pune,"Free WiFi, Pet Friendly",19.71,Standard,4,4.5,11:00 AM,2:00 PM,Wednesday,1,0,92,4967
+Hotel Lagoon 18,Bangalore,"Free WiFi, Airport Shuttle, Gym, Spa",16.04,Deluxe,4,3.2,1:00 PM,2:00 PM,Wednesday,0,1,27,4124
+Hotel Oasis 40,Bangalore,"Business Center, Gym, Free WiFi",3.62,Standard,2,3.3,1:00 PM,1:00 PM,Wednesday,0,0,25,2374
+Hotel Lagoon 50,Jaipur,"Parking, Business Center, Gym, Pool, Bar",16.72,Executive,3,2.8,1:00 PM,11:00 AM,Saturday,1,0,39,2782
+Hotel Bliss 97,Delhi,"Restaurant, Free WiFi",7.66,Presidential Suite,2,3.2,2:00 PM,2:00 PM,Tuesday,1,0,99,2170
+Hotel Moonlight 82,Ahmedabad,"Business Center, Airport Shuttle, Spa, Gym, Free WiFi",8.96,Suite,5,4.0,1:00 PM,1:00 PM,Sunday,0,1,60,5981
+Hotel Crimson 65,Ahmedabad,"Gym, Bar, Pet Friendly",1.4,Deluxe,4,2.8,12:00 PM,12:00 PM,Monday,1,1,58,4371
+Hotel Sapphire 39,Delhi,"Spa, Business Center",15.61,Standard,5,4.0,2:00 PM,12:00 PM,Sunday,0,1,82,5227
+Hotel Lagoon 55,Kolkata,"Gym, Pool, Airport Shuttle, Bar",1.51,Suite,4,4.9,2:00 PM,11:00 AM,Monday,0,1,20,4546
+Hotel Vista 43,Goa,"Business Center, Pool, Bar, Parking, Restaurant",7.17,Standard,3,2.7,11:00 AM,12:00 PM,Saturday,0,1,73,3674
+Hotel Horizon 27,Kolkata,"Restaurant, Pet Friendly, Free WiFi, Bar, Spa",2.52,Standard,4,3.5,2:00 PM,12:00 PM,Thursday,0,1,98,4901
+Hotel Lagoon 39,Kolkata,"Free WiFi, Restaurant, Bar, Gym",5.76,Suite,5,3.1,11:00 AM,11:00 AM,Thursday,0,0,25,5925
+Hotel Crimson 46,Hyderabad,"Business Center, Free WiFi, Bar, Parking, Pet Friendly",14.34,Suite,5,3.1,2:00 PM,11:00 AM,Saturday,1,1,37,4903
+Hotel Euphoria 40,Hyderabad,"Pet Friendly, Gym",9.22,Executive,3,3.1,12:00 PM,1:00 PM,Saturday,0,1,73,3260
+Hotel Vista 30,Ahmedabad,"Spa, Free WiFi, Bar",12.7,Deluxe,4,2.6,11:00 AM,12:00 PM,Sunday,1,0,43,4654
+Hotel Regency 28,Bangalore,"Parking, Bar, Restaurant, Gym",3.89,Executive,5,3.1,11:00 AM,12:00 PM,Wednesday,0,1,68,5176
+Hotel Emerald 22,Goa,"Free WiFi, Pool, Parking",23.42,Suite,4,2.7,1:00 PM,12:00 PM,Sunday,1,1,45,4304
+Hotel Heritage 38,Chennai,"Airport Shuttle, Parking, Business Center, Gym, Restaurant",17.0,Presidential Suite,4,3.3,2:00 PM,11:00 AM,Monday,1,0,67,4672
+Hotel Regency 39,Hyderabad,"Gym, Spa, Airport Shuttle",20.42,Standard,4,4.7,2:00 PM,1:00 PM,Saturday,0,1,48,4068
+Hotel Plaza 8,Chennai,"Business Center, Pool, Restaurant",19.88,Executive,4,4.7,1:00 PM,2:00 PM,Thursday,1,1,22,4261
+Hotel Crimson 45,Pune,"Business Center, Parking",19.35,Suite,5,3.9,2:00 PM,11:00 AM,Sunday,1,1,46,5207
+Hotel Regency 36,Kolkata,"Business Center, Restaurant, Gym, Parking",12.06,Deluxe,4,3.1,1:00 PM,12:00 PM,Friday,1,0,24,4709
+Hotel Regency 5,Jaipur,"Spa, Airport Shuttle, Bar",19.51,Deluxe,3,4.8,12:00 PM,11:00 AM,Wednesday,0,1,77,3206
+Hotel Palm 24,Bangalore,"Bar, Restaurant",20.46,Standard,4,3.0,11:00 AM,1:00 PM,Thursday,1,1,38,4068
+Hotel Crimson 87,Jaipur,"Free WiFi, Parking, Restaurant",21.18,Presidential Suite,4,3.1,1:00 PM,11:00 AM,Friday,0,1,97,3736
+Hotel Plaza 83,Delhi,"Gym, Spa, Pool, Pet Friendly",20.26,Suite,5,4.1,1:00 PM,11:00 AM,Wednesday,0,1,79,5455
+Hotel Palm 17,Jaipur,"Free WiFi, Airport Shuttle, Gym, Pet Friendly",18.17,Executive,5,4.4,1:00 PM,11:00 AM,Thursday,1,0,76,5530
+Hotel Palm 54,Jaipur,"Pet Friendly, Free WiFi, Airport Shuttle",0.72,Executive,4,2.5,12:00 PM,12:00 PM,Friday,0,0,24,4493
+Hotel Sunrise 97,Delhi,"Parking, Pool",20.69,Presidential Suite,3,4.2,1:00 PM,2:00 PM,Wednesday,1,1,22,2986
+Hotel Sunrise 4,Jaipur,"Bar, Spa",0.54,Deluxe,4,4.6,12:00 PM,12:00 PM,Saturday,1,0,31,4472
+Hotel Metro 72,Ahmedabad,"Pool, Gym",9.96,Suite,2,2.9,12:00 PM,2:00 PM,Saturday,0,1,44,2190
+Hotel Emerald 34,Hyderabad,"Gym, Pet Friendly, Restaurant",14.4,Executive,4,3.9,1:00 PM,1:00 PM,Tuesday,1,0,22,4376
+Hotel Horizon 13,Pune,"Restaurant, Spa, Pet Friendly, Pool, Parking",5.59,Executive,5,4.4,1:00 PM,12:00 PM,Thursday,0,1,45,5351
+Hotel Moonlight 46,Pune,"Bar, Airport Shuttle",9.3,Suite,3,4.4,12:00 PM,2:00 PM,Saturday,1,0,31,3331
+Hotel Horizon 4,Hyderabad,"Spa, Bar, Business Center",6.72,Deluxe,2,2.9,2:00 PM,11:00 AM,Friday,0,0,22,2665
+Hotel Vista 93,Hyderabad,"Bar, Airport Shuttle, Free WiFi, Parking",18.99,Presidential Suite,2,3.1,2:00 PM,1:00 PM,Friday,0,0,94,2692
+Hotel Grand 96,Jaipur,"Parking, Airport Shuttle, Pool, Business Center, Free WiFi",20.68,Suite,5,3.5,12:00 PM,11:00 AM,Wednesday,0,1,68,5675
+Hotel Serenity 87,Ahmedabad,"Business Center, Bar, Airport Shuttle, Parking, Gym",17.25,Deluxe,5,3.5,1:00 PM,1:00 PM,Sunday,1,0,99,5619
+Hotel Grand 14,Ahmedabad,"Bar, Airport Shuttle, Pet Friendly, Gym, Parking",23.74,Suite,4,4.8,1:00 PM,1:00 PM,Thursday,1,1,75,4645
+Hotel Metro 81,Ahmedabad,"Pet Friendly, Restaurant",5.06,Presidential Suite,2,4.4,11:00 AM,2:00 PM,Wednesday,0,0,71,2399
+Hotel Lagoon 43,Kolkata,"Bar, Gym",5.36,Deluxe,3,3.0,11:00 AM,2:00 PM,Tuesday,1,0,83,3107
+Hotel Regency 70,Kolkata,"Airport Shuttle, Gym",7.73,Standard,3,4.4,11:00 AM,12:00 PM,Tuesday,0,0,55,4003
+Hotel Grand 55,Delhi,"Free WiFi, Bar",24.22,Presidential Suite,5,3.6,11:00 AM,2:00 PM,Friday,0,0,26,5375
+Hotel Serenity 13,Hyderabad,"Airport Shuttle, Gym, Free WiFi",5.89,Suite,5,2.9,2:00 PM,12:00 PM,Monday,1,0,65,5679
+Hotel Sunrise 36,Ahmedabad,"Gym, Pet Friendly, Free WiFi, Airport Shuttle, Business Center",15.76,Standard,5,3.3,12:00 PM,2:00 PM,Wednesday,0,1,47,5817
+Hotel Regency 84,Ahmedabad,"Free WiFi, Spa",15.78,Presidential Suite,3,4.9,11:00 AM,12:00 PM,Sunday,0,0,57,3185
+Hotel Heritage 81,Kolkata,"Pet Friendly, Free WiFi",2.58,Executive,3,3.4,11:00 AM,2:00 PM,Tuesday,1,0,88,3922
+Hotel Lagoon 78,Bangalore,"Business Center, Spa",21.6,Standard,5,3.3,2:00 PM,1:00 PM,Wednesday,0,0,81,5351
+Hotel Royal 94,Bangalore,"Business Center, Gym, Pet Friendly, Airport Shuttle",12.26,Executive,3,4.0,2:00 PM,1:00 PM,Monday,0,1,98,3325
+Hotel Crimson 6,Delhi,"Business Center, Airport Shuttle",8.69,Standard,4,4.8,12:00 PM,1:00 PM,Thursday,1,0,93,4784
+Hotel Palm 53,Delhi,"Pet Friendly, Airport Shuttle, Parking, Gym, Pool",23.54,Deluxe,2,2.9,1:00 PM,2:00 PM,Wednesday,0,0,25,2431
+Hotel Moonlight 56,Delhi,"Pet Friendly, Parking, Pool",3.57,Suite,4,3.4,11:00 AM,11:00 AM,Thursday,0,0,43,4898
+Hotel Lagoon 81,Kolkata,"Business Center, Airport Shuttle",22.43,Presidential Suite,4,3.0,1:00 PM,1:00 PM,Sunday,0,1,37,4548
+Hotel Sunrise 67,Pune,"Free WiFi, Pool, Gym, Restaurant",20.35,Deluxe,2,4.9,2:00 PM,11:00 AM,Tuesday,0,1,22,2695
+Hotel Crimson 10,Hyderabad,"Pool, Bar",15.32,Presidential Suite,2,4.7,11:00 AM,2:00 PM,Monday,0,0,42,2284
+Hotel Vista 56,Jaipur,"Pool, Business Center, Restaurant, Gym, Free WiFi",19.26,Executive,4,5.0,2:00 PM,12:00 PM,Sunday,1,0,74,4337
+Hotel Bliss 19,Jaipur,"Pool, Parking, Bar, Pet Friendly, Free WiFi",10.8,Suite,2,3.1,11:00 AM,11:00 AM,Friday,0,1,80,1979
+Hotel Sapphire 45,Mumbai,"Spa, Business Center, Parking, Pet Friendly, Gym",17.86,Suite,3,4.2,2:00 PM,1:00 PM,Monday,1,1,25,3750
+Hotel Regency 54,Pune,"Business Center, Pet Friendly, Free WiFi, Bar",16.9,Standard,3,4.6,12:00 PM,1:00 PM,Thursday,0,0,85,3927
+Hotel Sapphire 83,Bangalore,"Bar, Parking, Airport Shuttle, Pool",19.22,Standard,5,3.4,1:00 PM,11:00 AM,Saturday,0,1,57,5287
+Hotel Moonlight 21,Chennai,"Pet Friendly, Bar, Spa, Free WiFi",4.07,Standard,2,3.2,1:00 PM,12:00 PM,Sunday,0,0,76,2983
+Hotel Regency 69,Chennai,"Parking, Business Center, Spa, Airport Shuttle, Gym",1.51,Standard,5,4.0,11:00 AM,2:00 PM,Friday,1,1,21,5464
+Hotel Emerald 87,Pune,"Pet Friendly, Airport Shuttle",24.43,Deluxe,4,2.7,2:00 PM,1:00 PM,Wednesday,0,0,100,4357
+Hotel Palm 65,Ahmedabad,"Pool, Pet Friendly, Free WiFi, Business Center",15.24,Suite,3,3.5,1:00 PM,1:00 PM,Thursday,0,1,83,3548
+Hotel Magnolia 81,Chennai,"Pool, Restaurant, Airport Shuttle, Gym, Pet Friendly",8.9,Presidential Suite,3,3.6,2:00 PM,11:00 AM,Sunday,1,1,28,3058
+Hotel Vista 82,Mumbai,"Pet Friendly, Business Center",23.14,Presidential Suite,5,3.7,11:00 AM,11:00 AM,Tuesday,0,0,42,5504
+Hotel Royal 94,Kolkata,"Business Center, Parking, Spa, Gym, Free WiFi",17.51,Executive,5,4.5,2:00 PM,1:00 PM,Friday,0,0,100,5945
+Hotel Moonlight 32,Delhi,"Business Center, Free WiFi, Restaurant",6.54,Standard,3,4.3,1:00 PM,1:00 PM,Thursday,1,0,37,3764
+Hotel Serenity 95,Kolkata,"Spa, Pet Friendly",23.06,Deluxe,4,4.3,1:00 PM,2:00 PM,Tuesday,0,0,59,4884
+Hotel Serenity 63,Chennai,"Gym, Free WiFi, Restaurant, Pool",11.91,Presidential Suite,4,2.8,2:00 PM,11:00 AM,Friday,0,0,62,4673
+Hotel Plaza 95,Pune,"Business Center, Restaurant, Pool, Gym, Spa",24.98,Standard,5,3.0,2:00 PM,2:00 PM,Tuesday,0,0,45,4623
+Hotel Vista 65,Delhi,"Gym, Restaurant, Spa, Airport Shuttle",13.06,Suite,5,2.9,12:00 PM,12:00 PM,Sunday,0,0,50,5272
+Hotel Sapphire 11,Ahmedabad,"Pet Friendly, Free WiFi, Spa, Bar, Business Center",21.13,Deluxe,3,3.8,11:00 AM,12:00 PM,Monday,0,1,37,3509
+Hotel Royal 95,Goa,"Free WiFi, Bar, Gym, Airport Shuttle",15.84,Standard,5,4.4,2:00 PM,2:00 PM,Saturday,0,0,94,5588
+Hotel Moonlight 8,Mumbai,"Pet Friendly, Pool, Airport Shuttle, Free WiFi",8.55,Executive,5,3.0,2:00 PM,11:00 AM,Thursday,0,1,66,5697
+Hotel Serenity 46,Ahmedabad,"Business Center, Bar, Pet Friendly",24.85,Executive,3,3.9,1:00 PM,2:00 PM,Sunday,1,0,87,3295
+Hotel Palm 16,Goa,"Pet Friendly, Business Center, Airport Shuttle, Pool, Parking",20.81,Presidential Suite,2,3.0,12:00 PM,11:00 AM,Sunday,1,1,49,1915
+Hotel Vista 74,Chennai,"Pool, Airport Shuttle",7.28,Deluxe,5,2.6,12:00 PM,2:00 PM,Tuesday,0,0,61,5471
+Hotel Lagoon 83,Bangalore,"Business Center, Airport Shuttle, Pool",4.48,Suite,5,3.3,2:00 PM,2:00 PM,Tuesday,0,0,45,5134
+Hotel Sunrise 1,Delhi,"Gym, Restaurant",10.34,Deluxe,3,2.6,12:00 PM,12:00 PM,Sunday,1,0,56,3310
+Hotel Vista 31,Bangalore,"Pet Friendly, Restaurant, Airport Shuttle",20.28,Suite,3,3.6,2:00 PM,2:00 PM,Sunday,0,0,80,3796
+Hotel Crimson 63,Mumbai,"Airport Shuttle, Business Center, Parking, Gym, Bar",4.03,Standard,2,5.0,11:00 AM,12:00 PM,Monday,1,0,83,3312
+Hotel Crimson 45,Mumbai,"Airport Shuttle, Pool, Free WiFi",24.32,Standard,3,4.5,1:00 PM,11:00 AM,Wednesday,0,0,97,3859
+Hotel Sapphire 44,Pune,"Restaurant, Pet Friendly, Parking, Business Center",12.97,Executive,2,2.8,2:00 PM,1:00 PM,Tuesday,0,1,69,2125
+Hotel Moonlight 8,Pune,"Pool, Restaurant",20.18,Standard,2,3.3,11:00 AM,1:00 PM,Sunday,0,0,43,1989
+Hotel Oasis 64,Mumbai,"Gym, Airport Shuttle",14.12,Executive,4,4.5,1:00 PM,12:00 PM,Wednesday,1,0,58,4220
+Hotel Moonlight 90,Jaipur,"Airport Shuttle, Pet Friendly, Free WiFi",7.16,Standard,5,2.9,12:00 PM,11:00 AM,Tuesday,1,1,99,5002
+Hotel Euphoria 87,Mumbai,"Gym, Spa, Pet Friendly, Airport Shuttle",24.34,Suite,4,2.8,12:00 PM,1:00 PM,Wednesday,0,0,34,4297
+Hotel Royal 94,Bangalore,"Spa, Business Center, Restaurant",15.86,Deluxe,2,4.3,1:00 PM,1:00 PM,Saturday,0,1,31,2945
+Hotel Magnolia 28,Pune,"Bar, Parking",18.45,Suite,5,2.7,12:00 PM,12:00 PM,Thursday,1,1,82,5640
+Hotel Bliss 39,Chennai,"Pool, Free WiFi, Bar, Airport Shuttle, Business Center",8.58,Executive,3,3.9,1:00 PM,1:00 PM,Sunday,0,0,45,4079
+Hotel Metro 5,Pune,"Gym, Pet Friendly, Free WiFi, Parking",20.58,Deluxe,3,4.4,1:00 PM,11:00 AM,Wednesday,0,0,49,3801
+Hotel Sunrise 9,Mumbai,"Pool, Parking, Spa, Gym, Business Center",13.25,Executive,5,3.1,11:00 AM,11:00 AM,Wednesday,1,0,85,4968
+Hotel Serenity 56,Jaipur,"Pool, Free WiFi, Spa, Restaurant",13.33,Presidential Suite,3,2.6,12:00 PM,1:00 PM,Friday,0,0,84,3365
+Hotel Palm 27,Kolkata,"Parking, Free WiFi",16.87,Standard,2,2.8,12:00 PM,11:00 AM,Tuesday,0,1,87,1863
+Hotel Palm 14,Ahmedabad,"Free WiFi, Business Center",6.45,Presidential Suite,5,4.9,11:00 AM,2:00 PM,Sunday,1,1,48,6330
+Hotel Serenity 40,Bangalore,"Parking, Pool",5.38,Suite,3,4.2,12:00 PM,11:00 AM,Friday,1,1,80,4069
+Hotel Serenity 14,Ahmedabad,"Bar, Parking",21.47,Presidential Suite,4,5.0,12:00 PM,12:00 PM,Thursday,0,0,99,4890
+Hotel Sunrise 9,Ahmedabad,"Parking, Pet Friendly, Business Center",14.37,Executive,5,4.5,1:00 PM,1:00 PM,Wednesday,1,0,47,5811
+Hotel Regency 64,Goa,"Airport Shuttle, Bar, Gym",7.47,Standard,5,4.7,1:00 PM,2:00 PM,Tuesday,0,0,47,5980
+Hotel Crimson 2,Mumbai,"Parking, Business Center, Pet Friendly",8.83,Deluxe,4,3.9,1:00 PM,12:00 PM,Friday,1,1,82,4509
+Hotel Sapphire 84,Goa,"Gym, Parking",4.04,Suite,2,3.8,12:00 PM,11:00 AM,Thursday,0,1,24,2796
+Hotel Crimson 12,Chennai,"Restaurant, Airport Shuttle, Business Center, Parking, Pet Friendly",23.6,Executive,2,4.3,11:00 AM,12:00 PM,Monday,1,0,65,2793
+Hotel Royal 53,Bangalore,"Pet Friendly, Pool",3.65,Executive,4,2.7,1:00 PM,2:00 PM,Friday,1,1,21,4813
+Hotel Regency 55,Hyderabad,"Gym, Restaurant, Spa",16.16,Deluxe,2,4.3,2:00 PM,12:00 PM,Friday,0,0,75,2506
+Hotel Oasis 35,Hyderabad,"Bar, Pet Friendly, Gym, Airport Shuttle, Pool",20.9,Executive,2,3.3,1:00 PM,12:00 PM,Thursday,1,0,81,2645
+Hotel Magnolia 88,Kolkata,"Airport Shuttle, Pool, Free WiFi, Pet Friendly",18.18,Presidential Suite,4,4.3,2:00 PM,11:00 AM,Monday,0,1,20,4404
+Hotel Sunrise 29,Mumbai,"Pool, Business Center, Parking, Restaurant",21.19,Presidential Suite,4,3.3,2:00 PM,2:00 PM,Friday,0,1,26,3852
+Hotel Sunrise 46,Delhi,"Pet Friendly, Free WiFi, Parking",8.22,Standard,5,4.9,2:00 PM,12:00 PM,Friday,0,0,31,5647
+Hotel Emerald 40,Jaipur,"Bar, Free WiFi",14.68,Suite,4,3.7,11:00 AM,12:00 PM,Wednesday,1,0,83,4113
+Hotel Sunrise 12,Jaipur,"Pet Friendly, Pool",15.16,Executive,2,2.7,2:00 PM,1:00 PM,Sunday,0,1,72,1867
+Hotel Palm 10,Kolkata,"Bar, Business Center",12.7,Suite,2,4.8,11:00 AM,11:00 AM,Thursday,1,0,34,2849
+Hotel Horizon 52,Pune,"Parking, Free WiFi, Pet Friendly, Spa",15.81,Standard,3,2.7,11:00 AM,1:00 PM,Thursday,0,0,74,2772
+Hotel Horizon 16,Hyderabad,"Restaurant, Pet Friendly, Pool",14.61,Presidential Suite,2,2.7,11:00 AM,1:00 PM,Wednesday,1,0,44,2096
+Hotel Euphoria 76,Hyderabad,"Pet Friendly, Pool, Restaurant",4.39,Deluxe,3,3.0,1:00 PM,2:00 PM,Sunday,0,1,99,3972
+Hotel Euphoria 96,Kolkata,"Pet Friendly, Airport Shuttle, Pool, Free WiFi",6.15,Executive,3,3.3,2:00 PM,11:00 AM,Monday,0,1,38,3106
+Hotel Royal 12,Goa,"Pool, Parking, Restaurant, Business Center",8.39,Suite,4,2.7,2:00 PM,11:00 AM,Sunday,0,1,41,4813
+Hotel Plaza 7,Pune,"Free WiFi, Spa, Bar, Pet Friendly, Pool",14.09,Executive,4,3.7,12:00 PM,12:00 PM,Wednesday,1,0,72,4569
+Hotel Horizon 80,Hyderabad,"Spa, Free WiFi, Restaurant, Bar",1.16,Suite,4,2.6,1:00 PM,12:00 PM,Friday,0,0,36,4672
+Hotel Bliss 72,Hyderabad,"Bar, Parking, Restaurant, Airport Shuttle",8.18,Deluxe,3,3.0,1:00 PM,2:00 PM,Saturday,0,0,28,3035
+Hotel Sapphire 47,Jaipur,"Spa, Airport Shuttle, Pet Friendly, Free WiFi",19.99,Presidential Suite,4,4.5,1:00 PM,12:00 PM,Friday,0,0,73,4080
+Hotel Euphoria 98,Jaipur,"Restaurant, Gym, Business Center, Spa",19.58,Executive,3,2.5,2:00 PM,1:00 PM,Monday,1,0,54,3115
+Hotel Palm 44,Ahmedabad,"Spa, Airport Shuttle, Pet Friendly",21.92,Suite,4,4.5,1:00 PM,11:00 AM,Monday,1,0,24,4043
+Hotel Royal 22,Kolkata,"Restaurant, Pool, Pet Friendly, Spa",20.71,Standard,3,3.8,2:00 PM,12:00 PM,Wednesday,0,1,79,3349
+Hotel Metro 66,Ahmedabad,"Airport Shuttle, Pool, Parking, Spa, Free WiFi",12.39,Suite,3,2.7,1:00 PM,12:00 PM,Monday,0,1,79,3660
+Hotel Palm 87,Kolkata,"Restaurant, Parking",8.62,Standard,3,4.3,1:00 PM,2:00 PM,Monday,0,0,88,3889
+Hotel Magnolia 84,Hyderabad,"Free WiFi, Business Center",4.55,Deluxe,4,3.3,1:00 PM,2:00 PM,Friday,0,1,85,4425
+Hotel Vista 31,Mumbai,"Pool, Gym, Airport Shuttle, Business Center, Spa",5.42,Suite,5,4.1,1:00 PM,12:00 PM,Sunday,0,1,79,5614
+Hotel Sapphire 89,Chennai,"Pool, Restaurant, Spa, Gym, Airport Shuttle",17.31,Standard,4,3.2,11:00 AM,12:00 PM,Friday,0,0,98,3843
+Hotel Euphoria 1,Mumbai,"Pet Friendly, Restaurant, Parking, Spa",23.69,Standard,5,4.0,2:00 PM,2:00 PM,Monday,0,0,67,5574
+Hotel Plaza 57,Goa,"Restaurant, Business Center, Bar, Free WiFi, Gym",15.19,Deluxe,4,4.7,11:00 AM,11:00 AM,Wednesday,0,1,36,4573
+Hotel Regency 68,Delhi,"Free WiFi, Parking, Spa",9.26,Executive,3,2.7,1:00 PM,12:00 PM,Thursday,1,1,92,3723
+Hotel Vista 3,Pune,"Airport Shuttle, Bar, Pool, Parking",11.12,Standard,2,4.5,1:00 PM,1:00 PM,Saturday,1,0,89,2346
+Hotel Sunrise 52,Goa,"Airport Shuttle, Pet Friendly",14.58,Executive,4,4.0,11:00 AM,12:00 PM,Tuesday,0,0,23,4219
+Hotel Regency 4,Goa,"Restaurant, Free WiFi, Spa, Bar",14.91,Executive,3,4.0,11:00 AM,12:00 PM,Saturday,1,0,71,3900
+Hotel Serenity 1,Chennai,"Pet Friendly, Restaurant, Spa",18.79,Suite,2,3.2,11:00 AM,2:00 PM,Wednesday,0,1,70,2367
+Hotel Royal 31,Bangalore,"Parking, Airport Shuttle, Gym",0.79,Suite,4,4.2,1:00 PM,2:00 PM,Friday,0,1,77,4903
+Hotel Lagoon 99,Pune,"Bar, Free WiFi, Gym, Parking, Pool",8.46,Suite,3,3.6,1:00 PM,2:00 PM,Monday,0,0,95,3449
+Hotel Heritage 51,Ahmedabad,"Gym, Airport Shuttle",1.6,Suite,3,2.7,12:00 PM,12:00 PM,Saturday,0,0,80,3714
+Hotel Sapphire 83,Chennai,"Free WiFi, Gym",15.11,Presidential Suite,2,2.5,2:00 PM,11:00 AM,Monday,0,0,92,1722
+Hotel Grand 64,Delhi,"Business Center, Restaurant, Bar, Free WiFi",18.23,Executive,4,2.6,2:00 PM,11:00 AM,Friday,0,0,20,4352
+Hotel Vista 27,Goa,"Parking, Pet Friendly",9.1,Standard,2,3.4,2:00 PM,1:00 PM,Saturday,1,1,76,2829
+Hotel Palm 9,Ahmedabad,"Bar, Gym",14.76,Suite,2,4.5,11:00 AM,2:00 PM,Sunday,1,0,43,2609
+Hotel Lagoon 5,Pune,"Gym, Airport Shuttle, Spa, Pool, Pet Friendly",7.98,Deluxe,2,4.2,12:00 PM,1:00 PM,Sunday,0,1,50,2695
+Hotel Heritage 27,Hyderabad,"Airport Shuttle, Gym, Business Center, Pet Friendly",5.59,Standard,4,4.7,2:00 PM,2:00 PM,Tuesday,1,1,22,5079
+Hotel Palm 36,Mumbai,"Pet Friendly, Spa, Parking, Business Center",20.56,Presidential Suite,5,4.0,11:00 AM,2:00 PM,Monday,0,1,61,5752
+Hotel Magnolia 77,Goa,"Parking, Free WiFi",5.18,Executive,4,3.3,12:00 PM,11:00 AM,Thursday,1,1,61,4745
+Hotel Emerald 83,Mumbai,"Restaurant, Business Center, Bar",5.12,Standard,5,2.6,11:00 AM,11:00 AM,Sunday,1,0,55,5421
+Hotel Sapphire 86,Pune,"Pet Friendly, Airport Shuttle, Bar, Parking, Pool",22.52,Standard,2,3.6,2:00 PM,11:00 AM,Friday,1,0,57,2119
+Hotel Regency 7,Mumbai,"Gym, Parking, Pet Friendly, Bar, Pool",2.92,Deluxe,2,3.1,12:00 PM,2:00 PM,Tuesday,0,0,75,2557
+Hotel Palm 66,Pune,"Parking, Business Center, Gym, Restaurant, Pool",1.98,Presidential Suite,4,2.5,11:00 AM,11:00 AM,Saturday,1,0,46,4738
+Hotel Moonlight 27,Mumbai,"Business Center, Parking",2.47,Deluxe,2,4.4,2:00 PM,2:00 PM,Wednesday,1,0,51,3045
+Hotel Lagoon 65,Pune,"Gym, Bar",23.5,Standard,4,3.5,11:00 AM,12:00 PM,Saturday,0,1,57,4116
+Hotel Emerald 37,Hyderabad,"Gym, Pet Friendly",14.66,Suite,4,2.8,2:00 PM,2:00 PM,Thursday,1,0,48,4258
+Hotel Sapphire 97,Kolkata,"Pet Friendly, Restaurant, Free WiFi",14.53,Standard,2,4.7,12:00 PM,1:00 PM,Thursday,1,0,98,2442
+Hotel Royal 6,Kolkata,"Gym, Bar, Restaurant, Free WiFi, Pet Friendly",7.61,Standard,5,2.8,2:00 PM,11:00 AM,Tuesday,1,0,73,5379
+Hotel Bliss 20,Hyderabad,"Parking, Free WiFi, Restaurant",4.96,Suite,5,3.8,2:00 PM,1:00 PM,Saturday,1,0,33,5803
+Hotel Grand 14,Hyderabad,"Gym, Free WiFi, Pool, Business Center",20.05,Presidential Suite,3,3.5,2:00 PM,1:00 PM,Friday,0,0,63,3196
+Hotel Royal 57,Pune,"Free WiFi, Spa, Gym, Pet Friendly, Business Center",19.83,Presidential Suite,4,3.2,2:00 PM,2:00 PM,Saturday,0,0,26,3967
+Hotel Lagoon 77,Jaipur,"Pool, Pet Friendly",3.99,Presidential Suite,3,3.3,1:00 PM,1:00 PM,Wednesday,0,0,48,3829
+Hotel Regency 42,Jaipur,"Free WiFi, Bar, Restaurant, Pet Friendly",24.95,Suite,2,3.1,1:00 PM,11:00 AM,Thursday,1,1,74,2570
+Hotel Emerald 43,Bangalore,"Pet Friendly, Bar, Parking, Business Center, Gym",11.96,Presidential Suite,3,4.2,11:00 AM,11:00 AM,Tuesday,0,1,83,4064
+Hotel Grand 85,Jaipur,"Bar, Pet Friendly, Parking, Free WiFi",3.66,Executive,5,3.6,2:00 PM,2:00 PM,Monday,1,1,50,5665
+Hotel Plaza 53,Goa,"Gym, Restaurant, Pet Friendly, Free WiFi, Spa",21.55,Deluxe,5,3.4,1:00 PM,12:00 PM,Friday,0,1,38,5469
+Hotel Sunrise 11,Pune,"Airport Shuttle, Pool, Free WiFi, Pet Friendly",4.24,Suite,5,4.4,1:00 PM,12:00 PM,Wednesday,1,1,64,5857
+Hotel Metro 93,Pune,"Business Center, Free WiFi, Restaurant, Bar",10.16,Standard,4,3.1,12:00 PM,2:00 PM,Friday,0,0,40,4294
+Hotel Euphoria 20,Bangalore,"Spa, Pool, Parking, Restaurant, Pet Friendly",21.11,Presidential Suite,3,4.6,1:00 PM,12:00 PM,Wednesday,0,1,53,3711
+Hotel Sapphire 84,Kolkata,"Bar, Pool, Pet Friendly, Free WiFi, Airport Shuttle",14.32,Executive,3,3.8,12:00 PM,12:00 PM,Wednesday,0,0,26,3619
+Hotel Horizon 67,Goa,"Pool, Bar, Pet Friendly, Restaurant",9.49,Deluxe,4,4.2,12:00 PM,2:00 PM,Sunday,0,1,20,4486
+Hotel Bliss 85,Pune,"Pool, Pet Friendly, Spa, Parking",17.82,Standard,2,2.9,11:00 AM,1:00 PM,Wednesday,1,0,82,1882
+Hotel Palm 83,Chennai,"Free WiFi, Gym, Spa, Restaurant",6.39,Presidential Suite,3,2.6,11:00 AM,2:00 PM,Tuesday,0,1,61,3742
+Hotel Vista 1,Delhi,"Business Center, Gym",22.81,Deluxe,4,4.1,11:00 AM,2:00 PM,Monday,0,1,67,4347
+Hotel Moonlight 32,Delhi,"Free WiFi, Pool",4.62,Suite,3,4.8,11:00 AM,11:00 AM,Monday,1,1,55,4173
+Hotel Regency 57,Bangalore,"Parking, Pet Friendly",11.73,Standard,2,4.9,11:00 AM,11:00 AM,Sunday,0,1,34,2802
+Hotel Oasis 59,Hyderabad,"Airport Shuttle, Parking, Free WiFi, Pool, Pet Friendly",24.18,Presidential Suite,4,3.3,11:00 AM,2:00 PM,Thursday,1,1,80,4059
+Hotel Grand 6,Kolkata,"Business Center, Parking",3.9,Presidential Suite,2,3.9,11:00 AM,2:00 PM,Saturday,0,1,38,2220
+Hotel Vista 67,Chennai,"Spa, Gym, Pet Friendly",22.2,Deluxe,3,2.6,2:00 PM,2:00 PM,Thursday,0,0,78,3501
+Hotel Bliss 97,Goa,"Free WiFi, Restaurant, Airport Shuttle",17.9,Executive,5,4.3,12:00 PM,12:00 PM,Wednesday,1,0,28,5104
+Hotel Heritage 17,Ahmedabad,"Restaurant, Bar, Airport Shuttle, Parking",14.21,Suite,3,2.5,12:00 PM,2:00 PM,Sunday,0,1,54,2780
+Hotel Lagoon 52,Pune,"Pet Friendly, Business Center",19.27,Presidential Suite,2,3.2,12:00 PM,11:00 AM,Wednesday,0,0,75,1922
+Hotel Bliss 48,Pune,"Gym, Bar, Spa, Airport Shuttle",4.07,Executive,3,3.5,1:00 PM,2:00 PM,Wednesday,1,0,28,3925
+Hotel Palm 80,Delhi,"Pool, Restaurant, Bar, Free WiFi",1.03,Executive,3,2.5,2:00 PM,11:00 AM,Sunday,1,1,49,3761
+Hotel Royal 39,Pune,"Spa, Pet Friendly",16.14,Suite,4,4.5,1:00 PM,1:00 PM,Friday,1,0,90,4651
+Hotel Vista 20,Ahmedabad,"Gym, Restaurant, Airport Shuttle, Free WiFi",6.72,Executive,2,4.5,2:00 PM,2:00 PM,Sunday,1,1,87,2882
+Hotel Oasis 66,Bangalore,"Parking, Pool",2.8,Standard,2,2.7,2:00 PM,1:00 PM,Wednesday,0,1,27,2839
+Hotel Sapphire 45,Pune,"Bar, Pet Friendly, Parking",6.95,Executive,2,3.5,11:00 AM,2:00 PM,Thursday,0,1,76,3039
+Hotel Magnolia 14,Kolkata,"Spa, Pool, Pet Friendly, Free WiFi",22.34,Executive,5,3.3,1:00 PM,2:00 PM,Saturday,0,1,30,4973
+Hotel Plaza 40,Delhi,"Pet Friendly, Gym, Pool, Business Center, Bar",16.53,Deluxe,2,4.8,12:00 PM,12:00 PM,Monday,1,0,55,2626
+Hotel Euphoria 97,Mumbai,"Business Center, Pool, Gym",12.09,Executive,3,3.7,12:00 PM,11:00 AM,Thursday,1,0,46,3841
+Hotel Horizon 82,Kolkata,"Bar, Airport Shuttle",19.04,Presidential Suite,2,3.0,11:00 AM,11:00 AM,Tuesday,0,0,22,2626
+Hotel Metro 40,Chennai,"Free WiFi, Business Center, Spa, Parking",19.93,Suite,2,3.7,2:00 PM,11:00 AM,Wednesday,0,1,63,2148
+Hotel Oasis 64,Bangalore,"Gym, Parking, Bar, Airport Shuttle",14.9,Deluxe,5,2.7,2:00 PM,11:00 AM,Saturday,1,1,94,4971
+Hotel Lagoon 91,Delhi,"Pet Friendly, Spa, Airport Shuttle, Free WiFi",15.7,Suite,2,4.7,2:00 PM,12:00 PM,Monday,1,0,36,2532
+Hotel Grand 55,Kolkata,"Pool, Parking",19.79,Executive,4,3.8,12:00 PM,12:00 PM,Wednesday,1,1,77,4512
+Hotel Regency 90,Delhi,"Free WiFi, Spa",21.86,Suite,3,2.9,2:00 PM,12:00 PM,Thursday,0,1,57,2687
+Hotel Bliss 30,Ahmedabad,"Restaurant, Airport Shuttle, Business Center, Pet Friendly, Gym",18.36,Executive,4,2.9,12:00 PM,11:00 AM,Friday,1,0,72,4502
+Hotel Royal 98,Jaipur,"Parking, Free WiFi, Pet Friendly, Airport Shuttle, Restaurant",18.64,Executive,5,3.5,12:00 PM,12:00 PM,Thursday,1,0,93,5125
+Hotel Moonlight 16,Pune,"Bar, Business Center",8.29,Presidential Suite,4,2.8,11:00 AM,12:00 PM,Monday,0,1,86,4457
+Hotel Crimson 58,Kolkata,"Business Center, Airport Shuttle, Pool, Free WiFi",15.24,Suite,4,3.1,12:00 PM,12:00 PM,Monday,1,1,27,4462
+Hotel Regency 18,Chennai,"Free WiFi, Restaurant, Gym, Spa, Parking",18.91,Deluxe,3,3.9,11:00 AM,11:00 AM,Thursday,1,1,44,3755
+Hotel Metro 72,Delhi,"Pet Friendly, Bar, Airport Shuttle",18.31,Executive,2,3.1,12:00 PM,1:00 PM,Saturday,1,1,86,2491
+Hotel Serenity 17,Mumbai,"Pet Friendly, Pool, Parking",22.56,Presidential Suite,4,2.8,2:00 PM,1:00 PM,Sunday,0,0,82,3630
+Hotel Regency 95,Jaipur,"Restaurant, Pool, Gym",9.55,Presidential Suite,2,4.8,1:00 PM,2:00 PM,Saturday,0,0,74,2567
+Hotel Moonlight 14,Ahmedabad,"Airport Shuttle, Business Center, Restaurant, Free WiFi, Pet Friendly",21.22,Deluxe,3,4.4,12:00 PM,12:00 PM,Monday,0,1,26,3227
+Hotel Euphoria 3,Hyderabad,"Pet Friendly, Bar",21.67,Presidential Suite,4,2.5,1:00 PM,1:00 PM,Thursday,1,0,21,3608
+Hotel Regency 12,Bangalore,"Business Center, Parking",8.33,Executive,5,3.3,2:00 PM,11:00 AM,Friday,0,0,68,5137
+Hotel Palm 40,Chennai,"Free WiFi, Pool, Restaurant, Spa",19.01,Standard,5,3.7,12:00 PM,12:00 PM,Thursday,1,1,93,5308
+Hotel Sapphire 12,Mumbai,"Pool, Business Center, Spa",6.39,Executive,2,4.4,12:00 PM,2:00 PM,Tuesday,1,0,95,2933
+Hotel Plaza 63,Goa,"Pet Friendly, Bar, Restaurant, Pool",11.6,Deluxe,2,3.7,1:00 PM,2:00 PM,Thursday,0,0,84,2020
+Hotel Magnolia 66,Bangalore,"Gym, Pool, Restaurant",22.73,Suite,3,3.1,11:00 AM,12:00 PM,Wednesday,1,0,29,3156
+Hotel Sapphire 2,Pune,"Bar, Free WiFi, Business Center, Pet Friendly, Gym",21.58,Presidential Suite,3,3.1,11:00 AM,12:00 PM,Monday,1,1,37,2763
+Hotel Vista 29,Goa,"Free WiFi, Pet Friendly, Business Center, Spa, Airport Shuttle",1.12,Deluxe,4,3.3,1:00 PM,1:00 PM,Tuesday,0,0,83,4278
+Hotel Lagoon 57,Jaipur,"Restaurant, Spa, Pool, Parking",4.37,Executive,2,4.3,12:00 PM,2:00 PM,Monday,1,1,46,3155
+Hotel Serenity 59,Chennai,"Free WiFi, Airport Shuttle, Restaurant, Pet Friendly",23.08,Deluxe,4,4.0,12:00 PM,1:00 PM,Friday,1,0,29,4445
+Hotel Plaza 2,Kolkata,"Spa, Business Center, Restaurant, Pet Friendly",15.84,Suite,4,2.9,2:00 PM,11:00 AM,Saturday,0,0,25,4434
+Hotel Crimson 75,Bangalore,"Pool, Parking",8.29,Presidential Suite,2,4.5,2:00 PM,1:00 PM,Monday,0,0,81,3204
+Hotel Magnolia 66,Jaipur,"Bar, Pool, Airport Shuttle, Restaurant, Spa",21.13,Suite,4,4.4,1:00 PM,12:00 PM,Saturday,0,1,29,4486
+Hotel Bliss 90,Ahmedabad,"Parking, Pet Friendly, Bar",20.12,Executive,4,4.6,2:00 PM,11:00 AM,Monday,1,0,80,4570
+Hotel Royal 73,Hyderabad,"Business Center, Bar",10.63,Executive,5,4.0,2:00 PM,1:00 PM,Monday,1,1,67,5413
+Hotel Crimson 46,Ahmedabad,"Pool, Business Center, Parking, Spa, Free WiFi",15.33,Standard,2,2.9,11:00 AM,1:00 PM,Wednesday,0,0,88,2171
+Hotel Regency 47,Goa,"Parking, Spa, Pool, Airport Shuttle",19.94,Executive,3,4.3,1:00 PM,2:00 PM,Sunday,1,1,87,3360
+Hotel Bliss 99,Goa,"Restaurant, Pet Friendly, Free WiFi",2.36,Standard,4,4.7,2:00 PM,11:00 AM,Wednesday,1,0,73,4834
+Hotel Royal 4,Goa,"Airport Shuttle, Pet Friendly, Bar, Spa, Pool",13.76,Suite,2,2.8,12:00 PM,12:00 PM,Sunday,1,1,98,1810
+Hotel Palm 30,Jaipur,"Pet Friendly, Free WiFi, Spa",20.81,Suite,2,4.3,1:00 PM,12:00 PM,Sunday,1,1,83,2505
+Hotel Regency 54,Chennai,"Parking, Spa",9.68,Presidential Suite,4,3.5,1:00 PM,1:00 PM,Friday,1,1,55,4845
+Hotel Euphoria 86,Hyderabad,"Parking, Pool, Restaurant, Airport Shuttle, Spa",15.54,Deluxe,2,4.6,12:00 PM,1:00 PM,Tuesday,0,1,35,2166
+Hotel Palm 23,Mumbai,"Business Center, Restaurant, Airport Shuttle",18.77,Deluxe,2,4.9,2:00 PM,2:00 PM,Monday,0,1,41,2205
+Hotel Vista 88,Goa,"Airport Shuttle, Pet Friendly, Bar",15.19,Presidential Suite,4,4.0,12:00 PM,1:00 PM,Wednesday,1,0,56,4828
+Hotel Serenity 21,Jaipur,"Parking, Spa, Airport Shuttle, Pet Friendly, Bar",3.23,Standard,5,2.5,1:00 PM,1:00 PM,Wednesday,1,1,47,5401
+Hotel Crimson 25,Hyderabad,"Airport Shuttle, Free WiFi, Gym",12.51,Standard,2,2.9,1:00 PM,12:00 PM,Saturday,1,1,48,2269
+Hotel Horizon 86,Pune,"Free WiFi, Airport Shuttle, Restaurant",4.02,Standard,3,2.8,12:00 PM,1:00 PM,Tuesday,1,1,55,3771
+Hotel Metro 25,Pune,"Business Center, Pet Friendly, Spa, Airport Shuttle, Bar",13.2,Deluxe,2,4.3,2:00 PM,1:00 PM,Tuesday,0,1,47,2580
+Hotel Oasis 5,Goa,"Business Center, Pet Friendly, Airport Shuttle, Bar, Parking",13.63,Standard,4,2.7,12:00 PM,2:00 PM,Thursday,0,0,94,4648
+Hotel Sapphire 78,Kolkata,"Pool, Airport Shuttle, Spa, Free WiFi, Gym",16.44,Suite,2,4.6,1:00 PM,1:00 PM,Sunday,0,0,92,2455
+Hotel Magnolia 98,Pune,"Restaurant, Free WiFi, Business Center, Pet Friendly",4.88,Deluxe,5,4.8,12:00 PM,11:00 AM,Saturday,1,1,77,5761
+Hotel Magnolia 1,Ahmedabad,"Pet Friendly, Pool, Spa",12.81,Executive,2,3.6,12:00 PM,11:00 AM,Tuesday,0,0,26,2640
+Hotel Lagoon 95,Goa,"Restaurant, Business Center, Pet Friendly, Parking, Gym",17.55,Standard,3,4.7,11:00 AM,2:00 PM,Tuesday,1,1,71,3177
+Hotel Royal 66,Goa,"Parking, Gym, Business Center, Bar",24.47,Suite,2,2.7,11:00 AM,1:00 PM,Monday,0,0,46,1948
+Hotel Vista 89,Mumbai,"Spa, Pet Friendly, Free WiFi, Pool",14.67,Suite,2,3.5,11:00 AM,11:00 AM,Friday,0,0,49,2161
+Hotel Emerald 24,Goa,"Restaurant, Parking, Business Center",9.2,Suite,3,4.4,2:00 PM,11:00 AM,Monday,1,0,93,3987
+Hotel Royal 74,Mumbai,"Gym, Business Center, Spa, Free WiFi, Pool",5.43,Presidential Suite,3,2.8,2:00 PM,12:00 PM,Wednesday,1,0,98,3448
+Hotel Serenity 46,Goa,"Gym, Business Center, Free WiFi, Airport Shuttle",18.81,Deluxe,3,3.6,12:00 PM,11:00 AM,Friday,0,1,21,3639
+Hotel Grand 82,Chennai,"Parking, Gym, Pool, Bar, Airport Shuttle",13.66,Deluxe,3,4.7,1:00 PM,2:00 PM,Saturday,0,0,61,4059
+Hotel Grand 20,Delhi,"Business Center, Restaurant",20.35,Executive,4,4.1,1:00 PM,12:00 PM,Tuesday,0,1,58,4643
+Hotel Sapphire 93,Ahmedabad,"Free WiFi, Airport Shuttle",18.78,Executive,3,3.7,12:00 PM,12:00 PM,Saturday,0,1,42,3053
+Hotel Serenity 21,Pune,"Pet Friendly, Bar",5.61,Presidential Suite,2,3.7,12:00 PM,2:00 PM,Tuesday,0,1,68,2473
+Hotel Serenity 8,Ahmedabad,"Pool, Pet Friendly, Gym, Business Center, Airport Shuttle",18.74,Presidential Suite,3,4.7,12:00 PM,11:00 AM,Saturday,0,0,33,3670
+Hotel Grand 17,Jaipur,"Gym, Restaurant, Pet Friendly",6.71,Deluxe,3,3.5,2:00 PM,12:00 PM,Sunday,0,1,29,3409
+Hotel Lagoon 29,Hyderabad,"Restaurant, Airport Shuttle, Spa",13.14,Standard,3,2.5,1:00 PM,11:00 AM,Wednesday,1,1,23,2822
+Hotel Palm 36,Ahmedabad,"Free WiFi, Airport Shuttle",24.46,Deluxe,4,4.4,12:00 PM,11:00 AM,Saturday,0,0,48,4228
+Hotel Sapphire 10,Delhi,"Airport Shuttle, Business Center",18.82,Suite,4,2.8,12:00 PM,12:00 PM,Tuesday,0,0,74,3745
+Hotel Grand 85,Bangalore,"Pet Friendly, Spa, Gym, Restaurant, Airport Shuttle",24.24,Presidential Suite,2,4.1,11:00 AM,11:00 AM,Thursday,1,0,58,2747
+Hotel Metro 25,Hyderabad,"Parking, Restaurant",14.13,Deluxe,3,3.7,1:00 PM,1:00 PM,Wednesday,0,0,56,3729
+Hotel Moonlight 73,Ahmedabad,"Spa, Bar, Pet Friendly, Restaurant",8.88,Suite,3,3.3,12:00 PM,2:00 PM,Sunday,1,0,59,3314
+Hotel Crimson 35,Delhi,"Restaurant, Parking, Airport Shuttle, Business Center, Gym",15.92,Suite,5,4.3,1:00 PM,1:00 PM,Tuesday,1,0,77,5704
+Hotel Palm 92,Mumbai,"Spa, Bar, Restaurant",21.41,Presidential Suite,2,4.4,2:00 PM,1:00 PM,Thursday,1,1,39,2587
+Hotel Plaza 11,Delhi,"Free WiFi, Business Center, Airport Shuttle",23.08,Standard,5,4.8,2:00 PM,1:00 PM,Friday,0,1,83,5184
+Hotel Bliss 3,Mumbai,"Spa, Restaurant, Free WiFi, Airport Shuttle",12.07,Standard,3,4.6,11:00 AM,1:00 PM,Wednesday,1,0,97,3472
+Hotel Bliss 38,Bangalore,"Pet Friendly, Parking, Spa, Bar",5.78,Presidential Suite,5,2.6,2:00 PM,12:00 PM,Monday,0,1,71,5251
+Hotel Sapphire 73,Pune,"Business Center, Restaurant, Airport Shuttle, Pool, Spa",18.83,Standard,2,2.7,11:00 AM,2:00 PM,Tuesday,0,0,79,1671
+Hotel Palm 12,Pune,"Free WiFi, Bar, Pool",16.06,Deluxe,4,4.0,12:00 PM,1:00 PM,Thursday,0,1,85,4184
+Hotel Oasis 53,Hyderabad,"Restaurant, Airport Shuttle, Gym, Parking",11.21,Executive,3,4.6,11:00 AM,1:00 PM,Thursday,0,1,25,3721
+Hotel Emerald 65,Pune,"Pet Friendly, Gym, Parking",8.35,Executive,5,5.0,12:00 PM,12:00 PM,Tuesday,0,1,44,5969
+Hotel Metro 60,Pune,"Parking, Pet Friendly, Restaurant",22.53,Suite,5,3.9,2:00 PM,11:00 AM,Friday,0,1,35,4832
+Hotel Metro 14,Pune,"Spa, Parking, Gym, Pet Friendly",3.05,Presidential Suite,2,2.9,11:00 AM,2:00 PM,Sunday,0,0,63,2861
+Hotel Emerald 59,Delhi,"Pool, Spa, Bar, Airport Shuttle, Free WiFi",5.62,Presidential Suite,5,5.0,11:00 AM,2:00 PM,Friday,0,1,38,6151
+Hotel Bliss 17,Delhi,"Spa, Restaurant, Airport Shuttle, Bar, Pool",3.56,Presidential Suite,5,2.9,1:00 PM,11:00 AM,Friday,0,0,34,5971
+Hotel Oasis 53,Hyderabad,"Business Center, Bar, Airport Shuttle, Gym",13.61,Standard,3,2.9,11:00 AM,12:00 PM,Monday,0,0,56,3210
+Hotel Lagoon 96,Ahmedabad,"Free WiFi, Pool, Parking, Restaurant, Bar",6.27,Executive,4,3.7,11:00 AM,12:00 PM,Monday,0,1,86,4957
+Hotel Horizon 59,Ahmedabad,"Pet Friendly, Business Center, Bar, Spa",3.82,Executive,2,3.8,1:00 PM,2:00 PM,Wednesday,0,0,47,2708
+Hotel Bliss 2,Bangalore,"Gym, Spa, Free WiFi, Pool",7.73,Presidential Suite,4,3.6,1:00 PM,12:00 PM,Thursday,0,1,84,4459
+Hotel Bliss 4,Ahmedabad,"Airport Shuttle, Restaurant, Spa, Pet Friendly",9.28,Standard,2,3.0,11:00 AM,11:00 AM,Monday,0,0,24,2478
+Hotel Horizon 28,Delhi,"Pet Friendly, Spa, Gym, Parking, Airport Shuttle",11.7,Deluxe,3,4.0,1:00 PM,1:00 PM,Saturday,1,1,77,3130
+Hotel Oasis 70,Jaipur,"Pet Friendly, Pool",13.75,Standard,2,3.6,2:00 PM,11:00 AM,Friday,0,0,48,2754
+Hotel Grand 21,Pune,"Gym, Free WiFi, Pool, Airport Shuttle, Parking",8.96,Presidential Suite,2,4.0,11:00 AM,2:00 PM,Friday,0,1,20,2415
+Hotel Heritage 60,Chennai,"Parking, Bar",4.08,Standard,2,2.6,11:00 AM,1:00 PM,Saturday,1,0,24,2800
+Hotel Palm 71,Jaipur,"Pool, Business Center, Free WiFi, Gym, Parking",5.35,Suite,3,3.0,1:00 PM,12:00 PM,Thursday,0,0,32,3613
+Hotel Metro 83,Pune,"Parking, Spa",7.56,Deluxe,2,3.2,2:00 PM,12:00 PM,Thursday,0,0,86,2705
+Hotel Sunrise 6,Pune,"Parking, Business Center, Restaurant, Spa",3.33,Presidential Suite,3,3.8,2:00 PM,12:00 PM,Saturday,1,0,76,3391
+Hotel Palm 99,Jaipur,"Gym, Pet Friendly, Spa, Restaurant",21.53,Suite,3,3.4,11:00 AM,1:00 PM,Wednesday,1,1,60,3555
+Hotel Palm 72,Jaipur,"Pet Friendly, Restaurant, Gym",3.24,Standard,2,2.7,12:00 PM,2:00 PM,Thursday,1,1,34,2852
+Hotel Serenity 91,Kolkata,"Pet Friendly, Parking",2.16,Suite,5,4.9,2:00 PM,11:00 AM,Tuesday,0,1,66,5966
+Hotel Crimson 53,Ahmedabad,"Free WiFi, Parking",6.66,Deluxe,5,5.0,1:00 PM,2:00 PM,Monday,0,1,81,5801
+Hotel Regency 24,Delhi,"Gym, Parking, Free WiFi",24.7,Executive,3,4.5,12:00 PM,1:00 PM,Friday,0,1,81,3518
+Hotel Vista 71,Kolkata,"Business Center, Gym, Pool, Parking, Restaurant",1.4,Suite,5,3.9,2:00 PM,11:00 AM,Thursday,1,0,88,5325
+Hotel Regency 1,Ahmedabad,"Gym, Restaurant, Bar, Parking, Pool",15.79,Standard,4,4.5,12:00 PM,2:00 PM,Monday,1,1,29,4809
+Hotel Regency 79,Jaipur,"Business Center, Parking, Spa, Bar, Free WiFi",15.3,Standard,3,4.5,2:00 PM,2:00 PM,Tuesday,0,0,74,3443
+Hotel Horizon 32,Bangalore,"Free WiFi, Bar, Airport Shuttle, Parking, Spa",24.45,Suite,4,4.6,1:00 PM,2:00 PM,Monday,1,0,77,4709
+Hotel Palm 40,Pune,"Parking, Free WiFi, Airport Shuttle, Restaurant, Gym",24.29,Standard,5,4.2,12:00 PM,2:00 PM,Monday,1,1,82,4955
+Hotel Horizon 72,Goa,"Pet Friendly, Business Center, Restaurant, Free WiFi, Airport Shuttle",9.08,Standard,3,3.4,2:00 PM,12:00 PM,Wednesday,0,0,33,3263
+Hotel Crimson 23,Bangalore,"Parking, Business Center, Spa, Free WiFi, Airport Shuttle",2.9,Executive,2,2.6,12:00 PM,12:00 PM,Thursday,1,1,69,2471
+Hotel Plaza 68,Kolkata,"Spa, Airport Shuttle, Restaurant",10.79,Standard,5,4.3,2:00 PM,1:00 PM,Sunday,1,1,94,5502
+Hotel Heritage 37,Delhi,"Pet Friendly, Parking, Airport Shuttle, Bar",16.24,Suite,5,3.9,11:00 AM,1:00 PM,Tuesday,0,0,91,5284
+Hotel Grand 52,Ahmedabad,"Pool, Parking, Bar, Pet Friendly",16.0,Deluxe,5,4.8,11:00 AM,1:00 PM,Friday,1,1,40,5743
+Hotel Sapphire 54,Goa,"Pet Friendly, Gym",24.1,Executive,4,2.8,11:00 AM,1:00 PM,Monday,0,1,65,3610
+Hotel Sunrise 31,Ahmedabad,"Restaurant, Free WiFi, Bar",2.22,Deluxe,3,3.7,12:00 PM,12:00 PM,Monday,0,0,34,4121
+Hotel Euphoria 59,Goa,"Airport Shuttle, Pool, Gym, Bar",10.04,Standard,4,2.6,12:00 PM,1:00 PM,Wednesday,1,1,29,4736
+Hotel Emerald 10,Pune,"Airport Shuttle, Free WiFi",10.89,Suite,3,3.3,2:00 PM,2:00 PM,Saturday,0,1,21,3395
+Hotel Vista 85,Bangalore,"Airport Shuttle, Bar",12.45,Executive,4,3.7,11:00 AM,1:00 PM,Wednesday,0,1,44,4215
+Hotel Magnolia 83,Ahmedabad,"Free WiFi, Restaurant, Pet Friendly, Parking",24.29,Standard,3,4.3,2:00 PM,12:00 PM,Thursday,0,1,30,2951
+Hotel Sapphire 28,Chennai,"Gym, Pool, Spa, Free WiFi",5.32,Deluxe,2,2.8,2:00 PM,11:00 AM,Thursday,1,1,67,2074
+Hotel Royal 10,Jaipur,"Airport Shuttle, Pet Friendly, Pool",12.71,Suite,3,2.6,12:00 PM,2:00 PM,Thursday,1,1,37,3541
+Hotel Plaza 59,Delhi,"Parking, Free WiFi, Pool, Spa",21.97,Deluxe,5,2.9,1:00 PM,12:00 PM,Saturday,0,0,57,5144
+Hotel Sunrise 20,Mumbai,"Pet Friendly, Business Center, Bar, Parking",20.81,Executive,4,4.0,2:00 PM,1:00 PM,Saturday,0,1,55,4809
+Hotel Royal 52,Pune,"Business Center, Free WiFi, Pool",20.71,Presidential Suite,3,3.3,12:00 PM,1:00 PM,Monday,1,1,45,3577
+Hotel Euphoria 77,Hyderabad,"Business Center, Free WiFi",10.93,Executive,3,3.8,2:00 PM,11:00 AM,Thursday,0,0,96,3278
+Hotel Sunrise 85,Jaipur,"Restaurant, Bar, Gym",23.04,Suite,4,2.5,12:00 PM,11:00 AM,Monday,0,0,28,4076
+Hotel Oasis 23,Delhi,"Spa, Parking",10.73,Deluxe,2,3.9,11:00 AM,1:00 PM,Thursday,1,1,70,2178
+Hotel Heritage 61,Ahmedabad,"Parking, Free WiFi, Business Center, Pet Friendly, Airport Shuttle",4.9,Deluxe,5,2.9,2:00 PM,12:00 PM,Monday,0,0,77,5709
+Hotel Lagoon 75,Goa,"Pet Friendly, Parking, Bar, Restaurant",8.86,Presidential Suite,3,4.7,12:00 PM,11:00 AM,Monday,0,0,61,4226
+Hotel Palm 50,Hyderabad,"Business Center, Parking",1.04,Suite,2,4.7,1:00 PM,2:00 PM,Thursday,0,0,63,3275
+Hotel Royal 9,Jaipur,"Bar, Restaurant, Free WiFi, Airport Shuttle, Gym",6.83,Deluxe,5,3.3,11:00 AM,11:00 AM,Wednesday,0,0,96,5594
+Hotel Regency 17,Bangalore,"Parking, Pool",20.74,Deluxe,3,2.7,11:00 AM,11:00 AM,Thursday,0,1,53,3054
+Hotel Palm 43,Jaipur,"Restaurant, Business Center",20.43,Executive,2,4.6,2:00 PM,2:00 PM,Sunday,0,1,38,2598
+Hotel Regency 81,Delhi,"Business Center, Spa",8.87,Presidential Suite,4,2.6,2:00 PM,1:00 PM,Monday,1,0,48,4706
+Hotel Serenity 35,Kolkata,"Pet Friendly, Spa",23.44,Suite,5,4.6,12:00 PM,12:00 PM,Sunday,0,1,35,4987
+Hotel Grand 77,Bangalore,"Pool, Gym, Restaurant, Free WiFi, Airport Shuttle",18.34,Presidential Suite,3,4.0,1:00 PM,11:00 AM,Sunday,1,0,32,3191
+Hotel Moonlight 67,Goa,"Restaurant, Pool",22.91,Standard,5,4.7,12:00 PM,11:00 AM,Wednesday,1,0,89,5860
+Hotel Crimson 12,Bangalore,"Business Center, Airport Shuttle, Spa",17.88,Executive,5,4.7,2:00 PM,12:00 PM,Friday,0,0,86,5140
+Hotel Royal 80,Jaipur,"Business Center, Airport Shuttle, Free WiFi, Spa, Gym",22.2,Executive,3,3.9,1:00 PM,1:00 PM,Wednesday,1,1,96,2918
+Hotel Grand 94,Jaipur,"Free WiFi, Pool",7.95,Executive,4,2.8,1:00 PM,2:00 PM,Tuesday,0,1,25,3914
+Hotel Royal 42,Chennai,"Pet Friendly, Restaurant, Spa, Parking, Gym",16.23,Executive,4,4.4,1:00 PM,2:00 PM,Monday,0,1,50,4663
+Hotel Regency 61,Chennai,"Pool, Restaurant, Gym",9.61,Standard,4,3.1,11:00 AM,1:00 PM,Sunday,0,0,41,4458
+Hotel Palm 51,Delhi,"Parking, Bar",21.06,Presidential Suite,3,3.4,11:00 AM,11:00 AM,Sunday,1,0,31,2802
+Hotel Emerald 85,Jaipur,"Free WiFi, Parking, Pet Friendly, Spa, Business Center",13.36,Suite,5,3.6,12:00 PM,1:00 PM,Tuesday,0,1,67,5099
+Hotel Euphoria 2,Kolkata,"Spa, Pool",8.66,Suite,5,4.9,11:00 AM,11:00 AM,Friday,1,1,25,6073
+Hotel Bliss 60,Hyderabad,"Airport Shuttle, Restaurant, Pool, Free WiFi",16.06,Executive,2,3.5,11:00 AM,1:00 PM,Thursday,1,0,52,1974
+Hotel Moonlight 16,Delhi,"Restaurant, Airport Shuttle, Parking, Pool",0.53,Deluxe,4,2.6,11:00 AM,12:00 PM,Thursday,1,1,70,4874
+Hotel Serenity 59,Jaipur,"Airport Shuttle, Restaurant",2.22,Suite,5,4.4,11:00 AM,11:00 AM,Sunday,1,1,66,6041
+Hotel Palm 18,Pune,"Pet Friendly, Free WiFi, Bar",14.93,Deluxe,5,2.9,1:00 PM,11:00 AM,Friday,1,0,75,4814
+Hotel Lagoon 57,Kolkata,"Parking, Free WiFi",23.52,Standard,4,4.4,12:00 PM,1:00 PM,Saturday,1,0,91,4838
+Hotel Sapphire 85,Ahmedabad,"Parking, Airport Shuttle, Gym, Spa, Free WiFi",21.01,Suite,5,4.7,11:00 AM,12:00 PM,Sunday,0,1,70,5293
+Hotel Regency 74,Chennai,"Business Center, Restaurant",4.99,Executive,3,3.2,2:00 PM,11:00 AM,Monday,1,0,75,3370
+Hotel Bliss 94,Kolkata,"Free WiFi, Parking, Pet Friendly",10.75,Suite,4,3.4,11:00 AM,1:00 PM,Sunday,1,1,48,4116
+Hotel Regency 69,Jaipur,"Bar, Business Center, Free WiFi",2.55,Standard,4,4.6,11:00 AM,1:00 PM,Saturday,1,1,93,4842
+Hotel Royal 45,Ahmedabad,"Pool, Gym, Airport Shuttle",5.24,Executive,2,3.1,12:00 PM,12:00 PM,Friday,0,0,100,2452
+Hotel Metro 26,Bangalore,"Free WiFi, Pet Friendly",22.13,Standard,3,4.4,12:00 PM,1:00 PM,Saturday,1,1,37,3171
+Hotel Euphoria 18,Kolkata,"Business Center, Airport Shuttle, Pet Friendly",17.55,Executive,5,3.5,11:00 AM,11:00 AM,Tuesday,0,1,40,5172
+Hotel Palm 76,Kolkata,"Bar, Airport Shuttle",18.46,Deluxe,2,4.8,11:00 AM,2:00 PM,Thursday,0,1,37,2701
+Hotel Serenity 6,Ahmedabad,"Bar, Parking, Free WiFi, Pool, Airport Shuttle",6.28,Presidential Suite,4,3.9,12:00 PM,11:00 AM,Thursday,0,0,67,4250
+Hotel Plaza 17,Ahmedabad,"Pool, Gym, Spa",21.91,Executive,5,3.2,12:00 PM,2:00 PM,Saturday,1,0,68,4729
+Hotel Palm 15,Kolkata,"Airport Shuttle, Pet Friendly, Free WiFi",15.49,Standard,5,3.6,12:00 PM,1:00 PM,Thursday,0,0,26,5764
+Hotel Lagoon 27,Jaipur,"Bar, Pool, Pet Friendly, Business Center",10.75,Presidential Suite,4,2.7,11:00 AM,2:00 PM,Saturday,0,0,92,3942
+Hotel Magnolia 13,Jaipur,"Free WiFi, Pet Friendly, Pool, Business Center",21.07,Executive,4,3.5,2:00 PM,1:00 PM,Wednesday,0,1,82,4363
+Hotel Royal 49,Kolkata,"Restaurant, Business Center, Spa, Pool, Parking",5.4,Standard,2,4.9,1:00 PM,12:00 PM,Saturday,1,0,60,2722
+Hotel Emerald 5,Mumbai,"Gym, Restaurant, Parking, Business Center",20.74,Deluxe,4,3.0,11:00 AM,11:00 AM,Tuesday,1,1,51,4639
+Hotel Heritage 65,Bangalore,"Pool, Airport Shuttle, Bar, Pet Friendly, Spa",6.81,Standard,3,2.6,1:00 PM,2:00 PM,Tuesday,1,1,86,3473
+Hotel Crimson 99,Kolkata,"Parking, Airport Shuttle, Free WiFi",15.48,Deluxe,2,3.4,11:00 AM,2:00 PM,Monday,1,0,26,1927
+Hotel Regency 62,Chennai,"Parking, Pet Friendly, Gym, Free WiFi",1.2,Standard,5,3.1,12:00 PM,12:00 PM,Sunday,1,1,40,6074
+Hotel Sapphire 38,Pune,"Parking, Restaurant, Spa, Airport Shuttle",1.91,Presidential Suite,4,2.6,12:00 PM,12:00 PM,Sunday,0,0,63,4467
+Hotel Metro 79,Hyderabad,"Parking, Business Center",14.16,Deluxe,3,3.7,11:00 AM,2:00 PM,Saturday,1,0,40,3573
+Hotel Plaza 98,Jaipur,"Parking, Airport Shuttle, Free WiFi, Pet Friendly, Pool",22.24,Suite,5,4.4,11:00 AM,2:00 PM,Sunday,1,0,69,5625
+Hotel Palm 95,Delhi,"Bar, Business Center, Restaurant, Airport Shuttle, Gym",12.2,Executive,2,3.4,11:00 AM,1:00 PM,Tuesday,0,1,75,2714
+Hotel Plaza 53,Ahmedabad,"Airport Shuttle, Parking, Gym",14.92,Standard,3,4.0,1:00 PM,2:00 PM,Saturday,1,1,95,3587
+Hotel Grand 97,Jaipur,"Restaurant, Airport Shuttle",12.37,Deluxe,3,3.7,1:00 PM,1:00 PM,Saturday,1,1,22,3197
+Hotel Serenity 23,Bangalore,"Pet Friendly, Bar, Gym",4.13,Standard,4,2.9,2:00 PM,2:00 PM,Saturday,1,0,69,4366
+Hotel Oasis 75,Kolkata,"Gym, Parking, Bar, Pool",1.72,Executive,3,4.4,11:00 AM,2:00 PM,Monday,1,1,92,3552
+Hotel Sapphire 91,Goa,"Gym, Parking, Bar",4.45,Presidential Suite,4,3.2,1:00 PM,11:00 AM,Wednesday,0,0,65,4767
+Hotel Sunrise 17,Delhi,"Airport Shuttle, Gym, Spa, Parking, Business Center",5.95,Presidential Suite,4,3.4,2:00 PM,11:00 AM,Wednesday,0,0,30,4070
+Hotel Regency 17,Ahmedabad,"Airport Shuttle, Free WiFi, Spa, Pool",20.68,Deluxe,4,4.8,12:00 PM,2:00 PM,Tuesday,0,1,65,4815
+Hotel Oasis 67,Goa,"Pool, Restaurant",7.34,Deluxe,2,3.9,12:00 PM,12:00 PM,Friday,1,0,27,3016
+Hotel Heritage 94,Chennai,"Parking, Free WiFi, Pool",14.07,Suite,2,2.7,11:00 AM,1:00 PM,Monday,0,1,84,2484
+Hotel Euphoria 56,Jaipur,"Bar, Parking, Business Center, Free WiFi, Airport Shuttle",13.87,Executive,4,3.8,2:00 PM,11:00 AM,Saturday,1,0,86,4672
+Hotel Plaza 20,Ahmedabad,"Spa, Gym, Business Center, Parking",9.29,Deluxe,4,3.6,12:00 PM,11:00 AM,Thursday,1,0,96,5033
+Hotel Serenity 34,Hyderabad,"Pet Friendly, Bar, Free WiFi, Gym, Business Center",24.95,Suite,5,2.9,12:00 PM,12:00 PM,Sunday,1,0,40,5459
+Hotel Moonlight 1,Goa,"Pet Friendly, Gym, Spa, Restaurant",7.57,Suite,4,4.7,12:00 PM,11:00 AM,Sunday,0,1,28,5189
+Hotel Bliss 34,Chennai,"Parking, Pool",17.05,Presidential Suite,3,2.5,12:00 PM,1:00 PM,Wednesday,1,0,59,3352
+Hotel Heritage 49,Kolkata,"Airport Shuttle, Parking, Restaurant, Pool",4.96,Presidential Suite,5,4.7,2:00 PM,2:00 PM,Wednesday,0,0,78,5840
+Hotel Bliss 31,Pune,"Restaurant, Spa, Pet Friendly, Parking, Airport Shuttle",2.29,Suite,4,4.8,1:00 PM,1:00 PM,Sunday,1,0,94,5309
+Hotel Lagoon 31,Pune,"Restaurant, Bar, Business Center, Spa, Pool",3.07,Standard,2,2.6,1:00 PM,12:00 PM,Friday,1,1,100,2174
+Hotel Emerald 79,Kolkata,"Restaurant, Pool",7.01,Deluxe,3,4.7,12:00 PM,12:00 PM,Monday,0,1,88,4056
+Hotel Grand 67,Delhi,"Airport Shuttle, Pool, Gym, Restaurant, Spa",2.82,Deluxe,5,2.6,1:00 PM,1:00 PM,Friday,0,1,90,5162
+Hotel Palm 91,Ahmedabad,"Spa, Restaurant, Airport Shuttle, Business Center",8.05,Suite,3,4.8,2:00 PM,12:00 PM,Wednesday,1,1,57,3963
+Hotel Magnolia 51,Pune,"Free WiFi, Business Center",7.13,Deluxe,5,4.1,11:00 AM,12:00 PM,Wednesday,1,0,31,5944
+Hotel Oasis 23,Chennai,"Pool, Parking, Restaurant, Pet Friendly, Gym",11.06,Deluxe,4,4.0,2:00 PM,2:00 PM,Wednesday,0,0,89,4974
+Hotel Metro 17,Goa,"Pet Friendly, Parking, Restaurant, Gym",2.15,Deluxe,4,4.7,1:00 PM,2:00 PM,Wednesday,0,0,29,4542
+Hotel Horizon 74,Bangalore,"Free WiFi, Pool, Parking",14.49,Presidential Suite,2,2.5,12:00 PM,2:00 PM,Sunday,1,0,58,2216
+Hotel Serenity 55,Pune,"Pool, Bar, Free WiFi, Restaurant, Parking",13.37,Standard,5,4.2,1:00 PM,12:00 PM,Monday,1,1,90,5914
+Hotel Euphoria 66,Goa,"Gym, Free WiFi, Spa, Bar",9.66,Standard,3,3.5,1:00 PM,11:00 AM,Sunday,1,1,60,3189
+Hotel Moonlight 11,Ahmedabad,"Bar, Pet Friendly, Restaurant, Pool, Parking",17.37,Standard,2,2.8,12:00 PM,12:00 PM,Tuesday,1,1,41,2664
+Hotel Lagoon 25,Chennai,"Free WiFi, Bar, Business Center, Pet Friendly, Restaurant",23.83,Presidential Suite,5,2.7,11:00 AM,2:00 PM,Friday,0,1,67,4628
+Hotel Metro 67,Kolkata,"Parking, Restaurant, Business Center",23.18,Presidential Suite,2,4.4,2:00 PM,12:00 PM,Thursday,1,0,62,2048
+Hotel Heritage 55,Bangalore,"Business Center, Parking, Spa",17.32,Suite,2,4.0,1:00 PM,11:00 AM,Thursday,1,0,20,2805
+Hotel Regency 95,Chennai,"Free WiFi, Gym",20.67,Presidential Suite,4,2.8,11:00 AM,12:00 PM,Wednesday,1,1,82,3816
+Hotel Royal 52,Jaipur,"Parking, Business Center",9.34,Executive,4,4.7,12:00 PM,2:00 PM,Friday,0,1,98,4537
+Hotel Palm 53,Kolkata,"Parking, Gym, Pool",24.58,Executive,3,3.9,11:00 AM,2:00 PM,Thursday,0,1,61,3483
+Hotel Sapphire 92,Kolkata,"Business Center, Pool, Free WiFi, Parking",19.64,Presidential Suite,5,4.5,11:00 AM,2:00 PM,Thursday,1,0,99,5561
+Hotel Lagoon 65,Hyderabad,"Airport Shuttle, Pet Friendly, Parking, Business Center",13.53,Standard,5,2.8,12:00 PM,2:00 PM,Thursday,0,0,78,4967
+Hotel Moonlight 95,Jaipur,"Gym, Bar",16.18,Presidential Suite,5,4.9,12:00 PM,12:00 PM,Friday,1,0,29,5717
+Hotel Serenity 59,Delhi,"Free WiFi, Gym, Restaurant, Bar",5.56,Executive,4,4.4,2:00 PM,11:00 AM,Thursday,1,0,61,4740
+Hotel Palm 69,Mumbai,"Parking, Gym, Restaurant, Business Center",7.66,Executive,5,2.8,2:00 PM,12:00 PM,Sunday,1,1,93,5062
+Hotel Sunrise 70,Pune,"Business Center, Pet Friendly, Pool, Bar",19.97,Standard,2,3.9,2:00 PM,1:00 PM,Monday,1,0,42,2151
+Hotel Palm 79,Jaipur,"Pet Friendly, Bar, Pool, Business Center",10.63,Deluxe,3,4.3,11:00 AM,1:00 PM,Saturday,1,1,50,3248
+Hotel Horizon 88,Goa,"Pool, Airport Shuttle, Spa, Bar",3.39,Presidential Suite,3,2.9,1:00 PM,2:00 PM,Sunday,0,1,22,3903
+Hotel Oasis 36,Pune,"Pet Friendly, Gym, Pool, Restaurant",5.63,Presidential Suite,5,3.9,2:00 PM,11:00 AM,Wednesday,1,0,65,6017
+Hotel Oasis 21,Jaipur,"Parking, Pool, Free WiFi",2.55,Presidential Suite,5,4.8,1:00 PM,1:00 PM,Saturday,0,0,87,5723
+Hotel Sapphire 47,Goa,"Pet Friendly, Airport Shuttle, Free WiFi",2.89,Presidential Suite,2,2.5,12:00 PM,2:00 PM,Thursday,0,1,74,2501
+Hotel Moonlight 70,Goa,"Pet Friendly, Business Center, Pool",20.21,Executive,3,4.6,11:00 AM,11:00 AM,Thursday,1,1,56,3257
+Hotel Regency 7,Delhi,"Pet Friendly, Gym, Pool, Airport Shuttle, Spa",19.31,Deluxe,3,3.8,12:00 PM,12:00 PM,Sunday,1,1,23,2977
+Hotel Moonlight 91,Pune,"Free WiFi, Business Center, Gym",12.95,Standard,2,3.6,2:00 PM,11:00 AM,Saturday,1,0,64,2807
+Hotel Lagoon 20,Kolkata,"Bar, Airport Shuttle, Business Center",6.56,Deluxe,3,3.3,12:00 PM,12:00 PM,Monday,1,1,30,3249
+Hotel Serenity 73,Jaipur,"Spa, Airport Shuttle, Free WiFi, Pet Friendly, Pool",19.55,Suite,3,4.3,11:00 AM,2:00 PM,Thursday,0,0,60,3409
+Hotel Metro 3,Ahmedabad,"Pet Friendly, Spa",0.67,Standard,4,2.9,12:00 PM,11:00 AM,Thursday,1,0,45,4887
+Hotel Moonlight 50,Goa,"Parking, Spa, Restaurant, Gym",22.81,Executive,3,4.6,1:00 PM,2:00 PM,Sunday,1,0,29,3960
+Hotel Crimson 18,Ahmedabad,"Restaurant, Bar",10.84,Deluxe,5,3.3,2:00 PM,11:00 AM,Sunday,0,1,42,5342
+Hotel Royal 96,Bangalore,"Airport Shuttle, Bar, Business Center",10.08,Executive,2,3.6,1:00 PM,12:00 PM,Saturday,1,0,30,2934
+Hotel Euphoria 57,Goa,"Pet Friendly, Airport Shuttle, Restaurant, Parking, Free WiFi",22.14,Standard,5,3.6,11:00 AM,2:00 PM,Sunday,1,1,66,5594
+Hotel Lagoon 8,Hyderabad,"Bar, Gym, Parking, Restaurant, Free WiFi",21.47,Executive,5,2.7,11:00 AM,2:00 PM,Saturday,1,1,83,4694
+Hotel Regency 75,Jaipur,"Parking, Pool, Restaurant, Business Center, Pet Friendly",18.12,Standard,5,3.2,2:00 PM,12:00 PM,Sunday,1,0,96,5117
+Hotel Heritage 74,Chennai,"Parking, Spa",15.48,Suite,4,4.1,2:00 PM,12:00 PM,Wednesday,1,1,54,4235
+Hotel Moonlight 88,Bangalore,"Bar, Parking, Business Center, Free WiFi",11.68,Presidential Suite,3,4.3,11:00 AM,2:00 PM,Saturday,0,1,76,3928
+Hotel Serenity 33,Pune,"Business Center, Pet Friendly",22.89,Suite,2,5.0,12:00 PM,12:00 PM,Wednesday,1,1,72,2452
+Hotel Metro 68,Delhi,"Parking, Pool, Business Center",17.48,Presidential Suite,4,4.4,12:00 PM,1:00 PM,Thursday,0,1,53,4368
+Hotel Serenity 49,Ahmedabad,"Free WiFi, Parking",15.46,Presidential Suite,4,3.9,11:00 AM,11:00 AM,Friday,1,0,30,4485
+Hotel Grand 12,Hyderabad,"Airport Shuttle, Free WiFi, Gym, Restaurant",21.55,Deluxe,4,2.8,12:00 PM,1:00 PM,Friday,0,1,81,3744
+Hotel Moonlight 5,Bangalore,"Pet Friendly, Restaurant, Airport Shuttle, Pool",5.81,Standard,3,4.6,12:00 PM,11:00 AM,Tuesday,1,0,98,4053
+Hotel Euphoria 58,Goa,"Bar, Restaurant, Free WiFi, Airport Shuttle",5.61,Deluxe,5,4.6,2:00 PM,11:00 AM,Tuesday,1,0,81,5666
+Hotel Grand 94,Goa,"Pet Friendly, Parking",9.35,Suite,2,2.8,2:00 PM,2:00 PM,Tuesday,1,1,75,2075
+Hotel Palm 3,Goa,"Pool, Restaurant, Spa, Bar",23.53,Presidential Suite,4,4.1,2:00 PM,11:00 AM,Sunday,0,1,95,4036
+Hotel Oasis 99,Hyderabad,"Bar, Airport Shuttle, Parking, Pet Friendly, Free WiFi",22.04,Standard,5,4.3,12:00 PM,2:00 PM,Saturday,0,0,29,5461
+Hotel Metro 49,Goa,"Pool, Bar, Gym",10.64,Standard,2,4.9,1:00 PM,2:00 PM,Wednesday,0,0,59,2538
+Hotel Crimson 7,Chennai,"Pool, Pet Friendly",2.79,Standard,2,4.0,12:00 PM,1:00 PM,Thursday,0,0,81,2294
+Hotel Heritage 77,Kolkata,"Restaurant, Free WiFi, Airport Shuttle, Pet Friendly, Pool",19.9,Standard,3,4.1,12:00 PM,1:00 PM,Thursday,1,0,71,3433
+Hotel Emerald 58,Jaipur,"Parking, Restaurant, Business Center, Airport Shuttle",3.64,Presidential Suite,3,4.4,11:00 AM,2:00 PM,Friday,1,1,21,3798
+Hotel Vista 25,Delhi,"Spa, Airport Shuttle",12.42,Standard,5,4.1,11:00 AM,1:00 PM,Friday,0,0,97,5089
+Hotel Crimson 95,Mumbai,"Business Center, Airport Shuttle, Gym, Bar",8.04,Deluxe,2,4.3,12:00 PM,2:00 PM,Saturday,1,1,56,2911
+Hotel Royal 51,Ahmedabad,"Bar, Business Center",18.75,Suite,5,3.6,11:00 AM,12:00 PM,Sunday,1,0,38,4897
+Hotel Bliss 31,Jaipur,"Bar, Pet Friendly, Pool, Restaurant, Business Center",23.14,Deluxe,4,3.6,12:00 PM,11:00 AM,Sunday,1,1,31,3809
+Hotel Magnolia 19,Kolkata,"Pet Friendly, Free WiFi, Gym, Pool, Parking",5.0,Suite,4,4.0,12:00 PM,12:00 PM,Thursday,1,1,43,4529
+Hotel Emerald 63,Delhi,"Gym, Restaurant, Pet Friendly, Free WiFi",22.72,Standard,3,4.5,11:00 AM,11:00 AM,Wednesday,0,0,94,3327
+Hotel Euphoria 59,Delhi,"Pool, Parking, Gym, Pet Friendly, Spa",7.61,Standard,2,3.0,12:00 PM,11:00 AM,Friday,0,1,45,2843
+Hotel Grand 15,Jaipur,"Restaurant, Pool",15.82,Standard,2,3.9,2:00 PM,12:00 PM,Saturday,0,1,36,2206
+Hotel Vista 91,Chennai,"Airport Shuttle, Bar, Pet Friendly, Free WiFi",7.65,Deluxe,3,3.4,11:00 AM,12:00 PM,Saturday,0,0,60,3142
+Hotel Palm 28,Ahmedabad,"Airport Shuttle, Pool, Free WiFi, Parking, Spa",6.48,Standard,3,3.2,1:00 PM,2:00 PM,Thursday,1,0,22,3245
+Hotel Moonlight 56,Pune,"Airport Shuttle, Spa, Pool",5.54,Suite,4,4.7,2:00 PM,2:00 PM,Monday,0,1,70,5069
+Hotel Emerald 92,Chennai,"Restaurant, Spa, Gym, Pet Friendly, Business Center",3.0,Executive,3,4.3,11:00 AM,12:00 PM,Sunday,1,0,55,4276
+Hotel Horizon 89,Mumbai,"Restaurant, Business Center, Spa, Free WiFi, Parking",16.53,Suite,5,3.3,2:00 PM,1:00 PM,Thursday,1,1,87,5208
+Hotel Emerald 80,Bangalore,"Gym, Pool, Business Center, Airport Shuttle",5.8,Executive,4,3.0,11:00 AM,1:00 PM,Friday,0,0,57,4604
+Hotel Emerald 24,Hyderabad,"Parking, Bar, Free WiFi",2.49,Executive,4,3.5,12:00 PM,1:00 PM,Thursday,1,0,84,4882
+Hotel Lagoon 27,Chennai,"Pet Friendly, Free WiFi",5.34,Executive,2,2.5,12:00 PM,2:00 PM,Saturday,1,1,96,2191
+Hotel Horizon 22,Delhi,"Free WiFi, Bar, Spa, Business Center",9.64,Executive,2,3.8,11:00 AM,2:00 PM,Tuesday,0,0,96,2153
+Hotel Palm 97,Bangalore,"Pool, Pet Friendly, Restaurant, Spa",22.97,Executive,2,4.2,12:00 PM,2:00 PM,Saturday,1,0,42,2339
+Hotel Grand 11,Hyderabad,"Business Center, Spa",14.94,Executive,4,2.9,12:00 PM,11:00 AM,Thursday,1,1,72,4342
+Hotel Oasis 40,Mumbai,"Business Center, Restaurant, Bar",13.09,Deluxe,2,2.7,12:00 PM,11:00 AM,Thursday,0,1,97,1816
+Hotel Serenity 63,Bangalore,"Airport Shuttle, Gym, Parking, Free WiFi",8.0,Deluxe,3,3.4,2:00 PM,11:00 AM,Monday,0,1,86,3030
+Hotel Magnolia 57,Hyderabad,"Bar, Free WiFi, Restaurant, Airport Shuttle",23.7,Presidential Suite,4,3.0,11:00 AM,11:00 AM,Friday,1,0,50,3682
+Hotel Metro 2,Jaipur,"Airport Shuttle, Free WiFi, Pet Friendly, Spa, Gym",17.64,Executive,5,4.0,11:00 AM,12:00 PM,Sunday,0,0,49,5863
+Hotel Heritage 91,Chennai,"Airport Shuttle, Spa, Parking, Gym",15.02,Presidential Suite,2,4.8,11:00 AM,12:00 PM,Monday,1,0,80,2557
+Hotel Horizon 29,Jaipur,"Business Center, Bar, Pet Friendly",18.8,Deluxe,3,3.0,1:00 PM,1:00 PM,Saturday,1,1,48,3337
+Hotel Moonlight 45,Jaipur,"Free WiFi, Airport Shuttle, Restaurant, Business Center",19.77,Standard,2,4.6,11:00 AM,1:00 PM,Tuesday,1,1,69,2887
+Hotel Heritage 71,Bangalore,"Business Center, Pool",4.04,Executive,2,3.3,12:00 PM,2:00 PM,Tuesday,1,1,61,2817
+Hotel Grand 72,Kolkata,"Spa, Bar",22.87,Presidential Suite,5,3.9,1:00 PM,2:00 PM,Wednesday,0,1,76,4969
+Hotel Euphoria 9,Goa,"Gym, Business Center",6.03,Executive,5,4.0,2:00 PM,11:00 AM,Monday,0,1,59,5663
+Hotel Emerald 19,Kolkata,"Gym, Pool",17.21,Presidential Suite,2,3.0,11:00 AM,11:00 AM,Saturday,0,0,61,2329
+Hotel Magnolia 76,Pune,"Parking, Free WiFi, Airport Shuttle",14.27,Deluxe,4,3.3,2:00 PM,1:00 PM,Monday,1,0,42,4031
+Hotel Sunrise 83,Chennai,"Restaurant, Pool, Pet Friendly",4.87,Deluxe,4,2.8,12:00 PM,2:00 PM,Monday,0,0,63,4947
+Hotel Palm 10,Pune,"Free WiFi, Pet Friendly",19.2,Presidential Suite,2,3.7,1:00 PM,2:00 PM,Monday,1,1,56,2172
+Hotel Magnolia 35,Ahmedabad,"Gym, Pool",4.83,Executive,2,4.5,1:00 PM,2:00 PM,Friday,1,1,50,3119
+Hotel Crimson 41,Bangalore,"Gym, Business Center, Restaurant, Parking",15.45,Deluxe,2,4.8,12:00 PM,11:00 AM,Wednesday,1,1,83,2624
+Hotel Heritage 19,Kolkata,"Airport Shuttle, Pool",6.65,Deluxe,5,4.7,2:00 PM,11:00 AM,Sunday,0,1,60,5896
+Hotel Crimson 93,Ahmedabad,"Gym, Bar",24.99,Presidential Suite,2,3.7,12:00 PM,11:00 AM,Thursday,0,0,66,1971
+Hotel Lagoon 20,Goa,"Pool, Restaurant, Airport Shuttle, Free WiFi",18.39,Presidential Suite,2,3.3,11:00 AM,12:00 PM,Monday,0,0,51,2549
+Hotel Oasis 45,Goa,"Free WiFi, Gym, Parking, Airport Shuttle",4.94,Deluxe,4,3.9,11:00 AM,1:00 PM,Friday,1,1,35,4485
+Hotel Crimson 53,Chennai,"Restaurant, Business Center, Bar, Parking, Pet Friendly",17.04,Presidential Suite,2,3.3,11:00 AM,12:00 PM,Friday,0,1,95,2707
+Hotel Sapphire 60,Ahmedabad,"Business Center, Pool, Spa, Airport Shuttle, Parking",21.91,Executive,5,3.9,2:00 PM,11:00 AM,Saturday,1,1,66,5805
+Hotel Heritage 65,Jaipur,"Bar, Gym, Parking, Business Center, Airport Shuttle",5.28,Standard,4,2.5,12:00 PM,12:00 PM,Thursday,0,1,33,3953
+Hotel Plaza 8,Kolkata,"Bar, Free WiFi, Parking, Business Center",12.36,Presidential Suite,5,4.9,12:00 PM,2:00 PM,Tuesday,0,0,35,5690
+Hotel Sapphire 25,Delhi,"Spa, Free WiFi",11.22,Presidential Suite,3,2.5,2:00 PM,11:00 AM,Monday,0,1,78,3340
+Hotel Euphoria 40,Delhi,"Bar, Pool",1.53,Executive,2,3.7,11:00 AM,11:00 AM,Thursday,0,0,60,2949
+Hotel Crimson 62,Mumbai,"Airport Shuttle, Pool",19.84,Executive,5,4.5,12:00 PM,1:00 PM,Wednesday,0,0,57,5209
+Hotel Crimson 10,Mumbai,"Free WiFi, Airport Shuttle, Spa, Parking, Restaurant",20.54,Standard,2,3.6,12:00 PM,2:00 PM,Monday,0,0,44,2219
+Hotel Grand 9,Delhi,"Spa, Bar",13.57,Executive,2,4.4,2:00 PM,2:00 PM,Tuesday,0,0,24,2687
+Hotel Royal 46,Goa,"Free WiFi, Airport Shuttle",22.3,Presidential Suite,3,3.9,1:00 PM,1:00 PM,Monday,0,1,58,3789
+Hotel Sunrise 7,Goa,"Business Center, Bar, Gym",22.39,Executive,2,4.1,12:00 PM,1:00 PM,Thursday,0,0,92,2138
+Hotel Horizon 49,Ahmedabad,"Spa, Gym, Pool",23.77,Suite,5,4.7,1:00 PM,12:00 PM,Sunday,0,1,77,5646
+Hotel Emerald 31,Chennai,"Bar, Free WiFi, Pet Friendly",13.37,Standard,3,2.7,1:00 PM,11:00 AM,Friday,1,1,39,2845
+Hotel Metro 48,Goa,"Pet Friendly, Parking",7.2,Executive,3,4.9,11:00 AM,2:00 PM,Friday,0,0,21,4199
+Hotel Euphoria 94,Pune,"Pool, Airport Shuttle, Pet Friendly, Spa",18.1,Standard,2,3.7,1:00 PM,11:00 AM,Friday,1,0,46,2869
+Hotel Sunrise 76,Kolkata,"Restaurant, Spa, Bar, Parking",1.19,Deluxe,4,3.7,12:00 PM,2:00 PM,Sunday,0,0,92,4517
+Hotel Euphoria 15,Hyderabad,"Airport Shuttle, Spa",14.14,Suite,5,3.3,1:00 PM,1:00 PM,Friday,1,1,65,4894
+Hotel Bliss 45,Goa,"Business Center, Pet Friendly",10.34,Presidential Suite,4,2.9,1:00 PM,1:00 PM,Monday,0,0,71,4213
+Hotel Heritage 48,Jaipur,"Spa, Business Center, Pet Friendly, Gym, Pool",15.86,Deluxe,3,4.4,1:00 PM,2:00 PM,Tuesday,0,1,73,3151
+Hotel Crimson 86,Jaipur,"Business Center, Pool, Bar, Restaurant, Pet Friendly",22.64,Deluxe,2,4.6,11:00 AM,11:00 AM,Friday,0,0,72,2802
+Hotel Royal 90,Ahmedabad,"Bar, Gym, Pet Friendly, Pool, Airport Shuttle",16.05,Executive,4,2.5,2:00 PM,1:00 PM,Saturday,0,0,97,3721
+Hotel Heritage 94,Hyderabad,"Airport Shuttle, Pet Friendly, Bar, Gym",11.52,Suite,2,5.0,1:00 PM,12:00 PM,Thursday,1,0,81,3037
+Hotel Palm 26,Goa,"Free WiFi, Restaurant, Spa, Business Center",9.65,Suite,2,3.9,2:00 PM,12:00 PM,Wednesday,0,0,97,2581
+Hotel Crimson 6,Delhi,"Free WiFi, Restaurant, Bar, Spa",2.55,Executive,4,5.0,2:00 PM,1:00 PM,Wednesday,1,1,27,4503
+Hotel Regency 77,Bangalore,"Parking, Pet Friendly, Gym, Free WiFi",1.64,Suite,2,3.0,11:00 AM,11:00 AM,Wednesday,0,0,34,2229
+Hotel Heritage 36,Mumbai,"Restaurant, Pet Friendly, Spa, Parking, Free WiFi",23.12,Executive,3,3.5,1:00 PM,12:00 PM,Thursday,0,1,39,3094
+Hotel Sunrise 21,Bangalore,"Free WiFi, Business Center, Airport Shuttle, Parking",18.71,Suite,3,2.9,11:00 AM,12:00 PM,Friday,0,1,65,3576
+Hotel Crimson 20,Jaipur,"Pool, Bar, Parking",8.91,Presidential Suite,3,3.7,1:00 PM,1:00 PM,Friday,0,0,84,3158
+Hotel Metro 90,Hyderabad,"Parking, Pool, Free WiFi, Airport Shuttle, Gym",19.11,Presidential Suite,2,4.6,11:00 AM,12:00 PM,Thursday,0,0,45,2851
+Hotel Serenity 9,Jaipur,"Spa, Parking, Restaurant",15.27,Deluxe,3,5.0,12:00 PM,11:00 AM,Sunday,1,1,82,3796
+Hotel Horizon 44,Bangalore,"Business Center, Pet Friendly, Restaurant, Pool, Bar",7.3,Suite,4,4.6,1:00 PM,11:00 AM,Monday,0,1,30,4423
+Hotel Grand 88,Bangalore,"Pet Friendly, Spa, Pool, Restaurant",23.14,Presidential Suite,4,3.4,11:00 AM,11:00 AM,Friday,1,1,70,3762
+Hotel Emerald 26,Mumbai,"Free WiFi, Pet Friendly, Parking, Airport Shuttle",11.99,Presidential Suite,3,3.0,2:00 PM,11:00 AM,Friday,0,1,37,3126
+Hotel Palm 19,Bangalore,"Pool, Gym, Airport Shuttle, Spa",7.03,Standard,2,5.0,12:00 PM,11:00 AM,Saturday,0,0,61,2817
+Hotel Grand 54,Ahmedabad,"Airport Shuttle, Restaurant, Parking",24.16,Executive,5,4.1,2:00 PM,2:00 PM,Sunday,0,0,94,4947
+Hotel Bliss 10,Delhi,"Gym, Spa",10.2,Executive,5,2.6,1:00 PM,1:00 PM,Saturday,0,0,30,5780
+Hotel Euphoria 27,Kolkata,"Business Center, Parking",4.66,Suite,4,5.0,11:00 AM,1:00 PM,Monday,0,1,92,4590
+Hotel Oasis 74,Delhi,"Pet Friendly, Business Center, Free WiFi, Gym, Parking",21.73,Deluxe,3,4.7,1:00 PM,11:00 AM,Tuesday,0,0,71,3621
+Hotel Serenity 73,Mumbai,"Restaurant, Parking, Gym, Pool",1.06,Presidential Suite,4,2.7,11:00 AM,1:00 PM,Friday,0,0,24,4147
+Hotel Crimson 5,Kolkata,"Parking, Restaurant, Business Center, Gym",24.43,Deluxe,3,3.5,12:00 PM,1:00 PM,Monday,0,0,94,3270
+Hotel Oasis 24,Jaipur,"Airport Shuttle, Pet Friendly, Spa, Parking, Restaurant",1.15,Executive,5,3.2,12:00 PM,2:00 PM,Wednesday,1,0,51,5205
+Hotel Oasis 13,Ahmedabad,"Parking, Gym, Free WiFi, Pet Friendly, Spa",12.18,Deluxe,2,3.1,1:00 PM,12:00 PM,Sunday,0,1,35,2636
+Hotel Oasis 53,Bangalore,"Pet Friendly, Gym, Restaurant",10.41,Presidential Suite,5,3.3,2:00 PM,1:00 PM,Friday,0,1,20,5202
+Hotel Grand 41,Ahmedabad,"Parking, Airport Shuttle, Pool",8.27,Standard,2,4.8,1:00 PM,2:00 PM,Thursday,0,1,36,3223
+Hotel Lagoon 67,Ahmedabad,"Airport Shuttle, Parking, Free WiFi, Gym, Pool",7.75,Presidential Suite,2,4.9,2:00 PM,12:00 PM,Saturday,1,1,99,2625
+Hotel Sapphire 29,Kolkata,"Bar, Free WiFi",2.72,Deluxe,3,2.7,2:00 PM,2:00 PM,Wednesday,1,0,54,3767
+Hotel Grand 90,Ahmedabad,"Airport Shuttle, Business Center, Gym",18.14,Executive,2,3.3,12:00 PM,12:00 PM,Wednesday,1,1,66,2282
+Hotel Metro 83,Bangalore,"Bar, Free WiFi, Gym, Parking",9.58,Suite,4,3.1,1:00 PM,1:00 PM,Wednesday,1,0,38,3937
+Hotel Sunrise 71,Kolkata,"Free WiFi, Gym",15.9,Presidential Suite,3,4.1,2:00 PM,1:00 PM,Tuesday,1,0,92,3918
+Hotel Euphoria 38,Bangalore,"Spa, Parking, Pet Friendly",1.48,Suite,3,4.8,11:00 AM,2:00 PM,Wednesday,1,1,100,4258
+Hotel Vista 50,Chennai,"Restaurant, Bar, Pool, Parking",3.42,Presidential Suite,5,4.2,11:00 AM,2:00 PM,Sunday,0,1,91,5365
+Hotel Royal 100,Delhi,"Pet Friendly, Business Center, Spa, Free WiFi, Gym",1.4,Standard,2,3.7,2:00 PM,2:00 PM,Saturday,1,1,22,2295
+Hotel Regency 77,Delhi,"Parking, Restaurant, Bar",24.82,Standard,4,3.0,12:00 PM,12:00 PM,Wednesday,1,1,74,4433
+Hotel Sapphire 53,Jaipur,"Parking, Airport Shuttle, Spa",0.5,Suite,5,4.6,2:00 PM,11:00 AM,Friday,1,1,64,5523
+Hotel Serenity 53,Chennai,"Business Center, Restaurant",4.88,Deluxe,4,2.8,1:00 PM,12:00 PM,Friday,0,1,74,4064
+Hotel Serenity 27,Hyderabad,"Spa, Airport Shuttle, Free WiFi, Pool",22.98,Presidential Suite,4,2.7,11:00 AM,2:00 PM,Saturday,0,1,76,3889
+Hotel Emerald 8,Delhi,"Business Center, Pool",18.51,Deluxe,5,3.9,11:00 AM,11:00 AM,Wednesday,1,0,84,5207
+Hotel Magnolia 87,Jaipur,"Restaurant, Business Center, Pet Friendly, Gym",22.02,Executive,5,2.8,2:00 PM,11:00 AM,Wednesday,0,0,67,5133
+Hotel Royal 85,Chennai,"Airport Shuttle, Free WiFi, Bar, Spa, Parking",2.35,Standard,3,3.6,11:00 AM,12:00 PM,Tuesday,0,1,52,3284
+Hotel Euphoria 58,Hyderabad,"Free WiFi, Restaurant",18.51,Deluxe,4,2.5,1:00 PM,2:00 PM,Tuesday,0,0,78,3942
+Hotel Plaza 56,Kolkata,"Restaurant, Pet Friendly, Airport Shuttle, Free WiFi, Gym",1.7,Executive,5,4.8,11:00 AM,12:00 PM,Monday,1,1,32,6246
+Hotel Oasis 69,Jaipur,"Pet Friendly, Spa, Pool, Free WiFi",23.89,Presidential Suite,3,3.8,2:00 PM,2:00 PM,Saturday,0,0,37,2846
+Hotel Metro 72,Delhi,"Parking, Business Center, Gym, Pet Friendly",8.7,Presidential Suite,4,4.7,11:00 AM,12:00 PM,Monday,0,0,22,5221
+Hotel Oasis 42,Bangalore,"Business Center, Bar, Pool, Parking",12.54,Presidential Suite,2,4.7,2:00 PM,2:00 PM,Monday,1,1,36,2405
+Hotel Plaza 43,Hyderabad,"Free WiFi, Parking, Spa",13.51,Deluxe,3,3.7,11:00 AM,12:00 PM,Monday,1,0,84,3683
+Hotel Bliss 44,Bangalore,"Spa, Gym, Free WiFi, Business Center",0.62,Standard,4,3.5,1:00 PM,11:00 AM,Wednesday,1,0,72,4982
+Hotel Lagoon 94,Ahmedabad,"Business Center, Pool, Spa, Restaurant",9.58,Presidential Suite,3,4.6,12:00 PM,2:00 PM,Friday,0,0,55,3551
+Hotel Plaza 16,Ahmedabad,"Restaurant, Business Center, Pool, Bar",20.59,Standard,3,3.8,2:00 PM,12:00 PM,Saturday,0,1,24,3821
+Hotel Serenity 77,Hyderabad,"Gym, Business Center, Pool, Spa, Free WiFi",10.1,Deluxe,5,5.0,11:00 AM,2:00 PM,Monday,0,0,80,6202
+Hotel Vista 32,Ahmedabad,"Bar, Gym, Parking, Airport Shuttle",3.11,Suite,5,4.9,11:00 AM,2:00 PM,Thursday,1,0,44,5659
+Hotel Euphoria 92,Ahmedabad,"Free WiFi, Restaurant",10.59,Presidential Suite,3,4.4,2:00 PM,2:00 PM,Friday,0,1,55,3421
+Hotel Magnolia 100,Mumbai,"Free WiFi, Pet Friendly, Parking, Business Center",19.34,Executive,3,3.7,12:00 PM,11:00 AM,Thursday,0,0,99,3732
+Hotel Horizon 22,Jaipur,"Airport Shuttle, Parking, Gym, Bar, Business Center",18.75,Presidential Suite,4,3.4,1:00 PM,11:00 AM,Friday,1,0,87,4486
+Hotel Lagoon 69,Jaipur,"Restaurant, Spa, Pool, Airport Shuttle",6.19,Standard,3,3.8,12:00 PM,2:00 PM,Saturday,1,0,72,3820
+Hotel Vista 5,Hyderabad,"Airport Shuttle, Free WiFi",24.9,Executive,5,2.6,12:00 PM,2:00 PM,Friday,0,0,38,4584
+Hotel Crimson 24,Ahmedabad,"Airport Shuttle, Business Center, Gym",24.85,Suite,4,2.7,11:00 AM,12:00 PM,Sunday,0,0,89,3972
+Hotel Euphoria 32,Ahmedabad,"Parking, Pet Friendly, Gym, Pool",15.22,Executive,2,2.6,1:00 PM,2:00 PM,Thursday,0,0,85,1884
+Hotel Bliss 56,Chennai,"Parking, Gym",8.28,Standard,5,4.0,1:00 PM,11:00 AM,Tuesday,0,1,22,5782
+Hotel Bliss 74,Hyderabad,"Parking, Restaurant, Airport Shuttle, Pool, Business Center",5.14,Standard,3,4.5,1:00 PM,1:00 PM,Friday,1,0,42,3439
+Hotel Moonlight 38,Jaipur,"Free WiFi, Parking, Spa",5.58,Deluxe,4,4.6,1:00 PM,1:00 PM,Friday,0,1,70,5030
+Hotel Moonlight 62,Mumbai,"Parking, Business Center, Airport Shuttle, Bar, Gym",14.02,Deluxe,2,4.7,2:00 PM,2:00 PM,Tuesday,0,0,68,2904
+Hotel Sunrise 54,Bangalore,"Pool, Parking, Airport Shuttle",21.15,Presidential Suite,4,4.3,1:00 PM,11:00 AM,Sunday,1,0,27,4689
+Hotel Plaza 65,Mumbai,"Gym, Bar, Restaurant, Free WiFi, Spa",21.78,Standard,5,3.7,1:00 PM,11:00 AM,Friday,1,0,35,5231
+Hotel Oasis 87,Chennai,"Restaurant, Bar",24.08,Deluxe,5,4.2,2:00 PM,11:00 AM,Tuesday,0,1,88,5139
+Hotel Lagoon 78,Hyderabad,"Bar, Business Center",15.37,Suite,4,4.4,12:00 PM,1:00 PM,Sunday,0,0,59,4216
+Hotel Grand 66,Delhi,"Pool, Pet Friendly",19.08,Suite,3,4.2,12:00 PM,12:00 PM,Wednesday,1,1,23,3777
+Hotel Euphoria 96,Bangalore,"Parking, Airport Shuttle, Pet Friendly",6.05,Deluxe,5,3.0,2:00 PM,1:00 PM,Sunday,0,0,62,5568
+Hotel Lagoon 11,Goa,"Free WiFi, Parking, Business Center, Pet Friendly",17.72,Deluxe,4,2.7,12:00 PM,2:00 PM,Wednesday,1,0,38,4680
+Hotel Regency 20,Pune,"Pool, Business Center",18.36,Presidential Suite,5,3.6,1:00 PM,11:00 AM,Monday,1,0,37,5037
+Hotel Sunrise 25,Chennai,"Business Center, Restaurant, Airport Shuttle",7.5,Deluxe,2,3.0,12:00 PM,2:00 PM,Sunday,1,1,97,2452
+Hotel Crimson 83,Mumbai,"Restaurant, Pool, Free WiFi, Business Center",2.96,Deluxe,3,4.6,2:00 PM,2:00 PM,Sunday,1,1,88,3682
+Hotel Heritage 23,Pune,"Bar, Business Center",3.67,Deluxe,4,3.2,12:00 PM,1:00 PM,Tuesday,0,0,88,4204
+Hotel Magnolia 62,Ahmedabad,"Parking, Pet Friendly",11.22,Presidential Suite,2,3.4,12:00 PM,12:00 PM,Tuesday,0,1,36,2268
+Hotel Sunrise 39,Ahmedabad,"Pet Friendly, Spa, Restaurant, Business Center, Free WiFi",2.38,Presidential Suite,2,3.7,11:00 AM,12:00 PM,Sunday,0,0,54,2680
+Hotel Heritage 91,Jaipur,"Business Center, Airport Shuttle, Spa, Bar",1.64,Standard,4,4.7,2:00 PM,1:00 PM,Tuesday,0,0,94,4512
+Hotel Vista 32,Delhi,"Spa, Gym",11.67,Executive,4,3.3,11:00 AM,2:00 PM,Sunday,0,1,38,4402
+Hotel Plaza 56,Kolkata,"Bar, Free WiFi",22.64,Standard,5,3.5,1:00 PM,2:00 PM,Friday,0,1,25,5468
+Hotel Palm 41,Goa,"Airport Shuttle, Parking",11.73,Standard,3,4.6,2:00 PM,11:00 AM,Sunday,1,0,34,4158
+Hotel Vista 20,Hyderabad,"Gym, Spa, Pet Friendly, Free WiFi",5.9,Executive,4,5.0,12:00 PM,1:00 PM,Tuesday,1,0,77,5114
+Hotel Emerald 31,Kolkata,"Spa, Restaurant",2.98,Presidential Suite,5,3.5,11:00 AM,12:00 PM,Friday,1,0,95,5563
+Hotel Euphoria 51,Bangalore,"Gym, Parking, Bar, Pool",4.87,Standard,4,2.6,11:00 AM,12:00 PM,Saturday,0,1,29,4635
+Hotel Emerald 72,Ahmedabad,"Free WiFi, Business Center, Airport Shuttle, Bar",20.21,Executive,4,4.6,2:00 PM,1:00 PM,Wednesday,0,0,51,4370
+Hotel Heritage 95,Hyderabad,"Restaurant, Business Center, Pool",15.25,Presidential Suite,2,3.8,12:00 PM,12:00 PM,Thursday,1,0,46,2714
+Hotel Bliss 23,Mumbai,"Restaurant, Pool, Business Center, Airport Shuttle, Bar",12.6,Presidential Suite,5,2.8,2:00 PM,11:00 AM,Wednesday,1,1,73,5350
+Hotel Grand 75,Mumbai,"Spa, Free WiFi",24.76,Suite,3,4.2,11:00 AM,11:00 AM,Tuesday,0,0,33,3187
+Hotel Moonlight 68,Ahmedabad,"Gym, Restaurant, Free WiFi, Pet Friendly, Parking",12.41,Presidential Suite,5,4.1,1:00 PM,1:00 PM,Sunday,1,0,41,5783
+Hotel Oasis 57,Goa,"Restaurant, Parking, Pet Friendly, Business Center, Spa",1.86,Standard,4,4.6,11:00 AM,11:00 AM,Tuesday,1,0,94,4386
+Hotel Vista 71,Delhi,"Restaurant, Free WiFi, Bar, Pool, Parking",18.59,Deluxe,5,5.0,12:00 PM,12:00 PM,Wednesday,1,0,79,6060
+Hotel Regency 100,Chennai,"Business Center, Restaurant",5.3,Executive,5,3.4,1:00 PM,1:00 PM,Tuesday,0,1,76,6024
+Hotel Palm 5,Goa,"Airport Shuttle, Spa",12.11,Executive,4,4.8,11:00 AM,1:00 PM,Tuesday,1,0,80,5049
+Hotel Euphoria 45,Mumbai,"Pet Friendly, Free WiFi, Bar",7.66,Executive,4,4.7,1:00 PM,1:00 PM,Friday,1,1,44,5074
+Hotel Heritage 20,Goa,"Business Center, Free WiFi",12.31,Presidential Suite,2,3.6,11:00 AM,12:00 PM,Thursday,0,1,92,2686
+Hotel Vista 92,Kolkata,"Parking, Free WiFi, Bar, Restaurant, Airport Shuttle",2.15,Suite,2,5.0,12:00 PM,12:00 PM,Sunday,0,1,77,2579
+Hotel Moonlight 61,Jaipur,"Pet Friendly, Spa",10.84,Executive,4,2.5,2:00 PM,2:00 PM,Monday,0,1,78,4095
+Hotel Magnolia 92,Mumbai,"Gym, Pool, Pet Friendly, Bar",11.9,Deluxe,3,4.9,2:00 PM,12:00 PM,Thursday,0,0,47,4190
+Hotel Metro 53,Delhi,"Spa, Free WiFi",2.77,Executive,3,3.1,12:00 PM,2:00 PM,Monday,0,1,51,3350
+Hotel Heritage 71,Kolkata,"Restaurant, Pet Friendly",9.72,Executive,5,3.1,11:00 AM,11:00 AM,Tuesday,1,1,50,5676
+Hotel Emerald 31,Hyderabad,"Restaurant, Bar, Free WiFi, Gym",15.4,Suite,4,3.8,2:00 PM,12:00 PM,Wednesday,0,1,74,4845
+Hotel Crimson 54,Goa,"Gym, Bar, Airport Shuttle, Restaurant, Pool",18.38,Deluxe,2,3.1,11:00 AM,1:00 PM,Saturday,0,0,98,2051
+Hotel Royal 39,Chennai,"Pet Friendly, Gym, Restaurant, Parking",3.64,Deluxe,5,4.3,2:00 PM,2:00 PM,Sunday,0,1,70,6057
+Hotel Grand 73,Goa,"Pool, Airport Shuttle",9.74,Presidential Suite,5,3.6,11:00 AM,11:00 AM,Monday,0,1,39,5582
+Hotel Sunrise 10,Chennai,"Free WiFi, Spa",4.76,Standard,2,3.5,2:00 PM,2:00 PM,Friday,1,1,71,2924
+Hotel Royal 67,Hyderabad,"Pet Friendly, Gym, Parking, Pool, Bar",4.12,Deluxe,2,2.9,2:00 PM,1:00 PM,Sunday,1,0,59,2292
+Hotel Royal 22,Hyderabad,"Pool, Restaurant, Airport Shuttle, Parking",1.58,Executive,5,3.7,1:00 PM,12:00 PM,Thursday,0,0,88,5316
+Hotel Vista 77,Bangalore,"Parking, Restaurant, Free WiFi, Airport Shuttle, Pool",18.27,Suite,5,4.1,12:00 PM,2:00 PM,Sunday,1,1,42,5305
+Hotel Metro 80,Jaipur,"Airport Shuttle, Bar, Pet Friendly, Restaurant",3.63,Standard,5,3.1,1:00 PM,2:00 PM,Friday,1,0,76,5355
+Hotel Vista 14,Bangalore,"Free WiFi, Bar, Parking, Pet Friendly",21.66,Presidential Suite,5,3.8,11:00 AM,1:00 PM,Wednesday,0,1,28,5023
+Hotel Regency 60,Hyderabad,"Pool, Spa, Business Center, Restaurant",18.03,Deluxe,2,4.2,1:00 PM,11:00 AM,Monday,0,1,23,2380
+Hotel Bliss 55,Chennai,"Spa, Business Center, Airport Shuttle",19.98,Presidential Suite,3,3.1,2:00 PM,2:00 PM,Sunday,1,1,42,3507
+Hotel Euphoria 52,Goa,"Spa, Restaurant, Free WiFi, Business Center",15.01,Standard,2,2.8,11:00 AM,11:00 AM,Sunday,1,0,99,2691
+Hotel Regency 90,Chennai,"Airport Shuttle, Restaurant, Business Center, Free WiFi",8.5,Suite,5,4.5,1:00 PM,2:00 PM,Tuesday,1,0,31,5394
+Hotel Grand 95,Delhi,"Spa, Airport Shuttle, Gym, Business Center",5.15,Executive,5,4.5,12:00 PM,1:00 PM,Wednesday,1,0,75,5668
+Hotel Emerald 84,Mumbai,"Pool, Bar",18.07,Executive,4,4.2,2:00 PM,12:00 PM,Saturday,1,0,28,4347
+Hotel Metro 38,Goa,"Airport Shuttle, Spa",16.79,Presidential Suite,4,3.5,1:00 PM,12:00 PM,Saturday,1,1,62,4319
+Hotel Lagoon 18,Bangalore,"Restaurant, Spa, Bar, Pet Friendly",17.45,Executive,4,4.1,1:00 PM,11:00 AM,Thursday,1,1,33,4582
+Hotel Emerald 21,Mumbai,"Business Center, Pet Friendly, Pool, Airport Shuttle, Restaurant",13.63,Executive,5,4.9,11:00 AM,1:00 PM,Wednesday,0,0,67,5775
+Hotel Euphoria 55,Jaipur,"Bar, Pool, Pet Friendly",18.38,Standard,2,3.2,11:00 AM,12:00 PM,Saturday,0,1,65,2232
+Hotel Regency 91,Mumbai,"Free WiFi, Gym, Bar, Business Center, Restaurant",7.13,Suite,5,3.3,1:00 PM,1:00 PM,Tuesday,1,1,64,5205
+Hotel Palm 86,Goa,"Gym, Free WiFi",5.3,Presidential Suite,5,4.8,1:00 PM,2:00 PM,Tuesday,1,0,40,5443
+Hotel Royal 39,Hyderabad,"Free WiFi, Gym, Spa, Pool",24.69,Deluxe,3,2.8,12:00 PM,2:00 PM,Friday,1,1,23,2869
+Hotel Vista 61,Delhi,"Pool, Bar, Airport Shuttle, Business Center, Restaurant",17.01,Presidential Suite,5,4.0,12:00 PM,2:00 PM,Monday,1,1,40,5082
+Hotel Vista 7,Jaipur,"Spa, Pool",2.82,Executive,2,4.1,2:00 PM,12:00 PM,Saturday,1,1,61,2686
+Hotel Palm 91,Jaipur,"Bar, Spa",1.85,Presidential Suite,5,3.2,11:00 AM,11:00 AM,Tuesday,1,0,37,5787
+Hotel Oasis 12,Mumbai,"Business Center, Gym, Restaurant, Pool",9.51,Presidential Suite,4,2.6,11:00 AM,2:00 PM,Tuesday,1,1,87,4301
+Hotel Regency 89,Delhi,"Bar, Restaurant",10.72,Deluxe,4,4.8,1:00 PM,11:00 AM,Thursday,1,0,40,4744
+Hotel Metro 2,Hyderabad,"Business Center, Airport Shuttle",15.8,Suite,5,4.9,12:00 PM,1:00 PM,Sunday,1,1,71,5660
+Hotel Oasis 48,Delhi,"Gym, Bar, Pet Friendly, Free WiFi, Spa",3.16,Deluxe,2,3.4,2:00 PM,2:00 PM,Sunday,0,1,94,3004
+Hotel Serenity 20,Pune,"Gym, Restaurant",23.78,Deluxe,5,2.8,1:00 PM,12:00 PM,Saturday,1,0,73,5202
+Hotel Moonlight 37,Jaipur,"Spa, Business Center, Free WiFi, Parking, Pool",1.94,Executive,5,4.2,1:00 PM,12:00 PM,Wednesday,0,1,21,5342
+Hotel Lagoon 59,Jaipur,"Restaurant, Gym, Bar, Free WiFi",19.05,Suite,5,3.3,1:00 PM,2:00 PM,Monday,0,0,70,5523
+Hotel Palm 86,Pune,"Gym, Spa",9.88,Deluxe,4,4.7,12:00 PM,11:00 AM,Thursday,0,1,23,5053
+Hotel Grand 21,Ahmedabad,"Spa, Parking, Airport Shuttle",3.85,Standard,3,4.6,2:00 PM,12:00 PM,Friday,0,0,48,3909
+Hotel Moonlight 49,Hyderabad,"Spa, Pet Friendly",21.29,Standard,5,4.6,12:00 PM,11:00 AM,Thursday,0,0,37,5195
+Hotel Lagoon 88,Delhi,"Bar, Gym, Airport Shuttle, Business Center",5.76,Suite,4,4.0,11:00 AM,12:00 PM,Friday,0,1,83,4809
+Hotel Bliss 100,Pune,"Pool, Parking, Restaurant",14.02,Standard,4,4.8,11:00 AM,11:00 AM,Saturday,0,0,55,4222
+Hotel Horizon 21,Pune,"Parking, Free WiFi, Restaurant, Bar, Gym",13.02,Executive,2,4.7,11:00 AM,2:00 PM,Friday,0,1,72,2368
+Hotel Lagoon 10,Ahmedabad,"Spa, Bar, Pet Friendly, Restaurant, Airport Shuttle",10.47,Presidential Suite,4,4.1,12:00 PM,12:00 PM,Sunday,1,1,47,5103
+Hotel Emerald 32,Hyderabad,"Business Center, Bar, Pool",22.65,Suite,4,3.6,12:00 PM,1:00 PM,Thursday,1,0,75,4028
+Hotel Metro 38,Hyderabad,"Business Center, Parking",20.42,Deluxe,3,4.0,1:00 PM,1:00 PM,Saturday,0,1,35,3198
+Hotel Horizon 43,Goa,"Pool, Business Center, Bar",5.0,Executive,4,4.3,2:00 PM,12:00 PM,Friday,0,0,38,4781
+Hotel Emerald 40,Delhi,"Restaurant, Business Center",24.41,Standard,2,4.7,11:00 AM,1:00 PM,Monday,0,0,60,2762
+Hotel Sunrise 3,Pune,"Pool, Gym, Business Center, Restaurant",21.26,Standard,3,2.8,12:00 PM,2:00 PM,Friday,1,1,45,3309
+Hotel Bliss 27,Mumbai,"Pet Friendly, Bar, Gym",21.69,Executive,5,3.9,2:00 PM,1:00 PM,Thursday,0,1,27,5643
+Hotel Serenity 63,Ahmedabad,"Bar, Pool, Business Center",11.42,Suite,5,3.8,12:00 PM,1:00 PM,Tuesday,1,0,31,6021
+Hotel Grand 55,Jaipur,"Spa, Bar",11.0,Presidential Suite,3,4.4,2:00 PM,11:00 AM,Tuesday,0,0,71,3817
+Hotel Plaza 96,Goa,"Pool, Parking, Gym, Free WiFi",15.78,Presidential Suite,5,3.2,2:00 PM,1:00 PM,Sunday,0,0,63,5244
+Hotel Plaza 83,Mumbai,"Business Center, Free WiFi, Gym, Bar",3.75,Presidential Suite,3,2.8,12:00 PM,12:00 PM,Wednesday,1,1,28,3575
+Hotel Heritage 42,Kolkata,"Pool, Gym, Restaurant",20.01,Standard,4,4.0,1:00 PM,12:00 PM,Monday,1,0,22,4151
+Hotel Metro 83,Chennai,"Pet Friendly, Restaurant",1.14,Suite,2,3.6,12:00 PM,1:00 PM,Friday,1,0,54,2731
+Hotel Horizon 15,Pune,"Parking, Spa, Pool, Pet Friendly, Business Center",2.19,Presidential Suite,2,2.7,12:00 PM,12:00 PM,Sunday,1,1,35,2025
+Hotel Serenity 6,Goa,"Restaurant, Bar, Parking",2.88,Suite,5,4.3,11:00 AM,2:00 PM,Wednesday,0,1,78,5805
+Hotel Vista 15,Ahmedabad,"Airport Shuttle, Gym",23.76,Presidential Suite,3,4.4,11:00 AM,12:00 PM,Thursday,0,0,35,3704
+Hotel Palm 30,Chennai,"Spa, Gym",20.47,Standard,4,5.0,2:00 PM,12:00 PM,Saturday,0,0,49,4111
+Hotel Horizon 30,Mumbai,"Gym, Spa, Airport Shuttle, Free WiFi",15.85,Presidential Suite,4,4.6,2:00 PM,1:00 PM,Tuesday,0,1,28,4603
+Hotel Crimson 87,Hyderabad,"Airport Shuttle, Pet Friendly, Free WiFi",9.53,Standard,2,4.3,11:00 AM,1:00 PM,Thursday,1,1,39,2787
+Hotel Plaza 37,Goa,"Gym, Parking, Pool",7.04,Executive,5,2.6,11:00 AM,1:00 PM,Monday,0,1,39,5161
+Hotel Bliss 54,Bangalore,"Bar, Spa, Restaurant, Pool, Gym",7.75,Suite,2,3.0,1:00 PM,11:00 AM,Thursday,0,1,90,2522
+Hotel Metro 18,Hyderabad,"Restaurant, Pet Friendly, Bar, Free WiFi",8.68,Suite,3,2.5,2:00 PM,2:00 PM,Saturday,0,1,55,3035
+Hotel Plaza 94,Goa,"Restaurant, Pet Friendly",9.21,Standard,3,2.9,12:00 PM,1:00 PM,Monday,0,1,80,3828
+Hotel Sapphire 63,Ahmedabad,"Free WiFi, Airport Shuttle",14.74,Standard,2,3.7,1:00 PM,2:00 PM,Tuesday,0,0,56,2857
+Hotel Regency 6,Ahmedabad,"Gym, Pool, Business Center",13.03,Standard,2,3.7,11:00 AM,12:00 PM,Saturday,0,0,66,2513
+Hotel Euphoria 81,Pune,"Restaurant, Bar, Airport Shuttle",22.63,Presidential Suite,2,3.0,12:00 PM,12:00 PM,Friday,1,0,59,2215
+Hotel Vista 75,Delhi,"Pool, Restaurant, Business Center",24.14,Executive,5,2.9,1:00 PM,11:00 AM,Thursday,1,0,48,5138
+Hotel Sunrise 11,Bangalore,"Business Center, Pet Friendly, Restaurant, Free WiFi",12.17,Presidential Suite,4,4.6,1:00 PM,2:00 PM,Monday,0,1,60,4992
+Hotel Lagoon 50,Goa,"Restaurant, Free WiFi, Bar, Gym",6.66,Presidential Suite,5,3.1,11:00 AM,12:00 PM,Saturday,0,1,95,5612
+Hotel Euphoria 55,Kolkata,"Bar, Pool",11.34,Suite,4,3.1,2:00 PM,11:00 AM,Tuesday,0,0,84,3933
+Hotel Plaza 97,Delhi,"Airport Shuttle, Bar",7.58,Executive,4,2.5,2:00 PM,12:00 PM,Tuesday,0,0,80,3890
+Hotel Oasis 46,Bangalore,"Gym, Airport Shuttle",1.66,Standard,5,3.2,2:00 PM,12:00 PM,Thursday,0,0,33,5202
+Hotel Magnolia 77,Chennai,"Gym, Pet Friendly, Restaurant, Parking",15.51,Suite,5,3.7,11:00 AM,12:00 PM,Wednesday,1,1,26,5510
+Hotel Emerald 84,Ahmedabad,"Airport Shuttle, Bar, Pool, Pet Friendly, Gym",11.32,Suite,4,4.7,12:00 PM,11:00 AM,Tuesday,1,1,54,4370
+Hotel Royal 62,Bangalore,"Spa, Pool, Restaurant, Business Center",9.08,Executive,2,4.3,11:00 AM,11:00 AM,Sunday,1,1,27,3138
+Hotel Palm 61,Goa,"Pet Friendly, Parking",24.22,Executive,2,2.8,2:00 PM,2:00 PM,Thursday,0,1,39,1615
+Hotel Heritage 67,Delhi,"Spa, Business Center, Gym",22.29,Standard,4,3.7,2:00 PM,1:00 PM,Tuesday,1,0,22,4441
+Hotel Grand 72,Pune,"Bar, Parking, Business Center, Gym",8.07,Executive,3,3.3,2:00 PM,1:00 PM,Monday,0,1,62,3510
+Hotel Moonlight 61,Kolkata,"Spa, Pet Friendly",6.48,Deluxe,3,2.7,1:00 PM,2:00 PM,Thursday,1,1,46,3362
+Hotel Euphoria 49,Delhi,"Pool, Restaurant",8.78,Executive,2,2.8,2:00 PM,12:00 PM,Saturday,0,0,74,2138
+Hotel Magnolia 27,Bangalore,"Restaurant, Bar",13.53,Deluxe,4,2.6,12:00 PM,11:00 AM,Friday,1,1,55,3881
+Hotel Magnolia 35,Delhi,"Spa, Pool, Free WiFi",12.68,Standard,2,3.4,12:00 PM,1:00 PM,Monday,1,1,82,2152
+Hotel Vista 8,Hyderabad,"Pet Friendly, Spa, Business Center",15.05,Suite,4,3.9,12:00 PM,12:00 PM,Monday,1,1,69,4731
+Hotel Regency 9,Mumbai,"Spa, Airport Shuttle, Pool, Restaurant, Business Center",19.75,Deluxe,5,4.7,12:00 PM,11:00 AM,Sunday,1,0,35,5453
+Hotel Sunrise 57,Hyderabad,"Pool, Gym, Airport Shuttle, Pet Friendly",12.05,Presidential Suite,2,3.0,12:00 PM,12:00 PM,Tuesday,1,0,46,2445
+Hotel Heritage 70,Goa,"Restaurant, Free WiFi, Pet Friendly",24.67,Deluxe,2,3.9,1:00 PM,1:00 PM,Monday,0,1,21,2363
+Hotel Serenity 46,Pune,"Pool, Parking, Gym",0.89,Presidential Suite,5,2.8,1:00 PM,12:00 PM,Tuesday,0,1,57,5693
+Hotel Emerald 83,Kolkata,"Parking, Gym, Bar",18.89,Suite,3,3.9,12:00 PM,1:00 PM,Wednesday,1,1,58,3535
+Hotel Palm 50,Chennai,"Business Center, Bar, Pool, Free WiFi, Spa",0.61,Presidential Suite,3,2.6,1:00 PM,12:00 PM,Wednesday,1,0,75,3066
+Hotel Emerald 62,Kolkata,"Airport Shuttle, Free WiFi, Business Center",24.62,Suite,4,3.6,11:00 AM,11:00 AM,Thursday,1,0,63,4484
+Hotel Horizon 76,Chennai,"Restaurant, Airport Shuttle, Pool, Gym, Spa",10.08,Standard,4,4.6,12:00 PM,1:00 PM,Tuesday,1,0,55,4699
+Hotel Sunrise 22,Chennai,"Pet Friendly, Gym, Parking, Pool, Bar",23.77,Deluxe,2,4.6,2:00 PM,2:00 PM,Saturday,1,0,97,2652
+Hotel Regency 10,Mumbai,"Gym, Airport Shuttle, Bar, Business Center",3.29,Suite,3,4.4,1:00 PM,12:00 PM,Wednesday,0,0,64,3970
+Hotel Serenity 80,Chennai,"Pet Friendly, Parking, Restaurant, Spa",10.32,Suite,4,2.7,11:00 AM,1:00 PM,Tuesday,1,0,79,4184
+Hotel Sapphire 69,Delhi,"Airport Shuttle, Restaurant, Pet Friendly, Pool",19.66,Suite,4,2.6,1:00 PM,12:00 PM,Friday,1,0,82,4492
+Hotel Heritage 69,Ahmedabad,"Restaurant, Bar, Business Center",14.02,Standard,3,2.9,1:00 PM,11:00 AM,Wednesday,0,1,60,3199
+Hotel Crimson 99,Delhi,"Pool, Parking, Gym, Business Center, Free WiFi",17.86,Suite,4,3.2,11:00 AM,2:00 PM,Saturday,0,0,60,4686
+Hotel Royal 46,Chennai,"Gym, Pool, Bar",16.24,Suite,2,3.8,12:00 PM,11:00 AM,Thursday,1,1,44,2716
+Hotel Regency 83,Kolkata,"Bar, Spa",21.84,Suite,4,3.9,2:00 PM,12:00 PM,Monday,1,0,61,4110
+Hotel Plaza 25,Bangalore,"Parking, Free WiFi, Pool, Gym",2.25,Suite,3,2.7,11:00 AM,11:00 AM,Wednesday,1,0,34,3216
+Hotel Crimson 53,Ahmedabad,"Gym, Business Center",13.59,Executive,3,4.2,12:00 PM,11:00 AM,Wednesday,1,0,30,3459
+Hotel Royal 48,Kolkata,"Free WiFi, Pool, Business Center, Airport Shuttle, Parking",24.83,Presidential Suite,2,3.1,12:00 PM,1:00 PM,Thursday,1,0,58,2508
+Hotel Horizon 93,Jaipur,"Bar, Restaurant",7.41,Deluxe,2,4.1,2:00 PM,1:00 PM,Sunday,1,1,46,2943
+Hotel Lagoon 40,Mumbai,"Business Center, Spa, Restaurant, Gym, Pool",19.19,Standard,4,3.0,2:00 PM,1:00 PM,Tuesday,0,0,73,4338
+Hotel Regency 61,Bangalore,"Gym, Pet Friendly, Free WiFi, Bar, Airport Shuttle",21.15,Executive,2,3.4,11:00 AM,2:00 PM,Monday,0,1,64,2594
+Hotel Serenity 74,Bangalore,"Gym, Pet Friendly, Business Center, Pool, Airport Shuttle",17.42,Suite,5,3.0,1:00 PM,2:00 PM,Thursday,1,1,64,4879
+Hotel Metro 49,Mumbai,"Free WiFi, Pet Friendly",3.04,Suite,5,2.7,1:00 PM,2:00 PM,Monday,0,1,83,5027
+Hotel Grand 66,Hyderabad,"Free WiFi, Gym, Pool",24.72,Executive,5,2.7,12:00 PM,11:00 AM,Monday,0,0,43,4732
+Hotel Sapphire 10,Bangalore,"Bar, Free WiFi",3.62,Presidential Suite,3,3.6,11:00 AM,11:00 AM,Friday,0,0,69,3313
+Hotel Regency 24,Chennai,"Spa, Pool",20.18,Deluxe,4,3.7,2:00 PM,12:00 PM,Sunday,0,1,62,4832
+Hotel Sunrise 21,Chennai,"Restaurant, Pet Friendly",13.72,Standard,2,3.4,2:00 PM,2:00 PM,Sunday,0,1,22,2557
+Hotel Plaza 23,Bangalore,"Gym, Pet Friendly, Parking, Business Center, Pool",0.88,Deluxe,5,2.6,11:00 AM,11:00 AM,Tuesday,0,0,91,5587
+Hotel Vista 35,Hyderabad,"Gym, Restaurant, Parking, Pet Friendly, Business Center",3.39,Deluxe,4,3.6,1:00 PM,2:00 PM,Tuesday,1,0,22,4611
+Hotel Serenity 60,Kolkata,"Restaurant, Pet Friendly, Spa",13.23,Presidential Suite,5,4.8,1:00 PM,12:00 PM,Wednesday,0,1,86,5489
+Hotel Royal 43,Delhi,"Business Center, Airport Shuttle",16.73,Standard,2,4.7,1:00 PM,12:00 PM,Friday,1,1,95,2400
+Hotel Sapphire 32,Jaipur,"Airport Shuttle, Restaurant, Gym",8.22,Deluxe,4,3.3,2:00 PM,2:00 PM,Saturday,0,0,69,4752
+Hotel Palm 23,Chennai,"Pool, Spa, Gym, Restaurant",21.27,Standard,4,3.6,12:00 PM,1:00 PM,Saturday,0,1,69,4019
+Hotel Bliss 46,Pune,"Spa, Pet Friendly, Restaurant",9.58,Executive,4,2.6,12:00 PM,1:00 PM,Thursday,0,0,57,4382
+Hotel Magnolia 72,Bangalore,"Parking, Business Center, Gym",23.05,Presidential Suite,2,3.7,12:00 PM,12:00 PM,Monday,1,0,80,2487
+Hotel Bliss 20,Delhi,"Restaurant, Spa",19.37,Presidential Suite,2,3.6,12:00 PM,1:00 PM,Monday,0,1,20,2259
+Hotel Sunrise 77,Goa,"Restaurant, Bar, Spa, Free WiFi",22.13,Presidential Suite,2,2.9,2:00 PM,2:00 PM,Tuesday,1,1,70,2587
+Hotel Metro 24,Delhi,"Airport Shuttle, Restaurant",23.16,Executive,3,3.4,12:00 PM,12:00 PM,Thursday,1,0,23,2932
+Hotel Emerald 63,Ahmedabad,"Business Center, Restaurant, Pet Friendly, Parking, Spa",23.67,Executive,2,2.7,2:00 PM,11:00 AM,Tuesday,0,1,86,2109
+Hotel Horizon 68,Kolkata,"Parking, Free WiFi, Pool",7.11,Deluxe,2,4.0,11:00 AM,2:00 PM,Monday,1,1,36,2946
+Hotel Oasis 16,Kolkata,"Spa, Pool, Free WiFi",24.68,Suite,2,4.9,12:00 PM,1:00 PM,Sunday,0,1,35,2665
+Hotel Palm 22,Chennai,"Pet Friendly, Gym, Restaurant, Business Center",24.07,Suite,3,3.0,1:00 PM,1:00 PM,Monday,1,1,45,3203
+Hotel Euphoria 36,Mumbai,"Pool, Pet Friendly, Free WiFi, Restaurant, Bar",9.89,Suite,2,4.5,11:00 AM,11:00 AM,Sunday,0,0,80,3170
+Hotel Heritage 92,Kolkata,"Business Center, Pet Friendly, Bar",12.18,Deluxe,2,4.1,12:00 PM,2:00 PM,Monday,1,0,99,2644
+Hotel Lagoon 59,Bangalore,"Pool, Free WiFi, Parking, Spa, Airport Shuttle",11.87,Standard,5,3.3,2:00 PM,2:00 PM,Sunday,0,1,93,5255
+Hotel Serenity 87,Pune,"Airport Shuttle, Free WiFi, Restaurant, Business Center",19.39,Deluxe,4,2.6,12:00 PM,2:00 PM,Saturday,0,0,64,4101
+Hotel Oasis 90,Bangalore,"Spa, Pet Friendly, Gym, Parking",11.2,Presidential Suite,2,4.0,2:00 PM,12:00 PM,Saturday,0,1,57,2428
+Hotel Royal 76,Chennai,"Parking, Bar",21.11,Deluxe,3,4.7,2:00 PM,2:00 PM,Friday,1,0,27,3558
+Hotel Plaza 10,Hyderabad,"Spa, Gym, Parking, Business Center, Pet Friendly",17.19,Presidential Suite,5,2.5,12:00 PM,11:00 AM,Thursday,1,1,51,4801
+Hotel Metro 27,Delhi,"Parking, Gym",1.03,Deluxe,5,4.4,11:00 AM,2:00 PM,Sunday,0,0,72,5565
+Hotel Lagoon 84,Kolkata,"Restaurant, Gym, Airport Shuttle, Pool",18.84,Executive,2,3.3,12:00 PM,2:00 PM,Friday,1,0,63,2194
+Hotel Moonlight 24,Delhi,"Pet Friendly, Parking",8.94,Suite,4,4.0,1:00 PM,12:00 PM,Thursday,1,1,51,4542
+Hotel Bliss 59,Goa,"Pool, Bar",3.24,Executive,3,3.7,11:00 AM,1:00 PM,Saturday,0,1,47,3940
+Hotel Palm 52,Pune,"Restaurant, Spa, Parking",2.4,Presidential Suite,4,2.9,11:00 AM,12:00 PM,Friday,0,1,99,4315
+Hotel Sunrise 73,Kolkata,"Business Center, Gym, Pet Friendly, Free WiFi",23.18,Deluxe,3,4.0,2:00 PM,11:00 AM,Wednesday,0,0,90,3629
+Hotel Palm 60,Kolkata,"Gym, Free WiFi, Airport Shuttle",15.64,Presidential Suite,5,2.9,2:00 PM,11:00 AM,Monday,1,0,26,5264
+Hotel Serenity 98,Hyderabad,"Gym, Free WiFi, Restaurant, Pool, Airport Shuttle",6.98,Suite,5,2.6,12:00 PM,2:00 PM,Wednesday,1,1,82,5190
+Hotel Emerald 53,Delhi,"Business Center, Parking, Pet Friendly, Restaurant, Free WiFi",22.07,Executive,5,4.1,1:00 PM,2:00 PM,Tuesday,1,1,28,5725
+Hotel Horizon 96,Mumbai,"Airport Shuttle, Business Center, Free WiFi, Gym",19.03,Presidential Suite,4,2.8,12:00 PM,1:00 PM,Friday,0,0,83,4583
+Hotel Heritage 43,Ahmedabad,"Airport Shuttle, Pet Friendly, Restaurant, Pool, Free WiFi",18.09,Executive,2,3.3,12:00 PM,2:00 PM,Wednesday,0,0,85,2504
+Hotel Heritage 95,Hyderabad,"Bar, Pool, Restaurant, Spa",20.39,Suite,2,2.9,11:00 AM,1:00 PM,Thursday,0,1,89,2411
+Hotel Magnolia 25,Mumbai,"Parking, Pet Friendly, Free WiFi, Business Center, Airport Shuttle",24.84,Executive,2,4.3,11:00 AM,2:00 PM,Wednesday,1,0,100,2776
+Hotel Heritage 94,Hyderabad,"Business Center, Airport Shuttle, Bar, Gym",22.9,Standard,2,5.0,2:00 PM,12:00 PM,Tuesday,0,0,77,2296
+Hotel Horizon 3,Chennai,"Spa, Bar, Free WiFi",20.53,Presidential Suite,3,4.4,11:00 AM,2:00 PM,Thursday,0,1,95,3720
+Hotel Sunrise 12,Ahmedabad,"Airport Shuttle, Bar, Pool, Gym, Restaurant",6.94,Suite,5,3.3,2:00 PM,12:00 PM,Saturday,1,0,75,5375
+Hotel Emerald 71,Chennai,"Free WiFi, Restaurant, Bar",4.88,Suite,3,3.1,2:00 PM,1:00 PM,Wednesday,1,0,78,3233
+Hotel Plaza 8,Ahmedabad,"Pet Friendly, Pool, Parking",8.21,Presidential Suite,2,4.1,11:00 AM,1:00 PM,Saturday,0,0,20,2673
+Hotel Sapphire 57,Jaipur,"Pool, Gym, Pet Friendly",15.11,Executive,4,4.0,12:00 PM,1:00 PM,Friday,0,0,65,4258
+Hotel Crimson 20,Pune,"Business Center, Restaurant, Pet Friendly, Free WiFi",1.12,Deluxe,3,4.5,2:00 PM,2:00 PM,Tuesday,0,1,73,4364
+Hotel Oasis 47,Delhi,"Gym, Pool",20.2,Standard,2,3.8,12:00 PM,1:00 PM,Monday,0,1,100,2547
+Hotel Vista 67,Hyderabad,"Airport Shuttle, Bar, Free WiFi, Gym",15.44,Standard,2,4.3,1:00 PM,2:00 PM,Thursday,0,0,44,2316
+Hotel Oasis 89,Hyderabad,"Restaurant, Airport Shuttle, Gym, Business Center, Pet Friendly",1.84,Standard,4,3.2,2:00 PM,1:00 PM,Monday,1,0,83,4592
+Hotel Euphoria 65,Chennai,"Gym, Restaurant",13.88,Standard,5,4.2,12:00 PM,1:00 PM,Friday,1,0,49,5128
+Hotel Grand 12,Pune,"Business Center, Bar, Gym",8.35,Deluxe,5,4.4,12:00 PM,12:00 PM,Wednesday,1,0,98,5602
+Hotel Plaza 100,Jaipur,"Gym, Pool",0.95,Standard,2,2.6,11:00 AM,11:00 AM,Tuesday,0,0,75,2516
+Hotel Lagoon 84,Ahmedabad,"Free WiFi, Bar, Parking, Pool, Spa",10.4,Presidential Suite,2,3.5,12:00 PM,11:00 AM,Wednesday,0,1,33,2958
+Hotel Heritage 5,Ahmedabad,"Pet Friendly, Free WiFi",5.3,Presidential Suite,3,4.2,11:00 AM,1:00 PM,Wednesday,0,0,20,3411
+Hotel Metro 90,Hyderabad,"Airport Shuttle, Restaurant, Pet Friendly",15.54,Standard,5,4.5,11:00 AM,2:00 PM,Saturday,0,0,62,5589
+Hotel Palm 23,Goa,"Restaurant, Gym, Pool, Parking, Spa",22.44,Presidential Suite,4,2.8,2:00 PM,11:00 AM,Sunday,1,1,57,4537
+Hotel Metro 96,Ahmedabad,"Bar, Gym, Restaurant",18.03,Standard,5,3.7,2:00 PM,2:00 PM,Friday,1,1,65,5458
+Hotel Sapphire 47,Goa,"Pet Friendly, Parking, Pool, Gym",8.59,Executive,4,3.0,1:00 PM,11:00 AM,Sunday,1,0,91,4655
+Hotel Sunrise 97,Bangalore,"Bar, Business Center, Pet Friendly, Free WiFi",21.33,Presidential Suite,5,4.0,12:00 PM,11:00 AM,Friday,0,0,72,5455
+Hotel Euphoria 42,Hyderabad,"Spa, Restaurant, Airport Shuttle, Pool, Parking",20.64,Presidential Suite,2,2.5,1:00 PM,12:00 PM,Wednesday,1,0,50,1996
+Hotel Metro 91,Chennai,"Gym, Pool, Pet Friendly, Business Center, Parking",1.15,Standard,3,2.5,2:00 PM,12:00 PM,Monday,0,0,32,3478
+Hotel Regency 58,Hyderabad,"Parking, Business Center",14.92,Presidential Suite,4,4.1,1:00 PM,12:00 PM,Wednesday,1,1,90,4738
+Hotel Plaza 40,Chennai,"Gym, Airport Shuttle, Restaurant, Parking",6.89,Executive,2,4.6,1:00 PM,2:00 PM,Thursday,1,1,67,3110
+Hotel Euphoria 30,Hyderabad,"Airport Shuttle, Pool, Bar",15.84,Deluxe,4,3.9,12:00 PM,1:00 PM,Saturday,1,1,77,4470
+Hotel Vista 77,Pune,"Free WiFi, Pool",5.35,Deluxe,4,3.5,11:00 AM,12:00 PM,Sunday,1,1,39,5049
+Hotel Heritage 52,Chennai,"Airport Shuttle, Spa, Bar, Pool",17.75,Presidential Suite,3,2.6,11:00 AM,1:00 PM,Sunday,0,1,96,3644
+Hotel Plaza 69,Jaipur,"Parking, Pet Friendly, Gym, Business Center, Airport Shuttle",3.23,Presidential Suite,4,3.0,12:00 PM,11:00 AM,Saturday,1,0,44,4360
+Hotel Lagoon 84,Pune,"Pool, Business Center, Bar",15.28,Presidential Suite,4,2.9,1:00 PM,2:00 PM,Wednesday,0,1,74,4486
+Hotel Euphoria 98,Chennai,"Pet Friendly, Spa",7.4,Standard,5,4.0,1:00 PM,12:00 PM,Saturday,0,0,90,5321
+Hotel Magnolia 4,Jaipur,"Pool, Parking, Spa, Free WiFi, Pet Friendly",19.4,Suite,5,4.9,12:00 PM,12:00 PM,Saturday,1,1,75,5395
+Hotel Sapphire 16,Chennai,"Airport Shuttle, Spa, Restaurant",17.01,Deluxe,3,4.6,11:00 AM,12:00 PM,Sunday,0,1,40,3181
+Hotel Grand 9,Delhi,"Free WiFi, Airport Shuttle, Pool, Pet Friendly, Restaurant",22.88,Suite,4,3.4,1:00 PM,11:00 AM,Saturday,0,0,98,4038
+Hotel Palm 97,Chennai,"Pool, Spa, Free WiFi",4.44,Presidential Suite,2,4.1,11:00 AM,12:00 PM,Sunday,0,1,60,2865
+Hotel Serenity 41,Kolkata,"Airport Shuttle, Bar, Business Center, Gym",19.53,Standard,5,4.7,12:00 PM,1:00 PM,Monday,0,1,72,5992
+Hotel Oasis 56,Kolkata,"Pool, Restaurant, Pet Friendly",18.98,Standard,4,4.1,2:00 PM,11:00 AM,Thursday,0,1,29,4107
+Hotel Grand 17,Delhi,"Spa, Airport Shuttle, Parking",21.95,Standard,5,2.6,12:00 PM,2:00 PM,Saturday,1,0,28,5498
+Hotel Horizon 7,Jaipur,"Parking, Pool, Airport Shuttle, Business Center, Pet Friendly",3.07,Executive,4,3.5,2:00 PM,11:00 AM,Thursday,1,0,100,4210
+Hotel Grand 42,Bangalore,"Pet Friendly, Free WiFi",16.21,Presidential Suite,5,3.1,1:00 PM,12:00 PM,Monday,0,0,89,5518
+Hotel Moonlight 63,Delhi,"Free WiFi, Gym",12.49,Deluxe,5,3.7,12:00 PM,12:00 PM,Monday,1,1,89,5375
+Hotel Sunrise 87,Ahmedabad,"Business Center, Gym",19.16,Deluxe,2,4.5,1:00 PM,12:00 PM,Monday,1,1,70,2771
+Hotel Regency 88,Hyderabad,"Pet Friendly, Airport Shuttle, Bar",17.85,Suite,5,5.0,1:00 PM,1:00 PM,Friday,1,0,33,6143
+Hotel Sapphire 66,Mumbai,"Gym, Pet Friendly",3.0,Executive,3,5.0,1:00 PM,2:00 PM,Saturday,0,1,25,4073
+Hotel Royal 41,Jaipur,"Restaurant, Spa, Pool",21.49,Suite,2,3.5,1:00 PM,1:00 PM,Thursday,0,0,92,2765
+Hotel Serenity 81,Bangalore,"Restaurant, Gym, Airport Shuttle, Pet Friendly",8.3,Executive,4,3.9,12:00 PM,12:00 PM,Wednesday,1,1,61,4348
+Hotel Oasis 4,Pune,"Restaurant, Pet Friendly, Gym, Airport Shuttle, Bar",8.95,Standard,4,2.9,12:00 PM,1:00 PM,Friday,0,0,70,4551
+Hotel Sapphire 56,Jaipur,"Pet Friendly, Parking, Restaurant, Free WiFi",5.88,Presidential Suite,2,4.8,11:00 AM,2:00 PM,Friday,0,1,56,2775
+Hotel Palm 83,Hyderabad,"Pool, Gym, Parking, Spa",23.89,Executive,3,4.4,2:00 PM,12:00 PM,Saturday,1,1,35,2994
+Hotel Crimson 94,Jaipur,"Bar, Airport Shuttle",16.5,Deluxe,2,4.0,1:00 PM,12:00 PM,Sunday,1,1,62,2094
+Hotel Heritage 75,Goa,"Restaurant, Spa, Free WiFi, Pet Friendly, Pool",7.59,Standard,5,4.8,1:00 PM,1:00 PM,Wednesday,0,0,94,5833
+Hotel Grand 45,Kolkata,"Airport Shuttle, Free WiFi",0.73,Suite,5,4.5,11:00 AM,12:00 PM,Saturday,1,1,59,5599
+Hotel Heritage 70,Kolkata,"Business Center, Restaurant, Gym",21.05,Deluxe,5,3.5,1:00 PM,12:00 PM,Wednesday,0,0,54,5387
+Hotel Palm 7,Delhi,"Bar, Pool, Spa, Airport Shuttle, Pet Friendly",18.62,Suite,4,3.2,2:00 PM,12:00 PM,Tuesday,1,1,55,4505
+Hotel Metro 94,Bangalore,"Business Center, Free WiFi",0.63,Suite,4,4.1,1:00 PM,2:00 PM,Tuesday,0,1,43,4901
+Hotel Euphoria 100,Bangalore,"Spa, Pool, Business Center, Free WiFi, Pet Friendly",14.76,Presidential Suite,5,3.2,1:00 PM,2:00 PM,Monday,1,0,93,5300
+Hotel Serenity 73,Chennai,"Spa, Pool, Gym",8.41,Executive,2,4.3,11:00 AM,1:00 PM,Wednesday,1,1,90,2581
+Hotel Emerald 48,Mumbai,"Airport Shuttle, Restaurant, Business Center, Spa",13.76,Presidential Suite,2,3.3,12:00 PM,1:00 PM,Sunday,1,1,90,2282
+Hotel Palm 46,Delhi,"Bar, Pet Friendly, Gym, Restaurant",5.09,Standard,2,4.4,11:00 AM,11:00 AM,Sunday,0,1,46,2517
+Hotel Palm 45,Delhi,"Gym, Restaurant, Pet Friendly",12.31,Standard,2,5.0,12:00 PM,11:00 AM,Wednesday,0,1,46,2604
+Hotel Serenity 91,Goa,"Bar, Airport Shuttle, Business Center",20.92,Standard,5,3.3,1:00 PM,2:00 PM,Tuesday,1,0,75,5209
+Hotel Moonlight 91,Kolkata,"Airport Shuttle, Free WiFi, Pool, Gym, Restaurant",14.49,Standard,5,2.6,11:00 AM,1:00 PM,Thursday,1,1,59,5330
+Hotel Vista 34,Delhi,"Parking, Business Center",9.11,Presidential Suite,4,2.6,12:00 PM,11:00 AM,Saturday,0,1,46,4108
+Hotel Moonlight 15,Bangalore,"Spa, Restaurant, Pet Friendly, Gym, Free WiFi",22.87,Suite,3,4.0,2:00 PM,2:00 PM,Sunday,0,0,84,3220
+Hotel Sunrise 51,Goa,"Pet Friendly, Spa",16.33,Deluxe,3,4.8,1:00 PM,2:00 PM,Tuesday,1,0,36,4091
+Hotel Metro 33,Jaipur,"Restaurant, Gym",20.04,Executive,2,4.9,2:00 PM,11:00 AM,Friday,0,1,73,2201
+Hotel Oasis 2,Hyderabad,"Business Center, Restaurant, Gym, Parking",24.57,Presidential Suite,4,3.2,12:00 PM,12:00 PM,Thursday,0,1,34,3975
+Hotel Bliss 45,Mumbai,"Restaurant, Airport Shuttle, Free WiFi, Parking, Gym",22.62,Standard,4,4.9,11:00 AM,1:00 PM,Thursday,1,0,37,4042
+Hotel Sunrise 6,Jaipur,"Bar, Gym, Parking, Free WiFi",10.36,Deluxe,2,4.5,1:00 PM,2:00 PM,Wednesday,0,0,33,2731
+Hotel Metro 54,Chennai,"Pet Friendly, Gym, Parking",9.32,Deluxe,2,2.8,2:00 PM,1:00 PM,Thursday,0,1,61,2224
+Hotel Moonlight 2,Mumbai,"Spa, Airport Shuttle, Pet Friendly",19.23,Deluxe,2,3.2,1:00 PM,1:00 PM,Wednesday,0,1,20,2331
+Hotel Regency 87,Pune,"Airport Shuttle, Free WiFi",4.9,Executive,2,3.1,12:00 PM,11:00 AM,Sunday,0,0,69,2942
+Hotel Horizon 80,Jaipur,"Pet Friendly, Spa, Business Center, Parking, Free WiFi",7.52,Standard,3,4.3,1:00 PM,2:00 PM,Friday,0,0,46,3210
+Hotel Metro 47,Jaipur,"Spa, Free WiFi, Pet Friendly, Restaurant",6.86,Presidential Suite,4,4.4,11:00 AM,1:00 PM,Tuesday,0,0,56,4931
+Hotel Horizon 17,Delhi,"Pool, Pet Friendly, Parking",14.6,Suite,3,3.1,11:00 AM,12:00 PM,Wednesday,1,0,74,3743
+Hotel Bliss 59,Mumbai,"Gym, Business Center",13.83,Deluxe,4,3.3,11:00 AM,11:00 AM,Monday,0,0,22,4378
+Hotel Heritage 97,Delhi,"Bar, Business Center, Restaurant",23.96,Presidential Suite,5,2.6,12:00 PM,1:00 PM,Thursday,1,1,81,4875
+Hotel Regency 97,Kolkata,"Restaurant, Parking",24.61,Executive,5,4.4,1:00 PM,12:00 PM,Friday,1,1,30,5301
+Hotel Horizon 4,Hyderabad,"Restaurant, Airport Shuttle, Bar, Pet Friendly, Parking",2.7,Executive,5,2.8,2:00 PM,11:00 AM,Wednesday,0,1,25,5837
+Hotel Moonlight 12,Bangalore,"Restaurant, Gym, Parking, Airport Shuttle",12.82,Presidential Suite,2,4.2,1:00 PM,1:00 PM,Friday,0,1,68,3074
+Hotel Crimson 33,Delhi,"Pet Friendly, Free WiFi",5.51,Executive,2,3.2,11:00 AM,11:00 AM,Tuesday,0,1,43,2358
+Hotel Heritage 52,Chennai,"Airport Shuttle, Gym, Business Center",17.3,Presidential Suite,3,4.0,2:00 PM,11:00 AM,Sunday,1,0,51,3440
+Hotel Palm 38,Chennai,"Bar, Pet Friendly, Parking, Gym, Pool",9.92,Standard,2,2.6,11:00 AM,1:00 PM,Sunday,1,1,50,2739
+Hotel Crimson 67,Jaipur,"Spa, Free WiFi, Bar",17.52,Presidential Suite,3,3.8,2:00 PM,12:00 PM,Thursday,0,0,64,2955
+Hotel Oasis 20,Ahmedabad,"Pet Friendly, Spa, Gym",20.3,Presidential Suite,3,4.1,12:00 PM,2:00 PM,Sunday,1,0,30,3039
+Hotel Serenity 10,Bangalore,"Bar, Pool, Business Center, Restaurant",22.2,Deluxe,5,3.4,12:00 PM,11:00 AM,Tuesday,0,0,61,5286
+Hotel Crimson 68,Jaipur,"Restaurant, Spa",15.67,Suite,2,3.5,1:00 PM,12:00 PM,Monday,1,0,55,2745
+Hotel Grand 76,Ahmedabad,"Business Center, Restaurant, Pet Friendly, Spa, Parking",17.93,Deluxe,3,2.5,1:00 PM,2:00 PM,Friday,1,0,90,3122
+Hotel Grand 22,Kolkata,"Airport Shuttle, Parking, Spa",9.45,Executive,3,5.0,12:00 PM,1:00 PM,Thursday,0,1,77,3545
+Hotel Magnolia 74,Mumbai,"Restaurant, Gym, Pet Friendly, Airport Shuttle",16.64,Standard,2,3.6,12:00 PM,1:00 PM,Tuesday,0,1,53,2507
+Hotel Emerald 93,Delhi,"Pool, Restaurant, Business Center, Pet Friendly, Bar",19.6,Presidential Suite,4,4.2,12:00 PM,1:00 PM,Saturday,0,1,42,4339
+Hotel Magnolia 37,Pune,"Pool, Bar",22.0,Executive,4,2.7,12:00 PM,2:00 PM,Saturday,1,1,39,4524
+Hotel Moonlight 86,Mumbai,"Pool, Airport Shuttle, Bar",19.62,Deluxe,5,3.7,11:00 AM,12:00 PM,Thursday,0,0,28,5051
+Hotel Palm 27,Bangalore,"Spa, Restaurant, Pet Friendly, Free WiFi, Business Center",16.67,Executive,4,3.5,2:00 PM,12:00 PM,Sunday,0,1,80,4294
+Hotel Horizon 55,Delhi,"Spa, Gym, Restaurant, Bar, Pet Friendly",6.72,Presidential Suite,4,4.6,1:00 PM,1:00 PM,Tuesday,1,1,98,4992
+Hotel Regency 19,Delhi,"Business Center, Free WiFi",0.54,Presidential Suite,4,4.3,11:00 AM,11:00 AM,Wednesday,0,0,88,4431
+Hotel Lagoon 60,Chennai,"Airport Shuttle, Spa",10.02,Suite,4,4.6,1:00 PM,11:00 AM,Tuesday,1,1,60,4446
+Hotel Plaza 36,Mumbai,"Gym, Parking",21.43,Executive,3,3.7,11:00 AM,12:00 PM,Sunday,0,1,53,3329
+Hotel Euphoria 58,Bangalore,"Pet Friendly, Gym",21.05,Suite,4,4.9,2:00 PM,1:00 PM,Saturday,0,0,48,4604
+Hotel Vista 38,Delhi,"Pet Friendly, Pool",14.36,Deluxe,3,4.4,1:00 PM,2:00 PM,Friday,0,0,65,3457
+Hotel Moonlight 40,Mumbai,"Free WiFi, Pet Friendly, Bar",0.53,Presidential Suite,3,4.9,11:00 AM,2:00 PM,Thursday,0,0,44,4299
+Hotel Horizon 10,Mumbai,"Business Center, Pet Friendly, Parking, Gym",10.07,Deluxe,4,4.8,12:00 PM,11:00 AM,Friday,1,0,96,5117
+Hotel Magnolia 88,Jaipur,"Parking, Pool",24.91,Standard,3,2.5,2:00 PM,1:00 PM,Tuesday,1,1,43,3386
+Hotel Lagoon 67,Delhi,"Pet Friendly, Bar, Gym, Spa, Pool",20.23,Presidential Suite,4,3.4,2:00 PM,12:00 PM,Sunday,0,0,93,4547
+Hotel Lagoon 91,Delhi,"Spa, Parking, Free WiFi, Gym",12.45,Suite,3,2.9,1:00 PM,2:00 PM,Sunday,1,0,25,3210
+Hotel Euphoria 90,Bangalore,"Restaurant, Business Center, Free WiFi, Bar, Spa",12.83,Standard,3,3.2,1:00 PM,1:00 PM,Thursday,0,0,70,3740
+Hotel Emerald 42,Bangalore,"Parking, Restaurant",7.73,Presidential Suite,4,2.6,11:00 AM,2:00 PM,Saturday,1,0,41,4790
+Hotel Sapphire 100,Mumbai,"Pet Friendly, Parking",8.77,Standard,3,3.6,11:00 AM,12:00 PM,Friday,1,1,26,3736
+Hotel Metro 40,Pune,"Restaurant, Airport Shuttle, Bar, Parking",15.94,Deluxe,4,3.8,1:00 PM,2:00 PM,Tuesday,0,0,93,4055
+Hotel Vista 74,Mumbai,"Pet Friendly, Bar, Free WiFi",5.24,Standard,5,5.0,1:00 PM,2:00 PM,Monday,0,1,45,5510
+Hotel Lagoon 22,Ahmedabad,"Spa, Free WiFi, Bar, Restaurant, Airport Shuttle",7.76,Suite,5,2.9,12:00 PM,2:00 PM,Sunday,1,1,47,5586
+Hotel Plaza 14,Hyderabad,"Free WiFi, Airport Shuttle",6.99,Standard,5,2.5,11:00 AM,12:00 PM,Monday,1,0,69,5128
+Hotel Serenity 51,Delhi,"Airport Shuttle, Free WiFi",8.62,Deluxe,3,4.7,1:00 PM,12:00 PM,Tuesday,0,0,29,3744
+Hotel Horizon 78,Chennai,"Free WiFi, Business Center",10.81,Suite,2,3.9,12:00 PM,1:00 PM,Monday,1,1,50,2290
+Hotel Sunrise 5,Jaipur,"Business Center, Spa, Bar, Gym, Pool",5.89,Suite,3,4.2,1:00 PM,2:00 PM,Tuesday,1,0,29,4205
+Hotel Palm 24,Hyderabad,"Free WiFi, Pet Friendly, Restaurant, Business Center",14.86,Suite,5,4.9,12:00 PM,2:00 PM,Wednesday,1,0,90,5327
+Hotel Serenity 57,Ahmedabad,"Airport Shuttle, Business Center, Restaurant, Bar, Pet Friendly",17.78,Presidential Suite,3,3.3,11:00 AM,11:00 AM,Wednesday,1,0,61,3263
+Hotel Vista 23,Pune,"Parking, Business Center, Gym",4.23,Standard,4,2.5,12:00 PM,1:00 PM,Tuesday,1,1,42,4089
+Hotel Metro 73,Ahmedabad,"Pool, Spa, Airport Shuttle, Pet Friendly",14.2,Deluxe,3,3.5,2:00 PM,11:00 AM,Sunday,0,0,32,3211
+Hotel Emerald 84,Delhi,"Restaurant, Spa, Bar, Business Center",20.19,Standard,2,2.9,1:00 PM,2:00 PM,Monday,0,1,66,1874
+Hotel Palm 39,Delhi,"Free WiFi, Parking, Restaurant, Spa, Airport Shuttle",4.58,Suite,2,2.5,2:00 PM,1:00 PM,Thursday,0,1,22,2310
+Hotel Horizon 47,Goa,"Pet Friendly, Business Center, Pool, Bar",15.55,Standard,4,3.2,11:00 AM,2:00 PM,Thursday,1,0,59,4824
+Hotel Sapphire 4,Delhi,"Pool, Spa, Parking",1.18,Standard,4,3.1,12:00 PM,2:00 PM,Wednesday,1,0,32,4929
+Hotel Oasis 4,Jaipur,"Gym, Parking, Business Center, Spa, Bar",14.98,Deluxe,4,4.0,2:00 PM,11:00 AM,Saturday,1,1,67,4557
+Hotel Plaza 98,Goa,"Airport Shuttle, Parking, Spa, Pet Friendly",6.72,Deluxe,2,3.5,1:00 PM,11:00 AM,Tuesday,0,1,77,2799
+Hotel Vista 86,Delhi,"Bar, Pet Friendly, Parking",10.51,Suite,3,3.9,1:00 PM,12:00 PM,Friday,1,1,48,3295
+Hotel Horizon 4,Pune,"Spa, Airport Shuttle",2.33,Deluxe,5,3.0,2:00 PM,12:00 PM,Tuesday,1,0,99,5333
+Hotel Euphoria 43,Ahmedabad,"Airport Shuttle, Pool, Pet Friendly, Restaurant, Gym",8.2,Presidential Suite,2,3.2,1:00 PM,1:00 PM,Tuesday,0,0,91,2454
+Hotel Euphoria 46,Chennai,"Restaurant, Free WiFi, Airport Shuttle, Parking",17.55,Executive,4,4.2,11:00 AM,2:00 PM,Sunday,1,0,74,4893
+Hotel Vista 24,Mumbai,"Spa, Free WiFi",2.16,Suite,5,4.0,11:00 AM,2:00 PM,Sunday,1,0,67,6021
+Hotel Horizon 39,Delhi,"Airport Shuttle, Pool, Parking, Free WiFi",23.5,Executive,4,3.9,11:00 AM,2:00 PM,Thursday,1,0,42,4243
+Hotel Emerald 32,Kolkata,"Parking, Airport Shuttle, Restaurant, Business Center, Gym",24.27,Deluxe,5,3.0,11:00 AM,1:00 PM,Monday,1,0,60,4875
+Hotel Grand 96,Chennai,"Bar, Parking",1.27,Deluxe,5,4.5,2:00 PM,2:00 PM,Sunday,0,0,68,5962
+Hotel Regency 92,Goa,"Restaurant, Business Center",19.22,Executive,4,4.2,12:00 PM,11:00 AM,Monday,0,0,77,3964
+Hotel Palm 21,Ahmedabad,"Pet Friendly, Airport Shuttle, Restaurant, Spa, Pool",2.33,Suite,2,4.2,12:00 PM,11:00 AM,Friday,0,0,53,2832
+Hotel Oasis 86,Bangalore,"Business Center, Parking, Spa",13.8,Deluxe,3,3.0,2:00 PM,12:00 PM,Saturday,0,1,43,3275
+Hotel Grand 65,Mumbai,"Free WiFi, Pet Friendly, Spa, Parking, Airport Shuttle",16.37,Standard,5,4.1,12:00 PM,1:00 PM,Tuesday,1,1,83,5401
+Hotel Vista 23,Kolkata,"Pet Friendly, Business Center, Spa, Free WiFi",11.13,Suite,4,3.0,2:00 PM,11:00 AM,Tuesday,0,0,64,3944
+Hotel Oasis 69,Kolkata,"Airport Shuttle, Free WiFi, Gym, Business Center, Spa",13.59,Executive,3,5.0,1:00 PM,1:00 PM,Saturday,0,0,74,3485
+Hotel Metro 18,Jaipur,"Restaurant, Pool",16.11,Deluxe,2,4.1,12:00 PM,11:00 AM,Sunday,1,1,75,2990
+Hotel Moonlight 67,Jaipur,"Bar, Pool, Restaurant",15.57,Suite,3,4.8,2:00 PM,11:00 AM,Friday,0,1,25,3280
+Hotel Serenity 57,Hyderabad,"Pool, Spa, Restaurant, Business Center, Parking",2.3,Standard,3,4.1,2:00 PM,2:00 PM,Thursday,0,1,83,3925
+Hotel Sunrise 31,Goa,"Restaurant, Business Center, Airport Shuttle",20.21,Suite,5,3.8,11:00 AM,11:00 AM,Saturday,1,0,57,4936
+Hotel Magnolia 90,Hyderabad,"Restaurant, Spa, Free WiFi, Business Center, Pool",13.33,Standard,3,4.1,1:00 PM,11:00 AM,Monday,0,1,91,3318
+Hotel Emerald 27,Chennai,"Pool, Bar, Spa, Business Center, Airport Shuttle",7.25,Deluxe,4,3.6,11:00 AM,11:00 AM,Sunday,0,0,57,4322
+Hotel Regency 78,Bangalore,"Business Center, Parking, Free WiFi",16.18,Presidential Suite,2,4.6,11:00 AM,11:00 AM,Wednesday,1,1,83,2712
+Hotel Lagoon 30,Chennai,"Pet Friendly, Free WiFi, Pool",2.53,Presidential Suite,4,4.0,2:00 PM,1:00 PM,Sunday,0,0,22,5071
+Hotel Horizon 70,Chennai,"Free WiFi, Spa, Airport Shuttle, Parking, Pool",0.77,Presidential Suite,3,2.5,2:00 PM,11:00 AM,Wednesday,1,0,77,3734
+Hotel Grand 40,Kolkata,"Bar, Restaurant, Parking, Gym, Business Center",2.64,Standard,5,2.6,11:00 AM,12:00 PM,Sunday,0,0,42,5460
+Hotel Heritage 79,Jaipur,"Airport Shuttle, Gym, Pool, Pet Friendly, Free WiFi",2.36,Standard,4,2.8,1:00 PM,11:00 AM,Thursday,1,1,81,4671
+Hotel Heritage 54,Bangalore,"Pool, Business Center",5.55,Executive,2,3.9,2:00 PM,2:00 PM,Sunday,1,1,44,2664
+Hotel Palm 2,Ahmedabad,"Parking, Pool",8.35,Suite,4,4.4,2:00 PM,1:00 PM,Friday,0,1,90,5064
+Hotel Moonlight 84,Pune,"Gym, Pet Friendly, Restaurant",2.86,Standard,5,4.2,12:00 PM,2:00 PM,Sunday,0,1,87,5423
+Hotel Lagoon 55,Pune,"Airport Shuttle, Free WiFi, Bar, Parking",9.33,Standard,2,2.6,2:00 PM,1:00 PM,Friday,1,0,23,2691
+Hotel Magnolia 39,Goa,"Business Center, Pet Friendly, Free WiFi",5.28,Deluxe,4,4.6,12:00 PM,1:00 PM,Tuesday,0,1,28,4808
+Hotel Horizon 93,Pune,"Gym, Free WiFi, Spa, Pet Friendly",23.47,Presidential Suite,5,3.9,12:00 PM,2:00 PM,Sunday,1,0,58,4920
+Hotel Lagoon 85,Hyderabad,"Bar, Pool, Parking, Free WiFi, Pet Friendly",3.57,Standard,2,3.8,12:00 PM,11:00 AM,Sunday,1,1,29,3178
+Hotel Metro 30,Delhi,"Bar, Parking, Free WiFi, Airport Shuttle",23.94,Deluxe,3,3.4,2:00 PM,1:00 PM,Friday,0,0,37,2796
+Hotel Palm 8,Delhi,"Restaurant, Spa",20.62,Suite,3,4.0,12:00 PM,12:00 PM,Wednesday,1,0,65,3232
+Hotel Euphoria 98,Jaipur,"Airport Shuttle, Gym, Free WiFi, Restaurant, Pet Friendly",3.34,Suite,3,3.9,11:00 AM,11:00 AM,Sunday,0,1,44,3983
+Hotel Oasis 30,Hyderabad,"Parking, Airport Shuttle, Pool, Business Center",20.95,Executive,3,3.1,11:00 AM,11:00 AM,Monday,1,1,54,3234
+Hotel Euphoria 85,Pune,"Bar, Pet Friendly, Gym",17.5,Deluxe,4,3.4,2:00 PM,1:00 PM,Tuesday,1,0,58,4133
+Hotel Sapphire 18,Ahmedabad,"Bar, Business Center, Pet Friendly, Gym, Free WiFi",18.32,Standard,2,3.3,11:00 AM,1:00 PM,Saturday,0,0,55,2541
+Hotel Crimson 1,Kolkata,"Pool, Spa, Bar, Airport Shuttle, Free WiFi",3.1,Presidential Suite,4,2.9,11:00 AM,12:00 PM,Saturday,0,1,95,4598
+Hotel Grand 78,Kolkata,"Parking, Business Center",2.12,Standard,2,3.6,2:00 PM,11:00 AM,Sunday,0,1,51,2324
+Hotel Crimson 16,Kolkata,"Pool, Gym, Restaurant, Spa",8.72,Suite,4,3.9,12:00 PM,1:00 PM,Thursday,0,0,51,5052
+Hotel Metro 2,Pune,"Pool, Business Center, Gym",1.84,Executive,3,4.4,1:00 PM,1:00 PM,Friday,0,0,100,3853
+Hotel Euphoria 48,Mumbai,"Gym, Parking, Pool, Restaurant",3.65,Executive,2,4.2,11:00 AM,1:00 PM,Thursday,0,0,80,2730
+Hotel Horizon 78,Kolkata,"Airport Shuttle, Bar, Business Center, Pet Friendly, Spa",2.11,Executive,2,3.0,12:00 PM,11:00 AM,Saturday,1,1,28,3006
+Hotel Royal 38,Kolkata,"Pool, Spa, Parking",22.43,Presidential Suite,2,4.8,12:00 PM,11:00 AM,Tuesday,0,0,48,2154
+Hotel Lagoon 44,Ahmedabad,"Gym, Airport Shuttle, Pool, Pet Friendly, Parking",7.37,Deluxe,4,2.5,12:00 PM,12:00 PM,Friday,0,1,20,4008
+Hotel Royal 52,Bangalore,"Free WiFi, Parking",15.0,Deluxe,4,3.1,11:00 AM,1:00 PM,Sunday,0,1,26,4032
+Hotel Heritage 79,Kolkata,"Free WiFi, Bar, Gym, Pet Friendly, Pool",3.61,Presidential Suite,3,2.7,1:00 PM,12:00 PM,Tuesday,0,1,35,3715
+Hotel Oasis 69,Jaipur,"Gym, Bar, Restaurant, Parking, Pet Friendly",11.12,Standard,4,4.8,1:00 PM,11:00 AM,Sunday,0,1,59,4644
+Hotel Palm 54,Chennai,"Gym, Parking, Pet Friendly, Pool",24.4,Standard,2,3.6,2:00 PM,11:00 AM,Wednesday,1,1,79,2511
+Hotel Magnolia 81,Pune,"Bar, Spa, Airport Shuttle, Gym, Free WiFi",4.09,Deluxe,3,4.8,1:00 PM,2:00 PM,Friday,1,0,75,3465
+Hotel Crimson 69,Ahmedabad,"Pool, Business Center, Gym, Parking",3.92,Presidential Suite,2,3.7,2:00 PM,12:00 PM,Monday,1,1,24,2443
+Hotel Horizon 84,Pune,"Restaurant, Free WiFi, Airport Shuttle",17.06,Deluxe,5,4.5,2:00 PM,2:00 PM,Friday,0,1,39,6001
+Hotel Palm 3,Chennai,"Spa, Pool",11.54,Executive,3,4.4,11:00 AM,12:00 PM,Friday,0,1,24,3511
+Hotel Oasis 12,Mumbai,"Free WiFi, Bar, Gym, Spa, Pool",11.94,Suite,3,3.8,2:00 PM,12:00 PM,Saturday,0,1,89,3080
+Hotel Metro 84,Goa,"Pet Friendly, Parking, Airport Shuttle, Pool, Restaurant",15.3,Suite,5,4.6,12:00 PM,2:00 PM,Tuesday,0,0,74,5622
+Hotel Lagoon 76,Goa,"Spa, Restaurant, Free WiFi, Parking, Gym",10.88,Suite,3,3.8,2:00 PM,2:00 PM,Sunday,1,0,77,3046
+Hotel Crimson 51,Ahmedabad,"Pet Friendly, Gym, Airport Shuttle, Parking",21.09,Standard,5,4.8,1:00 PM,12:00 PM,Tuesday,0,1,95,5894
+Hotel Palm 54,Chennai,"Bar, Free WiFi, Pool, Business Center",18.39,Executive,2,3.8,2:00 PM,11:00 AM,Friday,1,0,92,2749
+Hotel Serenity 20,Delhi,"Spa, Free WiFi, Gym, Pool",12.4,Executive,4,2.6,1:00 PM,2:00 PM,Friday,0,1,94,4751
+Hotel Plaza 58,Goa,"Gym, Free WiFi, Pool, Pet Friendly",21.17,Deluxe,5,4.3,11:00 AM,12:00 PM,Saturday,1,1,30,5715
+Hotel Horizon 71,Kolkata,"Free WiFi, Bar, Pet Friendly",10.18,Presidential Suite,5,3.6,2:00 PM,2:00 PM,Monday,1,1,46,5633
+Hotel Palm 75,Delhi,"Bar, Pool, Free WiFi, Airport Shuttle, Restaurant",8.72,Deluxe,3,2.9,1:00 PM,1:00 PM,Friday,1,0,59,3363
+Hotel Horizon 54,Hyderabad,"Airport Shuttle, Parking, Business Center, Pet Friendly",21.23,Presidential Suite,2,2.9,12:00 PM,2:00 PM,Tuesday,0,1,27,1966
+Hotel Magnolia 53,Jaipur,"Pet Friendly, Restaurant, Bar, Pool",19.68,Deluxe,4,4.1,12:00 PM,11:00 AM,Tuesday,1,0,33,4355
+Hotel Horizon 61,Jaipur,"Pool, Parking, Spa",18.28,Executive,2,5.0,1:00 PM,2:00 PM,Friday,0,1,42,2977
+Hotel Royal 22,Ahmedabad,"Parking, Pet Friendly, Free WiFi",16.69,Deluxe,5,2.9,2:00 PM,12:00 PM,Saturday,0,1,55,5252
+Hotel Euphoria 65,Hyderabad,"Free WiFi, Gym, Parking",18.34,Presidential Suite,2,4.6,12:00 PM,2:00 PM,Saturday,0,1,25,2348
+Hotel Lagoon 74,Bangalore,"Business Center, Spa, Gym, Airport Shuttle",3.42,Presidential Suite,3,3.9,11:00 AM,2:00 PM,Friday,0,0,85,3785
+Hotel Royal 11,Kolkata,"Gym, Pool, Spa",9.76,Executive,3,4.1,1:00 PM,12:00 PM,Monday,0,0,79,3797
+Hotel Euphoria 24,Ahmedabad,"Business Center, Restaurant, Parking, Free WiFi",9.67,Standard,5,3.1,1:00 PM,11:00 AM,Saturday,0,1,41,5229
+Hotel Grand 9,Delhi,"Airport Shuttle, Bar, Parking, Gym",3.37,Presidential Suite,3,4.2,2:00 PM,2:00 PM,Monday,1,0,76,4215
+Hotel Serenity 79,Hyderabad,"Business Center, Parking, Free WiFi",8.45,Deluxe,2,3.1,11:00 AM,12:00 PM,Monday,0,0,37,2255
+Hotel Serenity 96,Bangalore,"Spa, Parking, Airport Shuttle, Restaurant",3.25,Deluxe,3,2.5,12:00 PM,2:00 PM,Monday,1,1,79,3711
+Hotel Sapphire 57,Jaipur,"Business Center, Free WiFi, Bar, Pet Friendly, Spa",16.13,Executive,4,2.7,2:00 PM,1:00 PM,Monday,1,0,28,4421
+Hotel Bliss 29,Chennai,"Pet Friendly, Gym, Parking, Pool",10.1,Suite,5,2.8,11:00 AM,1:00 PM,Friday,1,0,88,5714
+Hotel Lagoon 17,Pune,"Spa, Pool, Airport Shuttle, Gym",10.57,Suite,4,4.8,2:00 PM,2:00 PM,Sunday,1,1,24,4510
+Hotel Royal 11,Pune,"Free WiFi, Business Center, Gym",12.38,Standard,3,3.8,1:00 PM,2:00 PM,Wednesday,0,0,54,3833
+Hotel Oasis 26,Ahmedabad,"Airport Shuttle, Pool, Bar, Gym, Free WiFi",19.31,Standard,4,3.6,12:00 PM,2:00 PM,Friday,0,0,65,4054
+Hotel Oasis 56,Bangalore,"Business Center, Pool, Airport Shuttle, Parking, Spa",11.44,Presidential Suite,3,4.7,1:00 PM,11:00 AM,Thursday,1,0,28,3234
+Hotel Bliss 65,Jaipur,"Pet Friendly, Restaurant, Free WiFi, Pool, Gym",7.99,Executive,2,3.1,12:00 PM,11:00 AM,Thursday,1,0,59,2511
+Hotel Lagoon 26,Mumbai,"Parking, Free WiFi",22.64,Executive,2,3.8,11:00 AM,11:00 AM,Thursday,1,1,21,2223
+Hotel Horizon 39,Hyderabad,"Airport Shuttle, Restaurant",13.46,Executive,4,2.7,1:00 PM,11:00 AM,Monday,0,1,67,4386
+Hotel Moonlight 1,Pune,"Business Center, Free WiFi, Restaurant, Spa",14.2,Deluxe,4,3.7,11:00 AM,2:00 PM,Tuesday,0,0,88,4622
+Hotel Heritage 47,Pune,"Free WiFi, Pool, Spa",4.99,Executive,5,2.5,1:00 PM,11:00 AM,Monday,1,0,41,5516
+Hotel Oasis 1,Mumbai,"Free WiFi, Business Center, Pet Friendly, Pool, Gym",23.67,Standard,4,2.8,12:00 PM,2:00 PM,Saturday,0,1,98,3989
+Hotel Moonlight 46,Hyderabad,"Airport Shuttle, Restaurant, Parking, Pool, Pet Friendly",6.06,Deluxe,2,4.7,11:00 AM,1:00 PM,Thursday,0,1,43,2578
+Hotel Bliss 87,Ahmedabad,"Pool, Gym, Pet Friendly, Parking, Business Center",10.84,Standard,3,3.3,1:00 PM,2:00 PM,Friday,0,1,60,3227
+Hotel Metro 82,Mumbai,"Pool, Gym, Airport Shuttle, Bar, Business Center",7.0,Presidential Suite,3,2.8,12:00 PM,1:00 PM,Thursday,1,0,22,3739
+Hotel Sunrise 32,Kolkata,"Airport Shuttle, Spa, Parking, Free WiFi, Pool",15.18,Presidential Suite,3,2.9,1:00 PM,2:00 PM,Thursday,0,1,88,3347
+Hotel Lagoon 38,Hyderabad,"Pool, Parking",16.33,Presidential Suite,4,3.9,11:00 AM,12:00 PM,Tuesday,1,0,39,4044
+Hotel Sapphire 86,Pune,"Bar, Business Center, Gym",15.7,Deluxe,2,4.4,11:00 AM,12:00 PM,Tuesday,0,1,82,2765
+Hotel Heritage 78,Chennai,"Pool, Spa, Parking, Free WiFi",12.7,Presidential Suite,2,4.8,11:00 AM,1:00 PM,Tuesday,0,1,68,3188
+Hotel Euphoria 72,Ahmedabad,"Spa, Gym, Restaurant, Bar, Business Center",11.09,Suite,2,4.2,11:00 AM,11:00 AM,Wednesday,1,1,82,2835
+Hotel Vista 17,Delhi,"Gym, Spa, Airport Shuttle",8.78,Deluxe,3,2.9,12:00 PM,1:00 PM,Tuesday,0,1,26,3430
+Hotel Bliss 69,Pune,"Spa, Bar, Pool, Pet Friendly, Restaurant",15.96,Suite,2,4.2,1:00 PM,1:00 PM,Friday,0,1,61,2354
+Hotel Royal 84,Goa,"Pet Friendly, Airport Shuttle, Free WiFi, Pool",16.31,Deluxe,5,3.2,12:00 PM,12:00 PM,Wednesday,1,1,24,5744
+Hotel Moonlight 50,Chennai,"Business Center, Restaurant, Airport Shuttle",4.59,Deluxe,2,4.6,11:00 AM,11:00 AM,Saturday,1,1,25,2676
+Hotel Moonlight 86,Mumbai,"Pet Friendly, Free WiFi, Bar, Business Center",10.1,Suite,5,4.7,11:00 AM,12:00 PM,Tuesday,1,0,81,5248
+Hotel Metro 7,Pune,"Parking, Airport Shuttle, Free WiFi",7.69,Presidential Suite,2,2.6,1:00 PM,2:00 PM,Friday,0,1,42,2420
+Hotel Grand 93,Jaipur,"Airport Shuttle, Pet Friendly, Free WiFi",18.81,Presidential Suite,5,4.7,11:00 AM,11:00 AM,Thursday,1,1,55,5560
+Hotel Magnolia 60,Goa,"Pool, Airport Shuttle, Restaurant, Parking",11.17,Presidential Suite,5,3.7,1:00 PM,11:00 AM,Friday,0,1,54,5640
+Hotel Regency 73,Pune,"Spa, Free WiFi, Airport Shuttle, Restaurant, Pet Friendly",10.12,Suite,5,3.7,1:00 PM,12:00 PM,Friday,0,0,60,5893
+Hotel Regency 80,Pune,"Pet Friendly, Free WiFi, Business Center, Restaurant, Gym",13.9,Suite,2,4.5,12:00 PM,1:00 PM,Wednesday,0,0,90,2395
+Hotel Serenity 29,Kolkata,"Gym, Spa, Pet Friendly, Airport Shuttle",16.72,Suite,5,4.1,1:00 PM,1:00 PM,Tuesday,1,0,87,5498
+Hotel Oasis 36,Ahmedabad,"Free WiFi, Restaurant, Airport Shuttle",12.93,Executive,3,4.7,11:00 AM,1:00 PM,Saturday,0,0,38,3230
+Hotel Sunrise 73,Hyderabad,"Bar, Airport Shuttle, Free WiFi",13.74,Deluxe,5,3.6,11:00 AM,1:00 PM,Tuesday,0,0,37,5002
+Hotel Vista 84,Mumbai,"Parking, Pool, Pet Friendly",2.21,Suite,3,3.1,1:00 PM,2:00 PM,Friday,0,0,59,3145
+Hotel Plaza 23,Ahmedabad,"Pet Friendly, Spa, Bar, Airport Shuttle, Restaurant",8.07,Executive,3,2.7,1:00 PM,12:00 PM,Wednesday,0,0,78,3454
+Hotel Oasis 83,Goa,"Airport Shuttle, Restaurant, Business Center, Free WiFi",9.19,Executive,3,4.0,11:00 AM,1:00 PM,Sunday,0,1,67,3967
+Hotel Euphoria 67,Goa,"Airport Shuttle, Spa, Gym",12.64,Deluxe,5,4.6,12:00 PM,12:00 PM,Saturday,0,0,71,5616
+Hotel Serenity 62,Bangalore,"Pet Friendly, Gym, Parking, Spa",6.39,Executive,3,3.9,12:00 PM,1:00 PM,Friday,0,1,40,3493
+Hotel Bliss 26,Ahmedabad,"Pet Friendly, Spa, Business Center, Pool",21.57,Presidential Suite,4,3.4,12:00 PM,1:00 PM,Friday,0,0,36,4409
+Hotel Bliss 24,Jaipur,"Parking, Gym, Pet Friendly, Bar, Restaurant",20.19,Standard,3,3.2,12:00 PM,11:00 AM,Monday,0,0,31,3487
+Hotel Vista 79,Mumbai,"Free WiFi, Bar, Restaurant, Pool",19.56,Deluxe,2,4.4,12:00 PM,12:00 PM,Sunday,1,0,94,2749
+Hotel Royal 60,Kolkata,"Pool, Business Center, Spa, Pet Friendly",11.45,Executive,5,4.1,12:00 PM,11:00 AM,Saturday,1,1,34,5136
+Hotel Lagoon 8,Chennai,"Pool, Parking",17.47,Deluxe,4,4.2,1:00 PM,1:00 PM,Saturday,0,1,62,4001
+Hotel Lagoon 5,Bangalore,"Pet Friendly, Spa, Airport Shuttle",6.17,Deluxe,5,4.2,1:00 PM,12:00 PM,Saturday,1,1,67,5599
+Hotel Bliss 33,Hyderabad,"Business Center, Spa, Free WiFi, Pool, Pet Friendly",2.41,Deluxe,4,4.6,11:00 AM,11:00 AM,Monday,0,0,37,5307
+Hotel Palm 96,Jaipur,"Pet Friendly, Restaurant, Airport Shuttle",7.31,Presidential Suite,3,2.9,2:00 PM,11:00 AM,Saturday,1,0,49,3043
+Hotel Serenity 24,Hyderabad,"Gym, Bar, Spa",13.55,Deluxe,2,2.9,12:00 PM,1:00 PM,Sunday,0,0,91,1937
+Hotel Lagoon 31,Delhi,"Parking, Restaurant",16.28,Deluxe,5,3.9,12:00 PM,1:00 PM,Tuesday,1,1,80,5646
+Hotel Plaza 2,Jaipur,"Parking, Business Center, Spa, Free WiFi, Airport Shuttle",6.2,Presidential Suite,3,3.5,2:00 PM,2:00 PM,Thursday,0,0,96,3435
+Hotel Emerald 11,Hyderabad,"Gym, Restaurant, Bar, Spa",19.74,Deluxe,5,4.5,1:00 PM,1:00 PM,Wednesday,0,0,89,5678
+Hotel Regency 43,Bangalore,"Restaurant, Free WiFi, Gym",24.52,Suite,4,3.6,1:00 PM,2:00 PM,Friday,1,0,67,4267
+Hotel Palm 66,Jaipur,"Business Center, Airport Shuttle, Restaurant",17.28,Suite,2,3.0,1:00 PM,12:00 PM,Wednesday,0,0,71,2585
+Hotel Bliss 42,Kolkata,"Pet Friendly, Business Center",17.98,Deluxe,5,4.8,1:00 PM,11:00 AM,Saturday,1,0,85,5233
+Hotel Emerald 33,Jaipur,"Free WiFi, Bar, Restaurant, Gym",19.34,Deluxe,4,3.1,12:00 PM,1:00 PM,Wednesday,1,0,45,4136
+Hotel Metro 55,Goa,"Parking, Restaurant, Spa, Pool, Free WiFi",22.29,Deluxe,5,3.9,2:00 PM,11:00 AM,Saturday,1,0,35,5010
+Hotel Crimson 60,Hyderabad,"Free WiFi, Spa, Airport Shuttle, Restaurant, Pool",1.33,Executive,4,4.0,1:00 PM,12:00 PM,Sunday,1,0,61,5233
+Hotel Emerald 50,Kolkata,"Airport Shuttle, Business Center",12.4,Presidential Suite,4,4.2,2:00 PM,2:00 PM,Wednesday,1,1,56,4832
+Hotel Palm 76,Chennai,"Pool, Restaurant, Pet Friendly, Business Center",5.65,Presidential Suite,4,3.5,2:00 PM,2:00 PM,Sunday,1,0,45,4763
+Hotel Lagoon 90,Ahmedabad,"Airport Shuttle, Spa, Pet Friendly, Parking",23.55,Suite,2,5.0,11:00 AM,2:00 PM,Wednesday,1,0,32,2310
+Hotel Crimson 71,Goa,"Restaurant, Bar, Pool, Spa, Business Center",4.54,Suite,4,3.7,1:00 PM,12:00 PM,Tuesday,1,0,43,5032
+Hotel Crimson 24,Pune,"Restaurant, Airport Shuttle, Bar",1.95,Deluxe,4,3.7,2:00 PM,2:00 PM,Thursday,1,0,93,5176
+Hotel Heritage 59,Delhi,"Pet Friendly, Bar, Business Center",0.58,Suite,3,2.7,2:00 PM,12:00 PM,Saturday,1,1,23,3734
+Hotel Oasis 2,Delhi,"Airport Shuttle, Free WiFi",5.8,Executive,2,3.7,2:00 PM,12:00 PM,Tuesday,1,1,38,2910
+Hotel Lagoon 1,Kolkata,"Airport Shuttle, Bar, Free WiFi",17.98,Presidential Suite,4,4.9,1:00 PM,12:00 PM,Friday,1,0,96,4156
+Hotel Plaza 13,Bangalore,"Airport Shuttle, Business Center, Restaurant, Pool, Spa",4.19,Suite,4,4.0,2:00 PM,1:00 PM,Thursday,0,1,30,4630
+Hotel Grand 4,Delhi,"Pet Friendly, Business Center, Free WiFi, Gym, Bar",15.64,Suite,3,3.0,11:00 AM,11:00 AM,Monday,0,1,53,3603
+Hotel Regency 32,Bangalore,"Pool, Business Center, Bar",13.84,Deluxe,5,4.6,1:00 PM,1:00 PM,Thursday,0,0,65,5820
+Hotel Serenity 64,Goa,"Pet Friendly, Restaurant, Pool, Free WiFi",22.58,Suite,3,2.5,1:00 PM,2:00 PM,Tuesday,0,1,67,3081
+Hotel Horizon 21,Jaipur,"Spa, Business Center, Bar",1.02,Presidential Suite,2,2.7,11:00 AM,11:00 AM,Thursday,0,0,38,2847
+Hotel Sapphire 56,Bangalore,"Pool, Airport Shuttle, Pet Friendly, Gym, Spa",11.29,Deluxe,4,3.8,2:00 PM,11:00 AM,Monday,0,1,33,4885
+Hotel Lagoon 34,Delhi,"Bar, Spa, Airport Shuttle, Business Center, Pool",1.86,Suite,4,4.4,11:00 AM,12:00 PM,Friday,1,0,27,4536
+Hotel Serenity 43,Goa,"Gym, Business Center, Restaurant",21.56,Suite,2,3.2,2:00 PM,1:00 PM,Saturday,0,1,99,2507
+Hotel Bliss 49,Delhi,"Bar, Restaurant, Spa, Parking, Business Center",17.6,Suite,4,3.1,12:00 PM,2:00 PM,Thursday,0,0,26,4640
+Hotel Metro 29,Bangalore,"Restaurant, Bar",21.66,Presidential Suite,3,4.8,11:00 AM,12:00 PM,Monday,0,0,20,3286
+Hotel Magnolia 95,Ahmedabad,"Airport Shuttle, Parking",3.8,Deluxe,3,2.9,12:00 PM,2:00 PM,Saturday,1,0,20,3131
+Hotel Euphoria 4,Mumbai,"Pool, Business Center, Pet Friendly",22.64,Executive,5,4.5,1:00 PM,12:00 PM,Wednesday,0,1,56,5625
+Hotel Vista 47,Kolkata,"Gym, Pet Friendly, Pool, Restaurant, Bar",6.56,Executive,2,3.8,12:00 PM,1:00 PM,Tuesday,0,1,47,2978
+Hotel Grand 93,Bangalore,"Restaurant, Pool, Airport Shuttle, Pet Friendly, Free WiFi",2.81,Deluxe,2,4.7,11:00 AM,2:00 PM,Thursday,0,1,24,2464
+Hotel Serenity 25,Bangalore,"Spa, Gym, Free WiFi",5.95,Deluxe,5,2.8,2:00 PM,1:00 PM,Thursday,1,0,23,5389
+Hotel Palm 25,Ahmedabad,"Restaurant, Spa",17.26,Standard,2,4.5,1:00 PM,12:00 PM,Sunday,1,1,21,2542
+Hotel Crimson 67,Pune,"Restaurant, Free WiFi, Pool, Parking, Pet Friendly",17.43,Deluxe,2,2.9,12:00 PM,2:00 PM,Friday,0,0,64,2442
+Hotel Royal 67,Jaipur,"Business Center, Pool, Bar, Airport Shuttle, Parking",11.45,Suite,3,4.1,1:00 PM,1:00 PM,Saturday,1,1,46,3678
+Hotel Magnolia 63,Jaipur,"Restaurant, Spa, Gym",2.5,Standard,4,3.7,11:00 AM,2:00 PM,Saturday,0,0,20,4517
+Hotel Crimson 23,Bangalore,"Pool, Spa, Airport Shuttle, Parking",19.37,Standard,3,4.3,11:00 AM,11:00 AM,Thursday,1,1,29,3696
+Hotel Magnolia 20,Mumbai,"Spa, Restaurant, Parking, Pool, Gym",20.7,Deluxe,4,3.2,2:00 PM,1:00 PM,Saturday,0,0,41,4514
+Hotel Emerald 69,Bangalore,"Bar, Gym, Business Center, Restaurant",17.33,Standard,3,4.3,1:00 PM,2:00 PM,Friday,0,0,75,3029
+Hotel Bliss 9,Delhi,"Airport Shuttle, Bar, Free WiFi",5.27,Standard,2,3.5,1:00 PM,11:00 AM,Wednesday,1,0,87,2494
+Hotel Bliss 49,Delhi,"Pet Friendly, Airport Shuttle, Gym",7.52,Deluxe,4,4.0,12:00 PM,2:00 PM,Sunday,0,1,67,4399
+Hotel Emerald 87,Hyderabad,"Free WiFi, Parking, Spa, Airport Shuttle",22.06,Executive,5,3.9,12:00 PM,11:00 AM,Wednesday,1,1,53,5082
+Hotel Palm 83,Mumbai,"Restaurant, Parking, Gym, Airport Shuttle",20.81,Presidential Suite,4,4.8,12:00 PM,12:00 PM,Monday,1,1,40,4932
+Hotel Vista 65,Bangalore,"Free WiFi, Pool, Bar",10.53,Deluxe,3,5.0,2:00 PM,2:00 PM,Thursday,1,0,97,4234
+Hotel Sunrise 43,Delhi,"Pool, Airport Shuttle",1.25,Standard,5,4.1,2:00 PM,1:00 PM,Monday,0,1,35,5744
+Hotel Sapphire 70,Pune,"Pool, Business Center",0.61,Suite,5,4.9,12:00 PM,2:00 PM,Thursday,1,1,50,6006
+Hotel Horizon 64,Pune,"Parking, Restaurant, Gym, Free WiFi",13.43,Standard,3,4.2,1:00 PM,1:00 PM,Monday,0,1,99,3651
+Hotel Moonlight 1,Kolkata,"Business Center, Spa",17.54,Executive,4,4.5,1:00 PM,1:00 PM,Monday,0,0,100,4601
+Hotel Royal 29,Mumbai,"Parking, Gym, Spa, Bar, Airport Shuttle",24.68,Presidential Suite,4,3.2,11:00 AM,11:00 AM,Sunday,0,1,56,4580
+Hotel Moonlight 87,Kolkata,"Bar, Restaurant, Pool, Spa",12.51,Suite,5,2.8,12:00 PM,1:00 PM,Wednesday,0,1,61,5298
+Hotel Emerald 86,Pune,"Airport Shuttle, Pet Friendly, Pool",2.09,Presidential Suite,2,2.5,11:00 AM,11:00 AM,Saturday,1,1,23,2728
+Hotel Vista 13,Delhi,"Restaurant, Gym, Parking, Pool",10.37,Deluxe,2,4.9,12:00 PM,12:00 PM,Monday,1,0,89,2915
+Hotel Euphoria 88,Delhi,"Business Center, Pool",22.36,Executive,2,3.6,11:00 AM,11:00 AM,Saturday,1,1,87,2677
+Hotel Magnolia 52,Bangalore,"Bar, Parking, Free WiFi, Gym",17.57,Standard,4,3.7,1:00 PM,11:00 AM,Friday,1,0,25,3895
+Hotel Horizon 98,Mumbai,"Restaurant, Business Center, Bar, Pet Friendly",4.28,Deluxe,5,4.6,1:00 PM,12:00 PM,Wednesday,0,0,27,6087
+Hotel Sapphire 16,Chennai,"Pet Friendly, Business Center, Restaurant, Spa",3.39,Deluxe,2,4.1,1:00 PM,12:00 PM,Tuesday,0,1,67,3190
+Hotel Regency 44,Delhi,"Restaurant, Parking",6.35,Deluxe,4,4.0,11:00 AM,11:00 AM,Friday,0,1,34,4576
+Hotel Royal 2,Bangalore,"Pet Friendly, Free WiFi, Gym, Restaurant, Pool",17.7,Executive,3,3.8,2:00 PM,1:00 PM,Friday,0,1,21,3335
+Hotel Moonlight 40,Mumbai,"Pool, Bar",7.69,Deluxe,3,2.5,12:00 PM,12:00 PM,Saturday,1,0,62,3397
+Hotel Sunrise 54,Delhi,"Spa, Business Center, Pet Friendly, Free WiFi, Bar",5.46,Presidential Suite,4,2.8,12:00 PM,11:00 AM,Thursday,1,0,52,4079
+Hotel Bliss 70,Pune,"Business Center, Pet Friendly",15.4,Suite,3,3.1,1:00 PM,2:00 PM,Thursday,1,0,34,3264
+Hotel Palm 64,Bangalore,"Pool, Free WiFi, Parking, Gym, Bar",1.45,Deluxe,4,3.2,11:00 AM,12:00 PM,Friday,0,0,45,4397
+Hotel Plaza 92,Kolkata,"Gym, Pet Friendly, Restaurant, Free WiFi",19.93,Executive,4,3.7,2:00 PM,11:00 AM,Wednesday,0,1,100,4133
+Hotel Oasis 25,Ahmedabad,"Pool, Gym, Bar",10.24,Deluxe,3,3.8,11:00 AM,2:00 PM,Friday,0,0,36,3397
+Hotel Plaza 78,Mumbai,"Pet Friendly, Gym",12.93,Presidential Suite,4,4.0,1:00 PM,11:00 AM,Sunday,1,0,86,4920
+Hotel Sapphire 92,Hyderabad,"Restaurant, Gym, Parking, Bar",18.29,Suite,5,5.0,11:00 AM,2:00 PM,Saturday,0,1,72,5779
+Hotel Serenity 72,Goa,"Spa, Bar, Gym, Free WiFi, Business Center",13.05,Deluxe,4,3.1,11:00 AM,1:00 PM,Saturday,1,0,27,4250
+Hotel Oasis 17,Mumbai,"Pet Friendly, Restaurant, Bar",19.16,Suite,5,4.8,11:00 AM,11:00 AM,Saturday,0,0,30,5590
+Hotel Sunrise 53,Bangalore,"Restaurant, Bar",15.45,Presidential Suite,5,3.4,1:00 PM,1:00 PM,Saturday,1,0,77,5049
+Hotel Crimson 57,Hyderabad,"Airport Shuttle, Gym",14.74,Presidential Suite,4,4.5,1:00 PM,11:00 AM,Saturday,1,1,32,4656
+Hotel Bliss 56,Bangalore,"Airport Shuttle, Bar, Restaurant, Gym, Pet Friendly",7.6,Executive,3,3.9,2:00 PM,11:00 AM,Wednesday,0,0,73,3488
+Hotel Plaza 39,Hyderabad,"Spa, Restaurant, Free WiFi",17.89,Presidential Suite,2,2.7,12:00 PM,12:00 PM,Tuesday,1,0,41,1912
+Hotel Oasis 96,Delhi,"Pet Friendly, Pool, Business Center, Gym",16.14,Executive,5,2.6,1:00 PM,2:00 PM,Thursday,0,0,55,5280
+Hotel Bliss 62,Delhi,"Restaurant, Pet Friendly, Business Center",10.8,Deluxe,3,3.4,12:00 PM,1:00 PM,Tuesday,0,0,52,3305
+Hotel Oasis 17,Chennai,"Pool, Gym",4.32,Presidential Suite,2,4.9,1:00 PM,12:00 PM,Saturday,1,0,45,3159
+Hotel Crimson 92,Ahmedabad,"Spa, Airport Shuttle, Free WiFi, Parking",24.27,Standard,5,4.3,11:00 AM,1:00 PM,Sunday,0,0,90,5759
+Hotel Palm 23,Goa,"Pool, Bar, Free WiFi, Gym, Airport Shuttle",23.89,Deluxe,5,4.1,2:00 PM,1:00 PM,Friday,1,1,22,5617
+Hotel Sunrise 38,Kolkata,"Free WiFi, Parking, Restaurant, Spa",20.61,Deluxe,5,4.0,1:00 PM,2:00 PM,Tuesday,0,1,84,5472
+Hotel Grand 9,Delhi,"Pet Friendly, Parking",4.91,Suite,3,3.6,1:00 PM,11:00 AM,Saturday,1,1,92,3733
+Hotel Euphoria 100,Pune,"Gym, Pool, Restaurant",12.67,Deluxe,3,4.5,12:00 PM,1:00 PM,Sunday,0,1,23,3850
+Hotel Palm 5,Chennai,"Free WiFi, Gym, Spa, Pool, Bar",13.63,Suite,5,4.0,1:00 PM,11:00 AM,Friday,1,0,97,5222
+Hotel Vista 46,Hyderabad,"Free WiFi, Pool, Gym, Parking",3.91,Suite,2,4.1,1:00 PM,11:00 AM,Friday,0,1,25,3000
+Hotel Royal 4,Ahmedabad,"Gym, Bar, Pet Friendly, Airport Shuttle, Free WiFi",16.74,Presidential Suite,4,4.2,2:00 PM,12:00 PM,Monday,0,1,88,4697
+Hotel Royal 3,Delhi,"Free WiFi, Bar, Gym",7.2,Suite,3,4.8,11:00 AM,1:00 PM,Thursday,1,1,91,3762
+Hotel Heritage 71,Pune,"Free WiFi, Gym",11.06,Standard,4,4.2,1:00 PM,11:00 AM,Tuesday,1,0,24,5092
+Hotel Bliss 98,Hyderabad,"Parking, Airport Shuttle, Pool, Free WiFi",16.31,Standard,5,3.2,1:00 PM,2:00 PM,Saturday,1,1,67,5519
+Hotel Heritage 57,Jaipur,"Pool, Spa",13.79,Executive,2,4.7,11:00 AM,12:00 PM,Sunday,1,0,52,3076
+Hotel Moonlight 79,Goa,"Gym, Restaurant, Spa, Free WiFi",24.68,Standard,5,2.9,1:00 PM,12:00 PM,Monday,0,1,100,5536
+Hotel Horizon 31,Jaipur,"Business Center, Pet Friendly, Parking, Free WiFi",2.46,Executive,5,4.6,1:00 PM,2:00 PM,Wednesday,1,1,46,5492
+Hotel Emerald 84,Ahmedabad,"Parking, Free WiFi",6.73,Suite,3,2.6,11:00 AM,2:00 PM,Sunday,1,0,83,3385
+Hotel Emerald 95,Pune,"Pet Friendly, Bar, Spa",20.24,Presidential Suite,3,2.9,11:00 AM,1:00 PM,Tuesday,0,1,100,3020
+Hotel Emerald 92,Hyderabad,"Gym, Spa, Business Center, Restaurant",16.48,Presidential Suite,3,4.9,11:00 AM,2:00 PM,Thursday,0,0,83,3619
+Hotel Oasis 58,Ahmedabad,"Business Center, Spa, Restaurant",24.82,Executive,4,4.7,1:00 PM,2:00 PM,Friday,1,1,62,4227
+Hotel Regency 52,Kolkata,"Airport Shuttle, Gym, Spa, Free WiFi, Bar",9.07,Deluxe,3,3.7,11:00 AM,11:00 AM,Tuesday,0,0,56,3318
+Hotel Crimson 59,Delhi,"Parking, Business Center, Restaurant",4.56,Standard,5,3.7,11:00 AM,2:00 PM,Wednesday,1,0,83,6004
+Hotel Magnolia 11,Chennai,"Gym, Free WiFi, Restaurant, Pet Friendly, Bar",2.6,Executive,5,4.9,11:00 AM,11:00 AM,Thursday,0,1,84,6209
+Hotel Oasis 98,Delhi,"Airport Shuttle, Pet Friendly, Pool",2.96,Executive,5,3.7,12:00 PM,2:00 PM,Sunday,0,0,66,5705
+Hotel Royal 28,Mumbai,"Parking, Gym",24.75,Suite,3,4.1,12:00 PM,12:00 PM,Wednesday,1,1,71,3775
+Hotel Metro 27,Bangalore,"Bar, Gym, Business Center, Spa, Pet Friendly",22.57,Presidential Suite,3,4.9,12:00 PM,2:00 PM,Wednesday,0,1,97,3570
+Hotel Emerald 93,Jaipur,"Restaurant, Pool",11.28,Deluxe,2,2.6,11:00 AM,11:00 AM,Friday,0,0,89,2218
+Hotel Oasis 82,Jaipur,"Free WiFi, Gym, Spa",10.03,Deluxe,5,3.2,12:00 PM,1:00 PM,Thursday,0,1,54,5066
+Hotel Bliss 96,Chennai,"Restaurant, Bar",4.34,Suite,3,2.6,2:00 PM,11:00 AM,Wednesday,0,0,52,2938
+Hotel Heritage 59,Chennai,"Bar, Spa",22.71,Standard,2,4.6,2:00 PM,12:00 PM,Sunday,1,0,25,2755
+Hotel Moonlight 33,Jaipur,"Pet Friendly, Pool, Restaurant, Spa, Parking",2.62,Deluxe,2,4.9,11:00 AM,1:00 PM,Sunday,0,0,20,2629
+Hotel Palm 97,Ahmedabad,"Free WiFi, Restaurant",24.04,Deluxe,3,5.0,1:00 PM,12:00 PM,Tuesday,1,1,54,3543
+Hotel Euphoria 75,Ahmedabad,"Free WiFi, Bar",3.65,Standard,3,4.1,1:00 PM,11:00 AM,Thursday,0,0,42,3622
+Hotel Plaza 38,Bangalore,"Pet Friendly, Business Center, Gym, Restaurant",7.5,Standard,5,4.0,12:00 PM,11:00 AM,Wednesday,0,1,93,5264
+Hotel Emerald 23,Goa,"Parking, Bar",1.25,Presidential Suite,3,3.0,12:00 PM,12:00 PM,Tuesday,0,0,76,3418
+Hotel Crimson 63,Mumbai,"Gym, Business Center, Spa",19.92,Standard,2,2.6,12:00 PM,1:00 PM,Tuesday,1,1,47,2191
+Hotel Emerald 84,Chennai,"Free WiFi, Business Center, Parking",3.5,Presidential Suite,3,4.4,2:00 PM,2:00 PM,Wednesday,0,1,97,4074
+Hotel Royal 18,Ahmedabad,"Parking, Pet Friendly, Pool",2.08,Standard,2,3.5,2:00 PM,11:00 AM,Saturday,1,0,62,2546
+Hotel Moonlight 20,Kolkata,"Airport Shuttle, Spa, Free WiFi",10.56,Suite,2,2.5,11:00 AM,11:00 AM,Monday,1,1,92,2390
+Hotel Plaza 96,Goa,"Spa, Gym, Restaurant, Airport Shuttle, Pet Friendly",23.32,Suite,4,3.4,2:00 PM,12:00 PM,Tuesday,1,1,72,4546
+Hotel Regency 11,Pune,"Gym, Business Center, Restaurant, Parking",11.45,Presidential Suite,5,2.9,1:00 PM,11:00 AM,Saturday,1,0,60,4869
+Hotel Sunrise 7,Bangalore,"Pet Friendly, Bar, Gym, Airport Shuttle, Parking",20.67,Executive,5,2.6,12:00 PM,11:00 AM,Friday,0,0,80,5295
+Hotel Horizon 89,Goa,"Business Center, Airport Shuttle, Gym",6.11,Suite,4,3.0,12:00 PM,12:00 PM,Tuesday,0,1,93,4584
+Hotel Bliss 33,Pune,"Parking, Business Center",18.32,Suite,5,4.4,11:00 AM,1:00 PM,Wednesday,0,0,42,5205
+Hotel Heritage 75,Goa,"Pet Friendly, Gym, Restaurant, Parking",1.06,Deluxe,3,2.9,2:00 PM,2:00 PM,Monday,1,1,36,3950
+Hotel Metro 71,Hyderabad,"Free WiFi, Spa, Airport Shuttle, Restaurant, Bar",9.82,Presidential Suite,5,4.9,12:00 PM,2:00 PM,Friday,0,1,28,5725
+Hotel Emerald 78,Mumbai,"Parking, Restaurant",10.26,Standard,4,2.7,11:00 AM,1:00 PM,Sunday,0,0,25,3872
+Hotel Plaza 6,Chennai,"Gym, Spa, Free WiFi, Business Center, Pool",9.42,Executive,4,2.9,2:00 PM,12:00 PM,Saturday,0,0,60,4002
+Hotel Euphoria 88,Delhi,"Spa, Parking, Bar, Business Center, Airport Shuttle",11.35,Standard,3,3.3,2:00 PM,12:00 PM,Tuesday,0,1,68,3921
+Hotel Grand 36,Pune,"Airport Shuttle, Restaurant, Pool, Business Center",15.66,Deluxe,5,4.8,11:00 AM,12:00 PM,Thursday,0,0,49,5773
+Hotel Palm 90,Kolkata,"Business Center, Restaurant, Airport Shuttle, Pet Friendly, Bar",24.83,Standard,3,4.6,11:00 AM,12:00 PM,Thursday,1,1,78,3286
+Hotel Metro 73,Hyderabad,"Bar, Parking, Restaurant, Gym",10.34,Executive,5,3.1,11:00 AM,1:00 PM,Wednesday,0,0,81,5605
+Hotel Regency 8,Mumbai,"Gym, Restaurant, Pet Friendly, Pool, Business Center",15.37,Presidential Suite,4,2.5,12:00 PM,11:00 AM,Sunday,0,0,94,4208
+Hotel Sapphire 31,Goa,"Parking, Pool, Restaurant",1.19,Standard,3,3.1,12:00 PM,2:00 PM,Saturday,1,0,83,3469
+Hotel Oasis 70,Kolkata,"Airport Shuttle, Pet Friendly, Free WiFi, Parking, Gym",2.06,Executive,3,2.6,12:00 PM,2:00 PM,Saturday,1,0,64,3486
+Hotel Sapphire 82,Chennai,"Pet Friendly, Airport Shuttle, Gym, Restaurant",3.33,Standard,4,2.6,12:00 PM,1:00 PM,Monday,0,1,91,3992
+Hotel Oasis 46,Kolkata,"Airport Shuttle, Parking, Pet Friendly, Gym",10.17,Deluxe,5,3.3,11:00 AM,12:00 PM,Saturday,1,0,52,5508
+Hotel Vista 28,Hyderabad,"Airport Shuttle, Spa",5.62,Deluxe,5,2.9,1:00 PM,2:00 PM,Wednesday,1,0,76,5838
+Hotel Grand 76,Hyderabad,"Bar, Business Center",16.06,Suite,5,4.6,1:00 PM,1:00 PM,Wednesday,1,0,29,5667
+Hotel Bliss 52,Goa,"Parking, Free WiFi, Bar, Airport Shuttle, Gym",1.99,Standard,2,3.5,2:00 PM,1:00 PM,Tuesday,0,1,83,2729
+Hotel Euphoria 60,Kolkata,"Parking, Pool, Restaurant, Pet Friendly",4.06,Deluxe,3,4.0,11:00 AM,12:00 PM,Friday,0,0,36,3305
+Hotel Sapphire 57,Kolkata,"Business Center, Free WiFi, Gym",16.28,Standard,2,3.4,12:00 PM,2:00 PM,Thursday,1,0,88,2731
+Hotel Heritage 1,Ahmedabad,"Gym, Airport Shuttle, Spa",14.31,Presidential Suite,4,3.6,1:00 PM,11:00 AM,Wednesday,1,1,95,4164
+Hotel Vista 25,Bangalore,"Airport Shuttle, Free WiFi, Restaurant, Business Center, Gym",10.85,Suite,4,3.5,12:00 PM,2:00 PM,Tuesday,1,0,82,4823
+Hotel Sunrise 10,Ahmedabad,"Bar, Free WiFi",23.25,Standard,5,4.6,12:00 PM,1:00 PM,Saturday,0,1,48,5734
+Hotel Oasis 31,Hyderabad,"Free WiFi, Spa, Parking, Airport Shuttle, Pool",23.28,Suite,4,4.0,12:00 PM,12:00 PM,Friday,0,1,33,4394
+Hotel Metro 55,Kolkata,"Pool, Free WiFi, Business Center, Pet Friendly",2.58,Executive,3,2.8,11:00 AM,2:00 PM,Friday,0,0,65,3272
+Hotel Regency 7,Chennai,"Pool, Spa, Business Center",19.88,Suite,3,2.8,11:00 AM,11:00 AM,Saturday,1,1,30,3555
+Hotel Serenity 18,Pune,"Parking, Restaurant, Gym, Free WiFi",7.35,Deluxe,3,4.7,11:00 AM,2:00 PM,Wednesday,1,1,30,3984
+Hotel Plaza 48,Bangalore,"Parking, Pet Friendly",7.88,Standard,3,4.2,12:00 PM,2:00 PM,Tuesday,1,0,87,3677
+Hotel Sapphire 57,Kolkata,"Restaurant, Bar, Spa, Pool, Airport Shuttle",22.88,Suite,2,2.6,1:00 PM,1:00 PM,Thursday,0,0,20,2087
+Hotel Lagoon 12,Goa,"Spa, Business Center",3.87,Standard,5,2.8,11:00 AM,1:00 PM,Sunday,0,1,33,5579
+Hotel Horizon 17,Mumbai,"Restaurant, Airport Shuttle, Business Center",9.64,Deluxe,4,4.0,1:00 PM,1:00 PM,Wednesday,0,1,33,4416
+Hotel Horizon 23,Ahmedabad,"Pet Friendly, Airport Shuttle, Bar, Pool",11.91,Executive,3,4.0,11:00 AM,12:00 PM,Tuesday,1,1,98,3977
+Hotel Oasis 59,Hyderabad,"Free WiFi, Pet Friendly, Airport Shuttle",12.98,Suite,5,4.2,2:00 PM,11:00 AM,Saturday,1,1,43,5788
+Hotel Oasis 55,Jaipur,"Bar, Parking, Airport Shuttle",4.05,Presidential Suite,3,2.7,1:00 PM,12:00 PM,Tuesday,1,1,74,3232
+Hotel Oasis 39,Bangalore,"Bar, Gym, Spa, Airport Shuttle, Pool",2.43,Suite,4,3.2,12:00 PM,1:00 PM,Friday,1,1,49,5063
+Hotel Moonlight 98,Kolkata,"Pool, Gym, Spa, Airport Shuttle",14.75,Standard,3,3.4,2:00 PM,12:00 PM,Saturday,0,1,90,3470
+Hotel Sapphire 82,Ahmedabad,"Restaurant, Bar, Gym",9.38,Standard,5,3.0,2:00 PM,12:00 PM,Tuesday,1,0,79,4990
+Hotel Heritage 54,Chennai,"Free WiFi, Parking",6.79,Standard,2,2.9,12:00 PM,11:00 AM,Saturday,0,0,31,2249
+Hotel Oasis 37,Goa,"Restaurant, Parking, Pet Friendly, Spa, Airport Shuttle",23.26,Deluxe,4,3.2,2:00 PM,12:00 PM,Saturday,0,0,85,4329
+Hotel Royal 5,Jaipur,"Spa, Parking",7.49,Standard,2,2.8,11:00 AM,11:00 AM,Monday,1,1,65,2116
+Hotel Sapphire 54,Hyderabad,"Business Center, Restaurant, Gym",11.15,Presidential Suite,4,3.0,12:00 PM,1:00 PM,Wednesday,1,1,36,4248
+Hotel Horizon 77,Delhi,"Spa, Bar, Free WiFi, Business Center, Pet Friendly",2.67,Standard,4,2.6,11:00 AM,12:00 PM,Friday,0,0,86,4716
+Hotel Horizon 42,Bangalore,"Airport Shuttle, Pool, Pet Friendly, Bar",17.67,Suite,5,4.1,2:00 PM,1:00 PM,Friday,0,1,66,5883
+Hotel Emerald 66,Hyderabad,"Gym, Bar, Pool, Pet Friendly",15.31,Standard,2,3.8,11:00 AM,11:00 AM,Thursday,0,0,90,2610
+Hotel Horizon 78,Ahmedabad,"Airport Shuttle, Pet Friendly, Bar, Free WiFi",5.85,Suite,2,4.1,2:00 PM,1:00 PM,Thursday,1,1,44,2884
+Hotel Sunrise 28,Bangalore,"Parking, Restaurant, Business Center",1.22,Suite,2,3.9,11:00 AM,12:00 PM,Wednesday,0,0,43,3149
+Hotel Lagoon 80,Bangalore,"Restaurant, Free WiFi, Gym",10.24,Suite,2,2.6,12:00 PM,2:00 PM,Wednesday,0,1,38,1911
+Hotel Royal 1,Jaipur,"Parking, Business Center, Gym, Pet Friendly",16.24,Standard,5,4.8,1:00 PM,11:00 AM,Monday,0,1,64,5733
+Hotel Lagoon 21,Delhi,"Airport Shuttle, Business Center",2.73,Presidential Suite,2,3.7,2:00 PM,1:00 PM,Monday,0,0,79,2444
+Hotel Lagoon 97,Delhi,"Parking, Airport Shuttle, Gym, Bar",24.19,Presidential Suite,3,5.0,12:00 PM,11:00 AM,Wednesday,1,1,80,3938
+Hotel Serenity 50,Delhi,"Pool, Parking",21.92,Executive,2,3.0,11:00 AM,2:00 PM,Friday,1,0,55,2413
+Hotel Euphoria 29,Hyderabad,"Spa, Restaurant, Pet Friendly",12.3,Deluxe,3,4.0,2:00 PM,12:00 PM,Saturday,0,0,66,3999
+Hotel Vista 58,Chennai,"Business Center, Pool, Bar, Gym, Parking",4.92,Suite,5,3.4,11:00 AM,11:00 AM,Monday,1,0,32,5470
+Hotel Heritage 14,Pune,"Gym, Parking, Pool, Free WiFi, Bar",16.72,Standard,3,4.9,1:00 PM,12:00 PM,Thursday,0,1,92,3574
+Hotel Moonlight 31,Delhi,"Airport Shuttle, Pool, Business Center, Free WiFi, Gym",11.79,Executive,2,4.7,11:00 AM,11:00 AM,Monday,1,0,86,2511
+Hotel Bliss 86,Hyderabad,"Business Center, Parking, Spa",18.51,Executive,5,4.3,1:00 PM,11:00 AM,Wednesday,1,0,78,5145
+Hotel Emerald 32,Jaipur,"Free WiFi, Pool",22.51,Executive,5,2.9,11:00 AM,11:00 AM,Saturday,0,0,80,5209
+Hotel Lagoon 78,Hyderabad,"Restaurant, Gym",1.02,Executive,3,3.2,11:00 AM,11:00 AM,Monday,1,1,66,3861
+Hotel Magnolia 59,Pune,"Airport Shuttle, Pet Friendly, Spa, Bar",18.8,Standard,5,3.4,1:00 PM,12:00 PM,Friday,0,0,94,5722
+Hotel Heritage 100,Goa,"Airport Shuttle, Pool, Restaurant, Free WiFi",21.78,Suite,4,4.7,1:00 PM,2:00 PM,Friday,0,0,70,4835
+Hotel Palm 56,Mumbai,"Spa, Free WiFi, Gym",5.07,Standard,3,3.2,11:00 AM,11:00 AM,Thursday,0,1,44,3296
+Hotel Sapphire 60,Kolkata,"Spa, Parking",3.97,Deluxe,4,4.6,2:00 PM,1:00 PM,Tuesday,1,0,66,5136
+Hotel Emerald 26,Hyderabad,"Restaurant, Airport Shuttle, Parking",2.02,Suite,2,3.1,11:00 AM,2:00 PM,Friday,0,0,29,2289
+Hotel Bliss 87,Delhi,"Bar, Gym",16.91,Suite,5,4.8,2:00 PM,12:00 PM,Wednesday,1,0,62,5410
+Hotel Horizon 49,Goa,"Business Center, Pool, Pet Friendly, Parking, Spa",22.04,Presidential Suite,4,3.7,12:00 PM,11:00 AM,Friday,1,1,93,4219
+Hotel Royal 51,Pune,"Parking, Pool, Free WiFi",20.15,Suite,4,3.6,11:00 AM,1:00 PM,Saturday,0,0,38,4304
+Hotel Bliss 86,Chennai,"Spa, Pool, Airport Shuttle",10.68,Executive,3,4.6,12:00 PM,1:00 PM,Wednesday,1,1,22,3692
+Hotel Metro 69,Jaipur,"Business Center, Pool, Bar, Gym, Airport Shuttle",20.25,Standard,5,3.0,11:00 AM,11:00 AM,Thursday,1,0,68,4766
+Hotel Bliss 30,Mumbai,"Spa, Free WiFi, Bar",17.51,Executive,5,3.1,2:00 PM,11:00 AM,Friday,0,1,51,5615
+Hotel Lagoon 54,Kolkata,"Free WiFi, Pool",20.32,Suite,2,3.6,1:00 PM,12:00 PM,Tuesday,1,1,51,2396
+Hotel Lagoon 41,Jaipur,"Pet Friendly, Parking",4.04,Deluxe,2,3.9,12:00 PM,2:00 PM,Sunday,0,1,69,2399
+Hotel Serenity 16,Goa,"Pool, Restaurant, Spa",19.77,Presidential Suite,2,4.4,12:00 PM,12:00 PM,Sunday,0,0,35,2762
+Hotel Palm 90,Chennai,"Restaurant, Airport Shuttle, Free WiFi, Pool",24.13,Executive,3,4.5,12:00 PM,1:00 PM,Saturday,0,0,58,3701
+Hotel Magnolia 31,Jaipur,"Gym, Spa, Pet Friendly, Free WiFi, Business Center",5.38,Suite,2,2.9,1:00 PM,12:00 PM,Monday,1,0,54,2576
+Hotel Bliss 45,Kolkata,"Pet Friendly, Bar, Gym, Business Center",0.74,Suite,5,2.6,12:00 PM,12:00 PM,Saturday,0,0,94,5690
+Hotel Euphoria 21,Chennai,"Business Center, Airport Shuttle, Pet Friendly, Bar",14.55,Deluxe,2,3.6,2:00 PM,12:00 PM,Wednesday,1,0,68,2525
+Hotel Sunrise 32,Kolkata,"Spa, Parking, Gym, Free WiFi, Airport Shuttle",16.09,Suite,4,2.9,1:00 PM,12:00 PM,Friday,1,0,86,3854
+Hotel Oasis 79,Jaipur,"Business Center, Parking, Free WiFi, Airport Shuttle",7.05,Presidential Suite,5,3.1,11:00 AM,2:00 PM,Saturday,0,1,37,5682
+Hotel Palm 57,Pune,"Gym, Business Center",19.32,Presidential Suite,5,4.1,2:00 PM,1:00 PM,Thursday,1,0,94,5020
+Hotel Palm 71,Bangalore,"Gym, Free WiFi, Business Center",5.12,Deluxe,4,4.5,2:00 PM,1:00 PM,Wednesday,0,0,97,5114
+Hotel Horizon 91,Hyderabad,"Spa, Pool, Business Center",2.35,Deluxe,5,4.3,1:00 PM,12:00 PM,Monday,1,1,34,6195
+Hotel Regency 4,Goa,"Spa, Pool, Parking",9.81,Presidential Suite,3,3.7,2:00 PM,1:00 PM,Saturday,1,1,62,3596
+Hotel Euphoria 85,Goa,"Business Center, Free WiFi, Gym, Bar, Spa",1.38,Presidential Suite,5,4.1,1:00 PM,2:00 PM,Sunday,1,0,34,5658
+Hotel Lagoon 38,Delhi,"Bar, Gym, Airport Shuttle",9.26,Executive,4,4.2,1:00 PM,2:00 PM,Wednesday,1,0,26,4513
+Hotel Sunrise 11,Kolkata,"Spa, Parking, Airport Shuttle, Gym, Pool",5.24,Suite,4,3.3,1:00 PM,2:00 PM,Sunday,0,0,70,4783
+Hotel Sapphire 15,Goa,"Pool, Pet Friendly, Free WiFi, Parking, Bar",12.56,Deluxe,4,4.8,1:00 PM,11:00 AM,Sunday,0,1,90,4860
+Hotel Sunrise 13,Goa,"Spa, Free WiFi",7.0,Suite,5,4.6,11:00 AM,11:00 AM,Tuesday,1,0,33,5287
+Hotel Horizon 7,Goa,"Airport Shuttle, Gym",19.71,Standard,3,4.1,2:00 PM,2:00 PM,Tuesday,1,1,30,3860
+Hotel Moonlight 77,Hyderabad,"Bar, Gym, Business Center",10.11,Standard,2,2.7,12:00 PM,11:00 AM,Friday,0,1,85,1867
+Hotel Palm 2,Delhi,"Restaurant, Parking, Gym, Airport Shuttle, Pool",11.09,Deluxe,2,2.7,2:00 PM,12:00 PM,Tuesday,0,1,95,2556
+Hotel Serenity 63,Hyderabad,"Business Center, Pet Friendly, Gym, Bar, Airport Shuttle",10.91,Presidential Suite,4,3.3,11:00 AM,1:00 PM,Saturday,0,0,85,4162
+Hotel Crimson 81,Mumbai,"Bar, Restaurant, Pet Friendly, Gym",1.01,Deluxe,4,4.7,1:00 PM,12:00 PM,Thursday,1,1,89,5145
+Hotel Magnolia 69,Bangalore,"Free WiFi, Bar",19.6,Presidential Suite,2,4.1,11:00 AM,11:00 AM,Monday,1,0,42,2730
+Hotel Grand 47,Delhi,"Business Center, Free WiFi, Pool",12.02,Standard,4,3.3,1:00 PM,1:00 PM,Thursday,0,0,56,4773
+Hotel Vista 52,Pune,"Airport Shuttle, Free WiFi, Bar, Parking",23.86,Suite,2,4.7,12:00 PM,1:00 PM,Sunday,0,1,88,2276
+Hotel Royal 52,Pune,"Free WiFi, Parking, Bar, Airport Shuttle",11.2,Executive,3,3.4,11:00 AM,1:00 PM,Tuesday,1,0,26,3720
+Hotel Regency 54,Goa,"Restaurant, Airport Shuttle, Free WiFi, Pool",14.27,Executive,5,4.9,12:00 PM,2:00 PM,Monday,0,0,25,6011
+Hotel Lagoon 16,Chennai,"Parking, Gym, Restaurant, Bar, Pet Friendly",23.5,Suite,5,3.3,12:00 PM,12:00 PM,Thursday,1,1,50,5486
+Hotel Metro 92,Jaipur,"Pet Friendly, Spa, Parking, Free WiFi",6.68,Deluxe,2,4.8,2:00 PM,2:00 PM,Saturday,0,0,50,2681
+Hotel Heritage 63,Chennai,"Gym, Free WiFi, Pool, Parking",24.55,Deluxe,4,3.1,1:00 PM,2:00 PM,Wednesday,0,1,46,4147
+Hotel Sapphire 25,Chennai,"Restaurant, Free WiFi, Bar, Parking",11.75,Deluxe,4,4.1,1:00 PM,1:00 PM,Sunday,0,1,39,4117
+Hotel Grand 20,Kolkata,"Spa, Pool, Airport Shuttle",19.89,Deluxe,5,2.6,1:00 PM,1:00 PM,Friday,1,0,96,5127
+Hotel Metro 100,Hyderabad,"Free WiFi, Pool",11.35,Presidential Suite,2,4.3,2:00 PM,11:00 AM,Thursday,0,1,85,3015
+Hotel Plaza 53,Delhi,"Pool, Business Center, Pet Friendly, Parking",17.14,Presidential Suite,3,4.1,1:00 PM,1:00 PM,Thursday,1,0,21,3504
+Hotel Euphoria 94,Delhi,"Bar, Parking, Airport Shuttle",19.93,Presidential Suite,5,3.1,12:00 PM,12:00 PM,Friday,1,0,34,5274
+Hotel Heritage 35,Hyderabad,"Spa, Free WiFi",2.02,Suite,3,3.4,1:00 PM,1:00 PM,Sunday,0,1,65,3732
+Hotel Sunrise 17,Ahmedabad,"Parking, Restaurant, Business Center, Airport Shuttle, Gym",4.05,Presidential Suite,3,3.5,2:00 PM,12:00 PM,Sunday,0,0,87,3719
+Hotel Royal 20,Jaipur,"Airport Shuttle, Business Center",21.74,Standard,4,4.4,2:00 PM,11:00 AM,Wednesday,0,1,71,4169
