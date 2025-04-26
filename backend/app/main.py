@@ -10,7 +10,7 @@ import xgboost as xgb
 from sklearn.preprocessing import LabelEncoder
 import requests
 from pytrends.request import TrendReq
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 import random
 import statistics
 
