@@ -43,8 +43,8 @@ const Dashboard = ({ formData, resultData, onBack }) => {
     ],
   };
 
-  const minPrice = Math.min(...resultData.trends.map((t) => t.price));
-  const maxPrice = Math.max(...resultData.trends.map((t) => t.price));
+  const minPrice = resultData?.predictPrice?.predicted_price_range_in_inr?.min;
+  const maxPrice = resultData?.predictPrice?.predicted_price_range_in_inr?.max;
 
   const demandColor =
     resultData.demand_level > 70
@@ -142,7 +142,7 @@ const Dashboard = ({ formData, resultData, onBack }) => {
               <CardBody>
                 <Stat>
                   <StatLabel>📅 Today's Forecasted Price</StatLabel>
-                  <StatNumber>₹{resultData.forecast_price}</StatNumber>
+                  <StatNumber>₹{resultData?.predictToday?.predicted_price_range_in_inr?.max || 'N/A'}</StatNumber>
                 </Stat>
               </CardBody>
             </Card>
