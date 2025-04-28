@@ -34,9 +34,10 @@ def get_base_price(room_type: str) -> int:
     }
     return base_prices.get(room_type, 2800)
 
-# Adjust price based on number of amenities
+# Adjust price based on number of amenities (with more impact)
 def apply_amenities(price: int, amenities: List[str]) -> int:
-    return price + len(amenities) * 100
+    # For example, each amenity now adds ₹150 to the price
+    return price + len(amenities) * 150  # Increased the value per amenity
 
 # Simulated historical pricing data
 def generate_historical_prices(base_price: int, days: int = 7):
@@ -49,12 +50,25 @@ def generate_historical_prices(base_price: int, days: int = 7):
         for i in reversed(range(1, days + 1))
     ]
 
-# Simple trend-based forecast
-def forecast_today(trends: List[dict]) -> int:
+# Simple trend-based forecast (adjusted to ensure price is within range)
+def forecast_today(trends: List[dict], demand_level: int, price_range: tuple) -> int:
     prices = [t["price"] for t in trends]
     trend_factor = (prices[-1] - prices[0]) / len(prices)
+    
+    # Calculate forecasted price
     forecast = int(prices[-1] + trend_factor)
-    return forecast
+    
+    # Ensure forecasted price is within the historical price range
+    forecast = max(min(forecast, price_range[1]), price_range[0])
+    
+    # Adjust forecast based on demand level (e.g., higher demand -> higher price)
+    demand_factor = (demand_level - 50) / 100  # Normalize demand between -0.5 and 0.45
+    adjusted_forecast = int(forecast * (1 + demand_factor))
+    
+    # Ensure the adjusted forecast is still within the price range
+    adjusted_forecast = max(min(adjusted_forecast, price_range[1]), price_range[0])
+    
+    return adjusted_forecast
 
 # Generate varied AI-style recommendations
 def generate_ai_recommendation(location: str, forecast_price: int, room_type: str) -> str:
@@ -71,21 +85,24 @@ def generate_ai_recommendation(location: str, forecast_price: int, room_type: st
 @app.post("/estimate")
 async def estimate_price(data: HotelRequest):
     base = get_base_price(data.roomType)
-    adjusted = apply_amenities(base, data.amenities)
+    adjusted = apply_amenities(base, data.amenities)  # Now with a higher impact of amenities
 
     historical = generate_historical_prices(adjusted)
-    today_forecast = forecast_today(historical)
-
     price_range = (
         min([p["price"] for p in historical]),
         max([p["price"] for p in historical])
     )
+    
+    demand_level = random.randint(30, 95)  # Simulated demand % (30% - 95%)
+
+    # Forecast the price considering the demand level and price range
+    today_forecast = forecast_today(historical, demand_level, price_range)
 
     return {
         "price_range": price_range,
         "trends": historical,
         "forecast_price": today_forecast,
-        "demand_level": random.randint(30, 95),  # Simulated demand %
+        "demand_level": demand_level,  # Include demand level for transparency
         "recommendation": generate_ai_recommendation(
             data.location, today_forecast, data.roomType
         )
