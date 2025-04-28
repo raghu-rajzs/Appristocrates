@@ -16,7 +16,7 @@ import statistics
 
 app = FastAPI()
 
-# CORS config
+# CORS configuration
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173"],
@@ -25,7 +25,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Models
+# Data model for incoming hotel room request
 class HotelRequest(BaseModel):
     location: str
     roomType: str
@@ -33,7 +33,7 @@ class HotelRequest(BaseModel):
     checkOut: int
     amenities: List[str]
 
-# Utils
+# Base price logic
 def get_base_price(room_type: str) -> int:
     base_prices = {
         "Standard": 2200,
@@ -42,9 +42,12 @@ def get_base_price(room_type: str) -> int:
     }
     return base_prices.get(room_type, 2800)
 
+# Adjust price based on number of amenities (with more impact)
 def apply_amenities(price: int, amenities: List[str]) -> int:
-    return price + len(amenities) * 100
+    # For example, each amenity now adds ₹150 to the price
+    return price + len(amenities) * 150  # Increased the value per amenity
 
+# Simulated historical pricing data
 def generate_historical_prices(base_price: int, days: int = 7):
     today = date.today()
     return [
@@ -55,22 +58,53 @@ def generate_historical_prices(base_price: int, days: int = 7):
         for i in reversed(range(1, days + 1))
     ]
 
-def forecast_today(trends: List[dict]) -> int:
+# Simple trend-based forecast (adjusted to ensure price is within range)
+def forecast_today(trends: List[dict], demand_level: int, price_range: tuple) -> int:
     prices = [t["price"] for t in trends]
-    trend_factor = (prices[-1] - prices[0]) / len(prices)  # simple linear trend
+    trend_factor = (prices[-1] - prices[0]) / len(prices)
+    
+    # Calculate forecasted price
     forecast = int(prices[-1] + trend_factor)
-    return forecast
+    
+    # Ensure forecasted price is within the historical price range
+    forecast = max(min(forecast, price_range[1]), price_range[0])
+    
+    # Adjust forecast based on demand level (e.g., higher demand -> higher price)
+    demand_factor = (demand_level - 50) / 100  # Normalize demand between -0.5 and 0.45
+    adjusted_forecast = int(forecast * (1 + demand_factor))
+    
+    # Ensure the adjusted forecast is still within the price range
+    adjusted_forecast = max(min(adjusted_forecast, price_range[1]), price_range[0])
+    
+    return adjusted_forecast
 
-# Routes
+# Generate varied AI-style recommendations
+def generate_ai_recommendation(location: str, forecast_price: int, room_type: str) -> str:
+    templates = [
+        f"📊 Based on current pricing dynamics in {location}, the estimated rate for your {room_type} room today is ₹{forecast_price}. You may consider adjusting slightly based on local competition and room availability.",
+        f"🤖 The AI model suggests a forecasted price of ₹{forecast_price} for a {room_type} room in {location}. Consider monitoring demand and nearby hotel rates before finalizing.",
+        f"💡 Given the trends in {location}, a smart pricing strategy for your {room_type} room would set today's rate at approximately ₹{forecast_price}. Adjustments may be necessary depending on occupancy levels.",
+        f"📈 Our analysis recommends a price of ₹{forecast_price} for your {room_type} room in {location}. Fine-tuning it based on real-time booking trends can help optimize your revenue.",
+        f"🧠 Today’s forecast for {room_type} rooms in {location} is ₹{forecast_price}. For best results, consider this as a baseline and tweak based on seasonality or local events."
+    ]
+    return random.choice(templates)
+
+# API route
 @app.post("/estimate")
 async def estimate_price(data: HotelRequest):
     base = get_base_price(data.roomType)
-    adjusted = apply_amenities(base, data.amenities)
+    adjusted = apply_amenities(base, data.amenities)  # Now with a higher impact of amenities
 
     historical = generate_historical_prices(adjusted)
-    today_forecast = forecast_today(historical)
+    price_range = (
+        min([p["price"] for p in historical]),
+        max([p["price"] for p in historical])
+    )
+    
+    demand_level = random.randint(30, 95)  # Simulated demand % (30% - 95%)
 
-    price_range = (min([p["price"] for p in historical]), max([p["price"] for p in historical]))
+    # Forecast the price considering the demand level and price range
+    today_forecast = forecast_today(historical, demand_level, price_range)
 
     return {
         "price_range": (120, 170),
